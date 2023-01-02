@@ -2,33 +2,34 @@ import requests
 import json
 
 
-#API call to get a list of recipes - namely using this to get a bunch of IDs and names which can join to details
+#API call to get a list of recipes as a JSON object - namely using this to get a bunch of IDs and names which can join to details
 #dumps into Data directory
 
 def callAPI(toRun):
-	if toRun == 0:
-		pass
-	else:
-		url = "https://tasty.p.rapidapi.com/recipes/list"
 
+	#Base URL for the API
+	url = "https://tasty.p.rapidapi.com/recipes/list"
 
-		querystring = {"from":"0","size":"40","tags":"halloween"}
+	#query for the api - change parameters as needed
+	querystring = {"from":"0","size":"40","tags":"halloween"}
 
-		headers = {
-			"X-RapidAPI-Key": "99b6096298mshfeaa3f817596020p162e8cjsnd295cd31f3fe",
-			"X-RapidAPI-Host": "tasty.p.rapidapi.com"
-		}
+	#headers for API call
+	headers = {
+		"X-RapidAPI-Key": "99b6096298mshfeaa3f817596020p162e8cjsnd295cd31f3fe",
+		"X-RapidAPI-Host": "tasty.p.rapidapi.com"
+	}
 
-		response = requests.request("GET", url, headers=headers, params=querystring)
+	#get response, convert to JSON
+	response = requests.request("GET", url, headers=headers, params=querystring)
+	data = response.json()
 
-		data = response.json()
+	#open and store intermedite JSON file
+	with open("/Users/bradadams/Desktop/Python/Recipe Recommender/Data/recipeJSONhalloween.json", 'w', encoding = 'utf-8') as f:
+		json.dump(data, f, ensure_ascii = False, indent=4)
+	f.close()
 
-		with open("/Users/bradadams/Desktop/Python/Recipe Recommender/Data/recipeJSONhalloween.json", 'w', encoding = 'utf-8') as f:
-			json.dump(data, f, ensure_ascii = False, indent=4)
-		f.close()
-
-
-callAPI(1)
+##Driver
+callAPI()
 
 
 

@@ -15,46 +15,38 @@ headers = {
 }
 
 
-
-#recipe list
+#recipe list - has IDs for recipes
 recipeData = pd.read_csv('recipeData.csv')
 
 
 #Holds final data to be exported to CSV
 recipeDataFinal = pd.DataFrame()
 
-
-
+#loop through IDs - call API to get related details and store
 for i in range(len(recipeData['id'])):
 
-
+	#output ID being checked
 	print(recipeData['id'][i].astype('int'))
 
 	#Query parameter for the API call - grab ID here
 	querystring = {"id":recipeData['id'][i].astype('int')}
 	response = requests.request("GET", url, headers=headers, params=querystring)
 
+	#ensure response has data, store if so
 	response.raise_for_status()  # raises exception when not a 2xx response
 	if response.status_code != 204:
    		data = response.json()
 
-
-
-
-
-
 	#holds row-level data to be appended onto dataframe
 	recipeDataDict = {}
 
-	#shtuff
+	#relevant details
 	recipeDataDict['id'] = data['id']
 	recipeDataDict['recipeName'] = data['name']
 	recipeDataDict['cook_time_minutes'] = data['cook_time_minutes']
 	recipeDataDict['prep_time_minutes'] = data['prep_time_minutes']
 	recipeDataDict['total_time_minutes'] = data['total_time_minutes']
 	recipeDataDict['num_servings'] = data['num_servings']
-
-
 
 	#loop through recipe to get ingredients, tags, etc.
 	for key, val in data.items():
@@ -94,14 +86,14 @@ for i in range(len(recipeData['id'])):
 		####
 		####
 
+	#Add current dict of data onto dataframe
 	recipeDataFinal = recipeDataFinal.append(recipeDataDict,ignore_index=True)
 
 	#Wait .5 seconds - ensure program does not exceed rate limit
 	time.sleep(.2)
 	
 
-
-print(recipeDataFinal)
+#send dataframe to CSV file for storage
 recipeDataFinal.to_csv('recipeDataDetailed1.csv',index=False)
 
 
