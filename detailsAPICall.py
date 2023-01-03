@@ -10,7 +10,7 @@ url = "https://tasty.p.rapidapi.com/recipes/get-more-info"
 
 #headers
 headers = {
-	"X-RapidAPI-Key": "99b6096298mshfeaa3f817596020p162e8cjsnd295cd31f3fe",
+	"X-RapidAPI-Key": "",
 	"X-RapidAPI-Host": "tasty.p.rapidapi.com"
 }
 
