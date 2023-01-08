@@ -90,7 +90,6 @@ class tfidEmbeddingVectorizer(object):
 
 
     def docAverageList(self, docs):
-        print("DOCS: ", docs)
         return np.vstack([self.docAverage(doc) for doc in docs])
 
 
@@ -134,10 +133,6 @@ def sortCorpus(row,col):
     sortedCorpus = []
 
     for document in row[col].values:
-
-        print("DOCUMENT:", document)
-        print("DOCUMENT TYPE:", document.dtype)
-        
         document.sort()
         sortedCorpus.append(document)
     return sortedCorpus
@@ -172,7 +167,7 @@ def trainWord2Vec(toTrain, data):
 
 
 #function to create recommendations
-def createRecommendations(userInput, recipeData):
+def createRecommendations(N, userInput, recipeData):
 
     #load in word2vec model
     model = Word2Vec.load("C:/Users/bradl/OneDrive/Desktop/Git/recipeRecommender/model_cbow.bin")
@@ -183,8 +178,6 @@ def createRecommendations(userInput, recipeData):
     #sort corpus before fitting
     corpus = sortCorpus(recipeData, 'cleanedIngredientList')
 
-    print("WEGWEFWEWE", corpus)
-
     tfidf_vec_tr.fit(corpus)
     doc_vec = tfidf_vec_tr.transform(corpus)
     doc_vec = [doc.reshape(1, -1) for doc in doc_vec]
@@ -193,22 +186,16 @@ def createRecommendations(userInput, recipeData):
 
     userInput = userInput.split(",")
 
-    print("USER INPUT:", userInput)
-    print("USER INPUT Type:", userInput.dtype)
-
     #parse input
     userInput = cleanIngredients(userInput)
 
 
     input_embedding = tfidf_vec_tr.transform([userInput])[0].reshape(1, -1)
 
-
-    print("TEST:1231", input_embedding)
-
     cos_sim = map(lambda x: cosine_similarity(input_embedding, x)[0][0], doc_vec)
     scores = list(cos_sim)
 
-    print(getRecommendations(3, scores, recipeData))
+    return getRecommendations(N, scores, recipeData)
 
 
 
@@ -243,15 +230,21 @@ if __name__ == '__main__':
     print('\n\n\n\n\n')
 
     #Read data
-    recipeData = pd.read_csv('recipeDataDetailed1.csv')
+    recipeData = pd.read_pickle('recipeData.pickle')
+    print("DATA:", recipeData)
 
     #initialize empty column
-    recipeData['cleanedIngredientList'] = None
+    #recipeData['cleanedIngredientList'] = None
 
     #remove stopwords
-    for row in range(len(recipeData)):
-        recipeData['cleanedIngredientList'][row] = cleanIngredients(recipeData['ingredient_list'][row])
+    #for row in range(len(recipeData)):
+    #    recipeData['cleanedIngredientList'][row] = cleanIngredients(recipeData['ingredient_list'][row])
 
+
+    import pickle
+
+    #with open('recipeData.pickle','wb') as f:
+    #    pickle.dump(recipeData, f)
 
     #recipeData.to_csv('recipeDataDetailed2.csv')
 
@@ -259,6 +252,6 @@ if __name__ == '__main__':
     trainWord2Vec(0, recipeData)
 
 
-    createRecommendations('holiday sprinkles, cream cheese, gingerbread',recipeData)
+    createRecommendations(5, 'holiday sprinkles, cream cheese, gingerbread',recipeData)
 
 

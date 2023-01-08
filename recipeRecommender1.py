@@ -2,6 +2,8 @@
 
 #This file will be used to actually create a recommender based off the recipe data
 
+import pickle
+
 import pandas as pd
 import numpy as np
 from time import time
@@ -39,12 +41,13 @@ class tfidEmbeddingVectorizer(object):
 
         #loop through inputted documents, append recipe onto the textDocs list as a single long string
         #needed to create the embeddings - TfIDF works with single elements
-        for doc in documents:
+        for doc in documents['cleanedIngredientList']:
+            try:
+                doc = ast.literal_eval(doc)
+            except ValueError:
+                pass
+
             textDocs.append(" ".join(doc))
-
-
-        print("SDHSHGSTA", textDocs)
-
 
         #tfidf vectorizer
         #opted for this as it will have more weight for the "rarer" ingredients - not garlic, salt, etc.
@@ -79,6 +82,7 @@ class tfidEmbeddingVectorizer(object):
 
         #loop through words in a given document
         for word in document:
+
             if word in self.model.wv.index_to_key:
                 mean.append(
                     self.model.wv.get_vector(word) * self.wordIdfWeight[word]
@@ -137,7 +141,7 @@ def sortCorpus(row,col):
 
         print("DOCUMENT:", document)
         print("DOCUMENT TYPE:", document.dtype)
-        
+
         document.sort()
         sortedCorpus.append(document)
     return sortedCorpus
@@ -174,6 +178,7 @@ def trainWord2Vec(toTrain, data):
 #function to create recommendations
 def createRecommendations(userInput, recipeData):
 
+
     #load in word2vec model
     model = Word2Vec.load("C:/Users/bradl/OneDrive/Desktop/Git/recipeRecommender/model_cbow.bin")
 
@@ -183,27 +188,21 @@ def createRecommendations(userInput, recipeData):
     #sort corpus before fitting
     corpus = sortCorpus(recipeData, 'cleanedIngredientList')
 
-    print("WEGWEFWEWE", corpus)
+    #print(recipeData)
 
-    tfidf_vec_tr.fit(corpus)
-    doc_vec = tfidf_vec_tr.transform(corpus)
+    tfidf_vec_tr.fit(recipeData)
+    doc_vec = tfidf_vec_tr.transform(recipeData)
     doc_vec = [doc.reshape(1, -1) for doc in doc_vec]
-    assert len(doc_vec) == len(corpus)
 
 
-    userInput = userInput.split(",")
+    #userInput = userInput.split(",")
 
-    print("USER INPUT:", userInput)
-    print("USER INPUT Type:", userInput.dtype)
+    #print("TWHTWRTHRWT", userInput)
 
     #parse input
     userInput = cleanIngredients(userInput)
 
-
-    input_embedding = tfidf_vec_tr.transform([userInput])[0].reshape(1, -1)
-
-
-    print("TEST:1231", input_embedding)
+    input_embedding = tfidf_vec_tr.transform([userInput]).reshape(1, -1)
 
     cos_sim = map(lambda x: cosine_similarity(input_embedding, x)[0][0], doc_vec)
     scores = list(cos_sim)
@@ -243,14 +242,17 @@ if __name__ == '__main__':
     print('\n\n\n\n\n')
 
     #Read data
-    recipeData = pd.read_csv('recipeDataDetailed1.csv')
+    recipeData = pd.read_csv('recipeDataDetailed2.csv')
+
+
+    recipeData['cleanedIngredientList'] = ast.literal_eval(recipeData['cleanedIngredientList'])
 
     #initialize empty column
-    recipeData['cleanedIngredientList'] = None
+    #recipeData['cleanedIngredientList'] = None
 
     #remove stopwords
-    for row in range(len(recipeData)):
-        recipeData['cleanedIngredientList'][row] = cleanIngredients(recipeData['ingredient_list'][row])
+    #for row in range(len(recipeData)):
+    #    recipeData['cleanedIngredientList'][row] = cleanIngredients(recipeData['ingredient_list'][row])
 
 
     #recipeData.to_csv('recipeDataDetailed2.csv')
@@ -259,6 +261,6 @@ if __name__ == '__main__':
     trainWord2Vec(0, recipeData)
 
 
-    createRecommendations('holiday sprinkles, cream cheese, gingerbread',recipeData)
+    createRecommendations(['holiday sprinkles, cream cheese, gingerbread'],recipeData)
 
 
