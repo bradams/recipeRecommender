@@ -2,6 +2,7 @@ import requests
 import json 
 import pandas as pd
 import time
+import pickle
 
 #Details API call to get the actual information for each recipe. ingredients, etc.
 
@@ -47,6 +48,7 @@ for i in range(len(recipeData['id'])):
 	recipeDataDict['prep_time_minutes'] = data['prep_time_minutes']
 	recipeDataDict['total_time_minutes'] = data['total_time_minutes']
 	recipeDataDict['num_servings'] = data['num_servings']
+	recipeDataDict['videoURL'] = data['original_video_url']
 
 	#loop through recipe to get ingredients, tags, etc.
 	for key, val in data.items():
@@ -81,19 +83,30 @@ for i in range(len(recipeData['id'])):
 
 
 
-		#DIRECTIONS
-		####
-		####
-		####
+
+		if key == 'instructions':
+
+			instructionList = []
+
+			for i in range(len(val)):
+
+				#Get step # and instruction for that step
+				instructionList.append(str(val[i]['position']) + " - " + val[i]['display_text'])
+
+
+			recipeDataDict['instructions'] = instructionList
+
+
 
 	#Add current dict of data onto dataframe
 	recipeDataFinal = recipeDataFinal.append(recipeDataDict,ignore_index=True)
 
 	#Wait .5 seconds - ensure program does not exceed rate limit
-	time.sleep(.2)
+	time.sleep(.5)
 	
 
-#send dataframe to CSV file for storage
-recipeDataFinal.to_csv('recipeDataDetailed1.csv',index=False)
 
+#send dataframe to CSV file for storage
+with open('recipeDataDetailed.pickle','wb') as f:
+    pickle.dump(recipeDataFinal, f)
 

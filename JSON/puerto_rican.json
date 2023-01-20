@@ -1,0 +1,3721 @@
+{
+    "count": 4,
+    "results": [
+        {
+            "keywords": "",
+            "inspired_by_url": null,
+            "servings_noun_plural": "servings",
+            "topics": [
+                {
+                    "name": "Best Vegetarian",
+                    "slug": "best-vegetarian"
+                },
+                {
+                    "name": "Latinx Heritage Month",
+                    "slug": "latinx-heritage-month"
+                },
+                {
+                    "slug": "snacks",
+                    "name": "Snacks"
+                },
+                {
+                    "name": "Pasta",
+                    "slug": "pasta"
+                }
+            ],
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/7ebae1c29ab34bc0840493dc75ed1a11/BFV84269_TastyStoryWithVictorRamos_SO_100621_V9_OO_V3.mp4",
+            "facebook_posts": [],
+            "buzz_id": null,
+            "is_one_top": false,
+            "video_id": 143844,
+            "prep_time_minutes": 12,
+            "brand_id": null,
+            "tips_and_ratings_enabled": true,
+            "description": "Mac and cheese gets a makeover in this corn-infused recipe! Corn, shallot, and garlic-infused milk and half-and-half are mixed with a blend of four cheeses to make a creamy queso blanco sauce. The sauce is poured over pasta shells and buttery corn kernels, then baked with a chicharrones topping for crunch.",
+            "total_time_minutes": 112,
+            "credits": [
+                {
+                    "type": "internal",
+                    "name": "Tikeyah Whittle"
+                }
+            ],
+            "canonical_id": "recipe:7856",
+            "user_ratings": {
+                "count_negative": 1,
+                "count_positive": 3,
+                "score": 0.75
+            },
+            "id": 7856,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "8 tablespoons (1 stick) unsalted butter, divided, plus more for greasing",
+                            "extra_comment": "divided, plus more for greasing",
+                            "ingredient": {
+                                "created_at": 1494806355,
+                                "display_plural": "unsalted butters",
+                                "id": 291,
+                                "display_singular": "unsalted butter",
+                                "updated_at": 1509035272,
+                                "name": "unsalted butter"
+                            },
+                            "id": 88715,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "stick",
+                                        "system": "none",
+                                        "name": "stick",
+                                        "display_plural": "sticks",
+                                        "display_singular": "stick"
+                                    },
+                                    "quantity": "1",
+                                    "id": 663999
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            },
+                            "id": 88716,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 663998
+                                }
+                            ],
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    },
+                                    "quantity": "1",
+                                    "id": 664003
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "425",
+                                    "id": 664001
+                                }
+                            ],
+                            "raw_text": "1 pound dried pasta shells",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1634215565,
+                                "name": "dried pasta shells",
+                                "created_at": 1634215565,
+                                "display_plural": "dried pasta shells",
+                                "id": 9154,
+                                "display_singular": "dried pasta shell"
+                            },
+                            "id": 88717,
+                            "position": 3
+                        },
+                        {
+                            "raw_text": "7 ears of corn, shucked",
+                            "extra_comment": "shucked",
+                            "ingredient": {
+                                "updated_at": 1509035266,
+                                "name": "corn",
+                                "created_at": 1494974377,
+                                "display_plural": "corns",
+                                "id": 371,
+                                "display_singular": "corn"
+                            },
+                            "id": 88718,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "ear",
+                                        "display_plural": "ears",
+                                        "display_singular": "ear",
+                                        "abbreviation": "ear"
+                                    },
+                                    "quantity": "7",
+                                    "id": 664007
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2 cups whole milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1495732941,
+                                "display_plural": "whole milks",
+                                "id": 770,
+                                "display_singular": "whole milk",
+                                "updated_at": 1509035235,
+                                "name": "whole milk"
+                            },
+                            "id": 88719,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "id": 664008,
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "2"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "480",
+                                    "id": 664005
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2 cups half-and-half",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "half & half",
+                                "updated_at": 1509035255,
+                                "name": "half & half",
+                                "created_at": 1495157177,
+                                "display_plural": "half & halves",
+                                "id": 510
+                            },
+                            "id": 88720,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "2",
+                                    "id": 664011
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "480",
+                                    "id": 664009
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2 heads of garlic, halved crosswise",
+                            "extra_comment": "halved crosswise",
+                            "ingredient": {
+                                "created_at": 1493744766,
+                                "display_plural": "garlics",
+                                "id": 95,
+                                "display_singular": "garlic",
+                                "updated_at": 1509035285,
+                                "name": "garlic"
+                            },
+                            "id": 88721,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "head",
+                                        "display_plural": "heads",
+                                        "display_singular": "head",
+                                        "abbreviation": "head"
+                                    },
+                                    "quantity": "2",
+                                    "id": 664006
+                                }
+                            ]
+                        },
+                        {
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "id": 664017,
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "2"
+                                }
+                            ],
+                            "raw_text": "2 shallots, peeled",
+                            "extra_comment": "peeled",
+                            "ingredient": {
+                                "display_singular": "shallot",
+                                "updated_at": 1509035111,
+                                "name": "shallot",
+                                "created_at": 1501605439,
+                                "display_plural": "shallots",
+                                "id": 2753
+                            },
+                            "id": 88722
+                        },
+                        {
+                            "ingredient": {
+                                "display_singular": "shredded mozzarella cheese",
+                                "updated_at": 1509035282,
+                                "name": "shredded mozzarella cheese",
+                                "created_at": 1493925751,
+                                "display_plural": "shredded mozzarella cheeses",
+                                "id": 169
+                            },
+                            "id": 88723,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "5",
+                                    "id": 664004
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "140",
+                                    "id": 664002
+                                }
+                            ],
+                            "raw_text": "5 ounces shredded mozzarella cheese",
+                            "extra_comment": ""
+                        },
+                        {
+                            "id": 88724,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "5",
+                                    "id": 664021
+                                },
+                                {
+                                    "id": 664019,
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "140"
+                                }
+                            ],
+                            "raw_text": "5 ounces shredded Gruyère cheese",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "shredded gruyère cheeses",
+                                "id": 4099,
+                                "display_singular": "shredded gruyère cheese",
+                                "updated_at": 1526415466,
+                                "name": "shredded gruyère cheese",
+                                "created_at": 1526415466
+                            }
+                        },
+                        {
+                            "raw_text": "5 ounces shredded white cheddar cheese",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1501344505,
+                                "display_plural": "shredded white cheddars",
+                                "id": 2694,
+                                "display_singular": "shredded white cheddar",
+                                "updated_at": 1509035116,
+                                "name": "shredded white cheddar"
+                            },
+                            "id": 88725,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz"
+                                    },
+                                    "quantity": "5",
+                                    "id": 664015
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "140",
+                                    "id": 664013
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "5 ounces shredded Monterey Jack cheese",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1495153408,
+                                "display_plural": "shredded monterey jack cheeses",
+                                "id": 495,
+                                "display_singular": "shredded monterey jack cheese",
+                                "updated_at": 1509035256,
+                                "name": "shredded monterey jack cheese"
+                            },
+                            "id": 88726,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "id": 664012,
+                                    "unit": {
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz"
+                                    },
+                                    "quantity": "5"
+                                },
+                                {
+                                    "quantity": "140",
+                                    "id": 664010,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2 tablespoons all-purpose flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "all purpose flours",
+                                "id": 3393,
+                                "display_singular": "all purpose flour",
+                                "updated_at": 1513187920,
+                                "name": "all purpose flour",
+                                "created_at": 1513187920
+                            },
+                            "id": 88727,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2",
+                                    "id": 664016
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "½ tablespoon ground white pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 5208,
+                                "display_singular": "ground white pepper",
+                                "updated_at": 1552672625,
+                                "name": "ground white pepper",
+                                "created_at": 1552672625,
+                                "display_plural": "ground white peppers"
+                            },
+                            "id": 88728,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "½",
+                                    "id": 664000
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2 ounces chicharrones",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1538336117,
+                                "display_plural": "chicharrónes",
+                                "id": 4761,
+                                "display_singular": "chicharróne",
+                                "updated_at": 1538336117,
+                                "name": "chicharrónes"
+                            },
+                            "id": 88729,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "id": 664018,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "2"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "30",
+                                    "id": 664014
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 664020
+                                }
+                            ],
+                            "raw_text": "Finely chopped fresh parsley, for garnish",
+                            "extra_comment": "for garnish, finely chopped",
+                            "ingredient": {
+                                "display_plural": "fresh parsleys",
+                                "id": 154,
+                                "display_singular": "fresh parsley",
+                                "updated_at": 1509035283,
+                                "name": "fresh parsley",
+                                "created_at": 1493906396
+                            },
+                            "id": 88730,
+                            "position": 16
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "num_servings": 8,
+            "beauty_url": null,
+            "yields": "Servings: 8",
+            "video_url": "https://vid.tasty.co/output/219002/hls24_1634168962.m3u8",
+            "promotion": "full",
+            "language": "eng",
+            "slug": "queso-blanco-mac-n-cheese-with-corn-and-chicharrones-as-made-by-victor-ramos",
+            "tags": [
+                {
+                    "type": "appliance",
+                    "name": "oven",
+                    "id": 65846,
+                    "display_name": "Oven"
+                },
+                {
+                    "type": "appliance",
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top"
+                },
+                {
+                    "name": "big_batch",
+                    "id": 65851,
+                    "display_name": "Big Batch",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "food_processor",
+                    "id": 65842,
+                    "display_name": "Food Processor",
+                    "type": "appliance"
+                },
+                {
+                    "name": "baking_pan",
+                    "id": 1280500,
+                    "display_name": "Baking Pan",
+                    "type": "equipment"
+                },
+                {
+                    "id": 6953050,
+                    "display_name": "Puerto Rican",
+                    "type": "cuisine",
+                    "name": "puerto_rican"
+                },
+                {
+                    "display_name": "Blender",
+                    "type": "appliance",
+                    "name": "blender",
+                    "id": 65838
+                },
+                {
+                    "name": "dominican",
+                    "id": 6953047,
+                    "display_name": "Dominican",
+                    "type": "cuisine"
+                },
+                {
+                    "display_name": "Latin American",
+                    "type": "cuisine",
+                    "name": "latin_american",
+                    "id": 64456
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board"
+                },
+                {
+                    "name": "saute_pan",
+                    "id": 1247787,
+                    "display_name": "Saute Pan",
+                    "type": "equipment"
+                },
+                {
+                    "name": "spatula",
+                    "id": 1247788,
+                    "display_name": "Spatula",
+                    "type": "equipment"
+                },
+                {
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex",
+                    "type": "equipment"
+                },
+                {
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment"
+                },
+                {
+                    "id": 7145248,
+                    "display_name": "Latinx Heritage Month",
+                    "type": "holiday",
+                    "name": "latinx_heritage_month"
+                },
+                {
+                    "type": "equipment",
+                    "name": "strainer",
+                    "id": 1247789,
+                    "display_name": "Strainer"
+                },
+                {
+                    "name": "sides",
+                    "id": 64490,
+                    "display_name": "Sides",
+                    "type": "meal"
+                },
+                {
+                    "display_name": "Bake",
+                    "type": "cooking_style",
+                    "name": "bake",
+                    "id": 64492
+                },
+                {
+                    "id": 64491,
+                    "display_name": "Snacks",
+                    "type": "meal",
+                    "name": "snacks"
+                },
+                {
+                    "id": 1247794,
+                    "display_name": "Wooden Spoon",
+                    "type": "equipment",
+                    "name": "wooden_spoon"
+                },
+                {
+                    "type": "equipment",
+                    "name": "whisk",
+                    "id": 1247793,
+                    "display_name": "Whisk"
+                },
+                {
+                    "type": "occasion",
+                    "name": "special_occasion",
+                    "id": 188967,
+                    "display_name": "Special Occasion"
+                },
+                {
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein",
+                    "type": "healthy"
+                },
+                {
+                    "name": "high_fiber",
+                    "id": 8091920,
+                    "display_name": "High-Fiber",
+                    "type": "healthy"
+                },
+                {
+                    "name": "vegetarian",
+                    "id": 64469,
+                    "display_name": "Vegetarian",
+                    "type": "dietary"
+                }
+            ],
+            "nutrition": {
+                "protein": 37,
+                "fat": 39,
+                "calories": 804,
+                "sugar": 13,
+                "carbohydrates": 79,
+                "fiber": 5,
+                "updated_at": "2022-10-01T08:02:01+02:00"
+            },
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "created_at": 1634168612,
+            "seo_title": "",
+            "nutrition_visibility": "auto",
+            "price": {
+                "total": 12650,
+                "updated_at": "2023-01-17T06:28:56+01:00",
+                "portion": 1600,
+                "consumption_total": 12050,
+                "consumption_portion": 1500
+            },
+            "brand": null,
+            "servings_noun_singular": "serving",
+            "draft_status": "published",
+            "is_shoppable": true,
+            "aspect_ratio": "1:1",
+            "approved_at": 1634232774,
+            "total_time_tier": {
+                "tier": "under_2_hours",
+                "display_tier": "Under 2 hours"
+            },
+            "video_ad_content": "none",
+            "thumbnail_alt_text": "",
+            "updated_at": 1634232775,
+            "country": "US",
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": "oven",
+                    "end_time": 0,
+                    "temperature": 350,
+                    "id": 68550,
+                    "position": 1,
+                    "display_text": "Preheat the oven to 350°F (180°C). Grease a 9x 13 x 2-inch baking dish with butter."
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 68551,
+                    "position": 2,
+                    "display_text": "Bring a large pot of salted water to a boil. Add the shells and cook until nearly al dente, then drain."
+                },
+                {
+                    "start_time": 5000,
+                    "appliance": null,
+                    "end_time": 27333,
+                    "temperature": null,
+                    "id": 68552,
+                    "position": 3,
+                    "display_text": "Stand an ear of corn upright on a cutting board and run a knife down the side to cut the kernels off. Repeat with the remaining ears. Set the kernels aside."
+                },
+                {
+                    "position": 4,
+                    "display_text": "Add the corn cobs to a 4-quart pot with the milk, half-and-half, garlic, and shallots. Bring to a simmer over medium-low heat and cook for 20 minutes to infuse. Remove the pot from the heat, strain through a fine-mesh sieve into a large bowl, and discard the solids. Let cool for 10 minutes. Rinse out the pot.",
+                    "start_time": 30000,
+                    "appliance": null,
+                    "end_time": 41000,
+                    "temperature": null,
+                    "id": 68553
+                },
+                {
+                    "appliance": null,
+                    "end_time": 81666,
+                    "temperature": null,
+                    "id": 68554,
+                    "position": 5,
+                    "display_text": "Melt the 6 tablespoons of butter in the same pot over medium heat. Add the corn kernels and sauté until beginning to caramelize, 3–4 minutes. Remove ½ cup of corn and set aside. Add the corn-infused milk mixture and a pinch of salt and cook for another minute, until starting to bubble and thicken slightly.",
+                    "start_time": 61000
+                },
+                {
+                    "id": 68555,
+                    "position": 6,
+                    "display_text": "Transfer the corn mixture to a blender and blend until smooth. Strain through a fine-mesh sieve into a clean large bowl, using a wooden spoon to extract as much liquid as possible from the corn pulp. Rinse out the pot.",
+                    "start_time": 83000,
+                    "appliance": null,
+                    "end_time": 92166,
+                    "temperature": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 108666,
+                    "temperature": null,
+                    "id": 68556,
+                    "position": 7,
+                    "display_text": "In a medium bowl, combine the mozzarella, Gruyère, white cheddar, and Monterey Jack cheeses and mix well.",
+                    "start_time": 102000
+                },
+                {
+                    "appliance": null,
+                    "end_time": 139500,
+                    "temperature": null,
+                    "id": 68557,
+                    "position": 8,
+                    "display_text": "Add the remaining 2 tablespoons butter and the flour to the pot. Cook over medium-low heat, whisking constantly, until the roux is light golden, 1–2 minutes. Add the corn cream and cook, whisking frequently, until thickened slightly, 3–5 minutes.. Gradually add 1¾ cups of the cheese mixture and whisk until smooth. Season with the white pepper and remove the pot from the heat.",
+                    "start_time": 110000
+                },
+                {
+                    "end_time": 155500,
+                    "temperature": null,
+                    "id": 68558,
+                    "position": 9,
+                    "display_text": "Add the chicharrones to a food processor or blender. Process until broken down into coarse crumbs.",
+                    "start_time": 148000,
+                    "appliance": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 190333,
+                    "temperature": null,
+                    "id": 68559,
+                    "position": 10,
+                    "display_text": "Add the cooked pasta shells to the prepared baking dish and pour the cheese sauce on top. Add the reserved corn kernels and half of the remaining cheese mix, then stir well to combine. Top with the remaining cheese mix and the chicharron crumbs.",
+                    "start_time": 157000
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 68560,
+                    "position": 11,
+                    "display_text": "Bake the mac ‘n’ cheese for 25 minutes. Turn the oven to broil and cook for another 5 minutes, until the top of the mac ‘n’ cheese is crispy. Let rest for at least 5 minutes.",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "start_time": 197000,
+                    "appliance": null,
+                    "end_time": 206833,
+                    "temperature": null,
+                    "id": 68561,
+                    "position": 12,
+                    "display_text": "Garnish the mac ‘n’ cheese with the parsley, then serve."
+                },
+                {
+                    "start_time": 209666,
+                    "appliance": null,
+                    "end_time": 211000,
+                    "temperature": null,
+                    "id": 68562,
+                    "position": 13,
+                    "display_text": "Enjoy!"
+                }
+            ],
+            "show_id": 17,
+            "name": "Queso Blanco Mac ‘N’ Cheese With Corn And Chicharrones As Made By Victor Ramos",
+            "compilations": [],
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/347190.jpg",
+            "renditions": [
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/219002/square_720/1634168962_00001.png",
+                    "file_size": 44937762,
+                    "duration": 215621,
+                    "bit_rate": 1668,
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "container": "mp4",
+                    "height": 720,
+                    "maximum_bit_rate": null,
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "url": "https://vid.tasty.co/output/219002/square_720/1634168962"
+                },
+                {
+                    "name": "mp4_320x320",
+                    "maximum_bit_rate": null,
+                    "height": 320,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/219002/square_320/1634168962_00001.png",
+                    "file_size": 16230871,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "url": "https://vid.tasty.co/output/219002/square_320/1634168962",
+                    "duration": 215621,
+                    "bit_rate": 603,
+                    "width": 320,
+                    "minimum_bit_rate": null
+                },
+                {
+                    "url": "https://vid.tasty.co/output/219002/landscape_720/1634168962",
+                    "bit_rate": 1668,
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/219002/landscape_720/1634168962_00001.png",
+                    "file_size": 44939301,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "duration": 215621,
+                    "content_type": "video/mp4",
+                    "aspect": "square"
+                },
+                {
+                    "bit_rate": 981,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_480x480",
+                    "height": 480,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/219002/landscape_480/1634168962_00001.png",
+                    "file_size": 26419259,
+                    "duration": 215621,
+                    "maximum_bit_rate": null,
+                    "url": "https://vid.tasty.co/output/219002/landscape_480/1634168962",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 480
+                },
+                {
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080,
+                    "container": "ts",
+                    "url": "https://vid.tasty.co/output/219002/hls24_1634168962.m3u8",
+                    "bit_rate": null,
+                    "minimum_bit_rate": 275,
+                    "name": "low",
+                    "maximum_bit_rate": 2909,
+                    "height": 1080,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/219002/1445289064805-h2exzu/1634168962_00001.png",
+                    "file_size": null,
+                    "duration": 215633
+                }
+            ],
+            "cook_time_minutes": 100
+        },
+        {
+            "updated_at": 1629129745,
+            "credits": [
+                {
+                    "name": "Jeremie Serrano",
+                    "type": "community"
+                }
+            ],
+            "nutrition_visibility": "auto",
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67377,
+                    "position": 1,
+                    "display_text": "Make the caldo de “pollo”: In a large pot, melt the vegan butter over medium-high heat. Add the onion and garlic paste and sauté until fragrant, 2–3 minutes. Add the vegetable stock and bouillon cube and bring to a boil. Once the bouillon cube has dissolved, reduce the heat to low, add the bay leaves, and season with salt and the pepper. Simmer for 15–20 minutes, until the flavors marry."
+                },
+                {
+                    "position": 2,
+                    "display_text": "Meanwhile, make the mojo: Dice the onion and red and green bell pepper. Transfer to a medium container with a lid and add the garlic paste, cilantro, and olive oil and season with salt and pepper. Stir to combine. Cover and refrigerate until ready to serve.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67378
+                },
+                {
+                    "display_text": "Make the mofongo: In a large, high-walled pan, heat the oil over medium-high heat until shimmering. Working in batches, add the plantain pieces to the hot oil and fry for 3–4 minutes, until golden brown on all sides. Transfer to a paper towel-lined plate to drain.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67379,
+                    "position": 3
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67380,
+                    "position": 4,
+                    "display_text": "Add a few pieces of fried plantain, some vegan butter, and garlic paste, to a mortar. Mash with the pestle until smooth, adding 1 tablespoon at a time of the caldo until the desired consistency is reached. Season to taste with adobo seasoning. Repeat with the remaining plantains."
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67381,
+                    "position": 5,
+                    "display_text": "Use your hands or rubber spatula to shape the mofongo into roughly 1-cup mounds.",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67382,
+                    "position": 6,
+                    "display_text": "Top the mofongo with the mojo and serve immediately with the hot caldo alongside.",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 67383,
+                    "position": 7,
+                    "display_text": "Enjoy!"
+                }
+            ],
+            "show_id": 17,
+            "original_video_url": null,
+            "promotion": "full",
+            "name": "Vegan Mofongo En Caldo As Made By Jeremie Serrano",
+            "buzz_id": null,
+            "draft_status": "published",
+            "servings_noun_plural": "servings",
+            "renditions": [],
+            "is_shoppable": true,
+            "canonical_id": "recipe:7705",
+            "price": {
+                "total": 5550,
+                "updated_at": "2023-01-17T06:28:24+01:00",
+                "portion": 1400,
+                "consumption_total": 1600,
+                "consumption_portion": 400
+            },
+            "thumbnail_alt_text": "",
+            "approved_at": 1629129744,
+            "nutrition": {},
+            "compilations": [],
+            "num_servings": 4,
+            "tips_and_ratings_enabled": true,
+            "aspect_ratio": "16:9",
+            "keywords": "",
+            "user_ratings": {
+                "count_positive": 2,
+                "score": 1,
+                "count_negative": 0
+            },
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "2 tablespoons vegan butter",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035241,
+                                "name": "vegan butter",
+                                "created_at": 1495590611,
+                                "display_plural": "vegan butters",
+                                "id": 685,
+                                "display_singular": "vegan butter"
+                            },
+                            "id": 86769,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "quantity": "2",
+                                    "id": 654876,
+                                    "unit": {
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "id": 654877,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "½"
+                                }
+                            ],
+                            "raw_text": "½ small white onion, diced",
+                            "extra_comment": "diced",
+                            "ingredient": {
+                                "display_plural": "small white onions",
+                                "id": 904,
+                                "display_singular": "small white onion",
+                                "updated_at": 1509035223,
+                                "name": "small white onion",
+                                "created_at": 1496013057
+                            },
+                            "id": 86770
+                        },
+                        {
+                            "raw_text": "1 tablespoon garlic paste",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "garlic paste",
+                                "updated_at": 1509035207,
+                                "name": "garlic paste",
+                                "created_at": 1496348953,
+                                "display_plural": "garlic pastes",
+                                "id": 1118
+                            },
+                            "id": 86771,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "id": 654890,
+                                    "unit": {
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "32 ounces low-sodium vegetable broth",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 4466,
+                                "display_singular": "low sodium vegetable broth",
+                                "updated_at": 1531111015,
+                                "name": "low sodium vegetable broth",
+                                "created_at": 1531111015,
+                                "display_plural": "low sodium vegetable broths"
+                            },
+                            "id": 86772,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "32",
+                                    "id": 654882
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "940",
+                                    "id": 654878
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "1",
+                                    "id": 654880
+                                }
+                            ],
+                            "raw_text": "1 vegan chicken-flavored or vegetable bouillon cube",
+                            "extra_comment": "vegetable bouillon cube",
+                            "ingredient": {
+                                "updated_at": 1628772842,
+                                "name": "vegan chicken-flavored",
+                                "created_at": 1628772842,
+                                "display_plural": "vegan chicken-flavoreds",
+                                "id": 8925,
+                                "display_singular": "vegan chicken-flavored"
+                            },
+                            "id": 86773,
+                            "position": 6
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035283,
+                                "name": "bay leaf",
+                                "created_at": 1493906382,
+                                "display_plural": "bay leaves",
+                                "id": 153,
+                                "display_singular": "bay leaf"
+                            },
+                            "id": 86774,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 654885
+                                }
+                            ],
+                            "raw_text": "2–3 bay leaves"
+                        },
+                        {
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 654879
+                                }
+                            ],
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt",
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153
+                            },
+                            "id": 86775
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438,
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper"
+                            },
+                            "id": 86776,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "½",
+                                    "id": 654899
+                                }
+                            ],
+                            "raw_text": "½ tablespoon freshly ground black pepper",
+                            "extra_comment": ""
+                        }
+                    ],
+                    "name": "Caldo de “Pollo”",
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "½",
+                                    "id": 654884
+                                }
+                            ],
+                            "raw_text": "½ small white onion",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035223,
+                                "name": "small white onion",
+                                "created_at": 1496013057,
+                                "display_plural": "small white onions",
+                                "id": 904,
+                                "display_singular": "small white onion"
+                            },
+                            "id": 86778
+                        },
+                        {
+                            "raw_text": "½ red bell pepper, seeded",
+                            "extra_comment": "seeded",
+                            "ingredient": {
+                                "name": "red bell pepper",
+                                "created_at": 1494292131,
+                                "display_plural": "red bell peppers",
+                                "id": 227,
+                                "display_singular": "red bell pepper",
+                                "updated_at": 1509035277
+                            },
+                            "id": 86779,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "½",
+                                    "id": 654881
+                                }
+                            ]
+                        },
+                        {
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "id": 654888,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "½"
+                                }
+                            ],
+                            "raw_text": "½ green bell pepper, seeded",
+                            "extra_comment": "seeded",
+                            "ingredient": {
+                                "updated_at": 1509035277,
+                                "name": "green bell pepper",
+                                "created_at": 1494292187,
+                                "display_plural": "green bell peppers",
+                                "id": 228,
+                                "display_singular": "green bell pepper"
+                            },
+                            "id": 86780
+                        },
+                        {
+                            "raw_text": "1 teaspoon garlic  paste",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "garlic paste",
+                                "created_at": 1496348953,
+                                "display_plural": "garlic pastes",
+                                "id": 1118,
+                                "display_singular": "garlic paste",
+                                "updated_at": 1509035207
+                            },
+                            "id": 86781,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "id": 654895,
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 86782,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "sprig",
+                                        "system": "none",
+                                        "name": "sprig",
+                                        "display_plural": "sprigs",
+                                        "display_singular": "sprig"
+                                    },
+                                    "quantity": "4",
+                                    "id": 654893
+                                }
+                            ],
+                            "raw_text": "4 sprigs of fresh cilantro, torn",
+                            "extra_comment": "torn",
+                            "ingredient": {
+                                "name": "fresh cilantro",
+                                "created_at": 1494974463,
+                                "display_plural": "fresh cilantros",
+                                "id": 372,
+                                "display_singular": "fresh cilantro",
+                                "updated_at": 1509035266
+                            }
+                        },
+                        {
+                            "ingredient": {
+                                "display_singular": "olive oil",
+                                "updated_at": 1509035290,
+                                "name": "olive oil",
+                                "created_at": 1493306183,
+                                "display_plural": "olive oils",
+                                "id": 4
+                            },
+                            "id": 86783,
+                            "position": 16,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1",
+                                    "id": 654894
+                                },
+                                {
+                                    "unit": {
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "240",
+                                    "id": 654892
+                                }
+                            ],
+                            "raw_text": "1 cup olive oil",
+                            "extra_comment": ""
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            },
+                            "id": 86784,
+                            "position": 17,
+                            "measurements": [
+                                {
+                                    "id": 654898,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0"
+                                }
+                            ],
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste"
+                        },
+                        {
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "display_singular": "black pepper",
+                                "updated_at": 1509035289,
+                                "name": "black pepper",
+                                "created_at": 1493307183,
+                                "display_plural": "black peppers",
+                                "id": 12
+                            },
+                            "id": 86785,
+                            "position": 18,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 654889
+                                }
+                            ],
+                            "raw_text": "Black pepper, to taste"
+                        }
+                    ],
+                    "name": "Mojo",
+                    "position": 2
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "4 cups neutral oil, such as canola, for frying",
+                            "extra_comment": "such as canola for frying",
+                            "ingredient": {
+                                "created_at": 1506802368,
+                                "display_plural": "neutral oils",
+                                "id": 3049,
+                                "display_singular": "neutral oil",
+                                "updated_at": 1509035091,
+                                "name": "neutral oil"
+                            },
+                            "id": 86787,
+                            "position": 20,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "4",
+                                    "id": 654887
+                                },
+                                {
+                                    "id": 654886,
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "960"
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "4",
+                                    "id": 654900
+                                }
+                            ],
+                            "raw_text": "4–6 green plantains, cut into 1-inch pieces",
+                            "extra_comment": "cut into 1 (2.54 cm)",
+                            "ingredient": {
+                                "created_at": 1499973187,
+                                "display_plural": "green plantains",
+                                "id": 2068,
+                                "display_singular": "green plantain",
+                                "updated_at": 1509035146,
+                                "name": "green plantain"
+                            },
+                            "id": 86788,
+                            "position": 21
+                        },
+                        {
+                            "id": 86789,
+                            "position": 22,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 654883
+                                }
+                            ],
+                            "raw_text": "Vegan butter, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "updated_at": 1509035241,
+                                "name": "vegan butter",
+                                "created_at": 1495590611,
+                                "display_plural": "vegan butters",
+                                "id": 685,
+                                "display_singular": "vegan butter"
+                            }
+                        },
+                        {
+                            "raw_text": "Garlic paste, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "name": "garlic paste",
+                                "created_at": 1496348953,
+                                "display_plural": "garlic pastes",
+                                "id": 1118,
+                                "display_singular": "garlic paste",
+                                "updated_at": 1509035207
+                            },
+                            "id": 86790,
+                            "position": 23,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 654896,
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "Adobo seasoning, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "created_at": 1598644906,
+                                "display_plural": "adobo seasonings",
+                                "id": 6775,
+                                "display_singular": "adobo seasoning",
+                                "updated_at": 1598644906,
+                                "name": "adobo seasoning"
+                            },
+                            "id": 86791,
+                            "position": 24,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 654891
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Mofongo",
+                    "position": 3
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "Mortar and pestle",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "mortar and pestle",
+                                "created_at": 1628773100,
+                                "display_plural": "mortar and pestles",
+                                "id": 8926,
+                                "display_singular": "mortar and pestle",
+                                "updated_at": 1628773100
+                            },
+                            "id": 86793,
+                            "position": 26,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 654897
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Special Equipment",
+                    "position": 4
+                }
+            ],
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "is_one_top": false,
+            "total_time_tier": {
+                "tier": "under_1.5_hours",
+                "display_tier": "Under 1.5 hours"
+            },
+            "beauty_url": null,
+            "topics": [
+                {
+                    "slug": "community",
+                    "name": "Community Recipes"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Vegan",
+                    "slug": "vegan"
+                }
+            ],
+            "yields": "Servings: 4-6",
+            "cook_time_minutes": 45,
+            "facebook_posts": [],
+            "tags": [
+                {
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance",
+                    "name": "stove_top"
+                },
+                {
+                    "name": "sauce_pan",
+                    "id": 1247786,
+                    "display_name": "Sauce Pan",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "name": "deep_fry",
+                    "id": 64493,
+                    "display_name": "Deep-Fry",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "puerto_rican",
+                    "id": 6953050,
+                    "display_name": "Puerto Rican",
+                    "type": "cuisine"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "id": 1247790,
+                    "display_name": "Tongs",
+                    "type": "equipment",
+                    "name": "tongs"
+                },
+                {
+                    "type": "cooking_style",
+                    "name": "pan_fry",
+                    "id": 65859,
+                    "display_name": "Pan Fry"
+                }
+            ],
+            "created_at": 1628547677,
+            "prep_time_minutes": 20,
+            "description": "Mofongo is a traditional Puerto Rican dish that consists of mashed fried green plantains, fresh garlic, adobo seasoning, and olive oil, served in a mound shape with a warm broth or sauce for dipping. Mofongo is super versatile, as it can be made in many different forms and is tasty no matter what it's paired with. Here, Jeremie Serrano shows us how to make a vegan version of mofongo and caldo with a zesty mojo sauce for topping.",
+            "total_time_minutes": 65,
+            "video_url": null,
+            "video_ad_content": null,
+            "country": "US",
+            "language": "eng",
+            "brand": null,
+            "seo_title": "",
+            "video_id": null,
+            "inspired_by_url": null,
+            "id": 7705,
+            "slug": "vegan-mofongo-en-caldo-as-made-by-jeremie-serrano",
+            "brand_id": null,
+            "servings_noun_singular": "serving",
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/115bd890ff004310bcdf2256589c5bcd.jpeg"
+        },
+        {
+            "user_ratings": {
+                "count_negative": 2,
+                "count_positive": 19,
+                "score": 0.904762
+            },
+            "renditions": [],
+            "beauty_url": null,
+            "nutrition_visibility": "auto",
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Preheat the oven to 350°F (180°C)",
+                    "start_time": 0,
+                    "appliance": "oven",
+                    "end_time": 0,
+                    "temperature": 350,
+                    "id": 64251
+                },
+                {
+                    "position": 2,
+                    "display_text": "Make the beef filling: Heat the vegetable oil in a large skillet over medium heat. When the oil is shimmering, add the onion and green pepper and sauté until softened and translucent, 3–4 minutes. Add the garlic and cilantro and cook for another 1–2 minutes, or until fragrant.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64252
+                },
+                {
+                    "position": 3,
+                    "display_text": "Add the ground beef, breaking up with a spatula to incorporate into the vegetables. Season with the adobo, garlic powder, and black pepper. Increase the heat to medium-high and cook for 4–5 minutes, or until the meat is no longer pink. Drain any excess liquid.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64253
+                },
+                {
+                    "id": 64254,
+                    "position": 4,
+                    "display_text": "Return the skillet to the stovetop over medium-low heat, stir in the tomato sauce, and cook until heated through, 2–3 minutes. Remove the pan from the heat and set aside until ready to use.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64255,
+                    "position": 5,
+                    "display_text": "Make the plantains: Heat the vegetable oil in a large, high-walled skillet over medium-low heat until shimmering. Working in batches if needed, add the plantains and fry, turning every 30 seconds or so, until golden brown on sides and soft enough to be pierced with a fork, 8–10 minutes. Transfer to a paper-towel lined plate to drain until cool enough to handle."
+                },
+                {
+                    "display_text": "Transfer the plantains to a cutting board. Cut a slit lengthwise down each plantain, being careful not to cut all the way through. Use 2 forks to gently pull each plantain open. Use a fork, flat-side down, to press the base of the “canoe” to widen. Season with salt. Transfer to an 8-inch baking dish.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64256,
+                    "position": 6
+                },
+                {
+                    "id": 64257,
+                    "position": 7,
+                    "display_text": "Fill each plantain with ¼–⅓ cup of shredded mozzarella cheese, add about ½–¾ cup of the beef filling to each plantain, then top with ¼–⅓ cups more cheese. Cover the baking dish with foil.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64258,
+                    "position": 8,
+                    "display_text": "Bake for 20–25 minutes. Remove the foil and broil for another 2–3 minutes, or until the cheese is brown and bubbly. Garnish with torn cilantro."
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64259,
+                    "position": 9,
+                    "display_text": "Enjoy!",
+                    "start_time": 0
+                }
+            ],
+            "compilations": [
+                {
+                    "thumbnail_alt_text": "",
+                    "name": "Plantain Recipes For Every Day of The Week",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "keywords": null,
+                    "is_shoppable": false,
+                    "created_at": 1625063678,
+                    "description": "Have you ever had a plantain? Starchy, hearty, and robust, these cousins of the famous banana deserve all the love. Luckily, we have a lineup that'll show you how to start your days off with these hearty delights! Beat those mid-week blues with our delectable <a href=\"https://tasty.co/recipe/canoas-sweet-plantain-boats\">Canoas</a>. And, on a chill Sunday, try a layered surprise - the supremely delicious <a href=\"https://tasty.co/recipe/pastelon\">Pastelon</a>! What're you waiting for?",
+                    "language": "eng",
+                    "video_url": "https://vid.tasty.co/output/208083/hls24_1625065819.m3u8",
+                    "approved_at": 1625582433,
+                    "canonical_id": "compilation:2586",
+                    "aspect_ratio": "1:1",
+                    "id": 2586,
+                    "draft_status": "published",
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/399af95d8a134a948e6f469eb07ec6ad/FB1.jpg",
+                    "slug": "plantain-recipes-for-every-day-of-the-week",
+                    "promotion": "full",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "video_id": 135895,
+                    "country": "US"
+                }
+            ],
+            "aspect_ratio": "16:9",
+            "servings_noun_plural": "canoas",
+            "seo_title": "",
+            "canonical_id": "recipe:7300",
+            "country": "US",
+            "facebook_posts": [],
+            "brand": null,
+            "servings_noun_singular": "canoa",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "id": 81336,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "id": 631660,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1 ½"
+                                }
+                            ],
+                            "raw_text": "1½ tablespoons vegetable oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 20,
+                                "display_singular": "vegetable oil",
+                                "updated_at": 1509035288,
+                                "name": "vegetable oil",
+                                "created_at": 1493314628,
+                                "display_plural": "vegetable oils"
+                            }
+                        },
+                        {
+                            "raw_text": "½ cup diced yellow onion (about 1 small onion)",
+                            "extra_comment": "diced - about 1 small onion",
+                            "ingredient": {
+                                "id": 243,
+                                "display_singular": "yellow onion",
+                                "updated_at": 1509035276,
+                                "name": "yellow onion",
+                                "created_at": 1494297033,
+                                "display_plural": "yellow onions"
+                            },
+                            "id": 81337,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram"
+                                    },
+                                    "quantity": "75",
+                                    "id": 631659
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "½",
+                                    "id": 631658
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "small",
+                            "ingredient": {
+                                "updated_at": 1509035277,
+                                "name": "green bell pepper",
+                                "created_at": 1494292187,
+                                "display_plural": "green bell peppers",
+                                "id": 228,
+                                "display_singular": "green bell pepper"
+                            },
+                            "id": 81338,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 631677
+                                }
+                            ],
+                            "raw_text": "½ cup diced green bell pepper (about 1 small pepper)"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "clove",
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove"
+                                    },
+                                    "quantity": "3",
+                                    "id": 631663
+                                }
+                            ],
+                            "raw_text": "3 garlic cloves, minced",
+                            "extra_comment": "minced",
+                            "ingredient": {
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics",
+                                "id": 95,
+                                "display_singular": "garlic"
+                            },
+                            "id": 81339,
+                            "position": 5
+                        },
+                        {
+                            "raw_text": "½ cup chopped fresh cilantro, plus more for garnish",
+                            "extra_comment": "plus more for garnish",
+                            "ingredient": {
+                                "updated_at": 1509035266,
+                                "name": "fresh cilantro",
+                                "created_at": 1494974463,
+                                "display_plural": "fresh cilantros",
+                                "id": 372,
+                                "display_singular": "fresh cilantro"
+                            },
+                            "id": 81340,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "id": 631664,
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "10"
+                                },
+                                {
+                                    "quantity": "½",
+                                    "id": 631661,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1 pound 80/20 ground beef",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "ground beef",
+                                "updated_at": 1509035282,
+                                "name": "ground beef",
+                                "created_at": 1493920746,
+                                "display_plural": "ground beefs",
+                                "id": 161
+                            },
+                            "id": 81341,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    },
+                                    "quantity": "455",
+                                    "id": 631665
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    },
+                                    "quantity": "1",
+                                    "id": 631662
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "¾ teaspoon adobo seasoning",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1598644906,
+                                "name": "adobo seasoning",
+                                "created_at": 1598644906,
+                                "display_plural": "adobo seasonings",
+                                "id": 6775,
+                                "display_singular": "adobo seasoning"
+                            },
+                            "id": 81342,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "¾",
+                                    "id": 631678
+                                }
+                            ]
+                        },
+                        {
+                            "id": 81343,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "½",
+                                    "id": 631667
+                                }
+                            ],
+                            "raw_text": "½ teaspoon garlic powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "garlic powder",
+                                "created_at": 1493307128,
+                                "display_plural": "garlic powders",
+                                "id": 9,
+                                "display_singular": "garlic powder"
+                            }
+                        },
+                        {
+                            "raw_text": "¼ teaspoon freshly ground black pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1493925438,
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper",
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper"
+                            },
+                            "id": 81344,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "id": 631666,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "¼"
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon"
+                                    },
+                                    "quantity": "5",
+                                    "id": 631676
+                                }
+                            ],
+                            "raw_text": "5 tablespoons tomato sauce",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494882012,
+                                "display_plural": "tomato sauces",
+                                "id": 344,
+                                "display_singular": "tomato sauce",
+                                "updated_at": 1509035268,
+                                "name": "tomato sauce"
+                            },
+                            "id": 81345,
+                            "position": 11
+                        }
+                    ],
+                    "name": "Beef Filling",
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "3 cups vegetable oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "vegetable oil",
+                                "updated_at": 1509035288,
+                                "name": "vegetable oil",
+                                "created_at": 1493314628,
+                                "display_plural": "vegetable oils",
+                                "id": 20
+                            },
+                            "id": 81347,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "720",
+                                    "id": 631672
+                                },
+                                {
+                                    "quantity": "3",
+                                    "id": 631671,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "4",
+                                    "id": 631669
+                                }
+                            ],
+                            "raw_text": "4 ripe plantains, peeled",
+                            "extra_comment": "peeled",
+                            "ingredient": {
+                                "updated_at": 1509035160,
+                                "name": "ripe plantain",
+                                "created_at": 1497299293,
+                                "display_plural": "ripe plantains",
+                                "id": 1857,
+                                "display_singular": "ripe plantain"
+                            },
+                            "id": 81348,
+                            "position": 14
+                        },
+                        {
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            },
+                            "id": 81349,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 631670
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "¼ teaspoon freshly ground black pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438,
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper"
+                            },
+                            "id": 81350,
+                            "position": 16,
+                            "measurements": [
+                                {
+                                    "quantity": "¼",
+                                    "id": 631673,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Plantains",
+                    "position": 2
+                },
+                {
+                    "components": [
+                        {
+                            "position": 18,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "450",
+                                    "id": 631675
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz"
+                                    },
+                                    "quantity": "16",
+                                    "id": 631674
+                                }
+                            ],
+                            "raw_text": "16 ounces shredded mozzarella cheese",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035282,
+                                "name": "shredded mozzarella cheese",
+                                "created_at": 1493925751,
+                                "display_plural": "shredded mozzarella cheeses",
+                                "id": 169,
+                                "display_singular": "shredded mozzarella cheese"
+                            },
+                            "id": 81352
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035266,
+                                "name": "fresh cilantro",
+                                "created_at": 1494974463,
+                                "display_plural": "fresh cilantros",
+                                "id": 372,
+                                "display_singular": "fresh cilantro"
+                            },
+                            "id": 81353,
+                            "position": 19,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 631668
+                                }
+                            ],
+                            "raw_text": "Torn fresh cilantro, for garnish",
+                            "extra_comment": "torn, for garnish"
+                        }
+                    ],
+                    "name": "Assembly",
+                    "position": 3
+                }
+            ],
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "draft_status": "published",
+            "updated_at": 1619787435,
+            "credits": [
+                {
+                    "name": "Tikeyah Whittle",
+                    "type": "internal"
+                }
+            ],
+            "topics": [],
+            "original_video_url": null,
+            "cook_time_minutes": 48,
+            "price": {
+                "consumption_portion": 300,
+                "total": 4450,
+                "updated_at": "2023-01-17T06:26:43+01:00",
+                "portion": 1100,
+                "consumption_total": 1200
+            },
+            "num_servings": 4,
+            "tips_and_ratings_enabled": true,
+            "description": "Puerto Rican sweet plantain boats filled with a delicious beef mixture and topped with creamy mozzarella cheese make the perfect savory dish to share with your loved ones.",
+            "thumbnail_alt_text": "",
+            "approved_at": 1619787427,
+            "id": 7300,
+            "brand_id": null,
+            "inspired_by_url": null,
+            "is_one_top": false,
+            "is_shoppable": true,
+            "total_time_tier": {
+                "display_tier": "Under 1.5 hours",
+                "tier": "under_1.5_hours"
+            },
+            "yields": "Makes 4 canoas",
+            "promotion": "full",
+            "language": "eng",
+            "nutrition": {},
+            "buzz_id": null,
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/7808b4495c9f45f6bcf47ab408a7c5c9.jpeg",
+            "total_time_minutes": 63,
+            "keywords": "",
+            "show_id": 17,
+            "tags": [
+                {
+                    "name": "baking_pan",
+                    "id": 1280500,
+                    "display_name": "Baking Pan",
+                    "type": "equipment"
+                },
+                {
+                    "type": "cooking_style",
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food"
+                },
+                {
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance",
+                    "name": "stove_top"
+                },
+                {
+                    "type": "cooking_style",
+                    "name": "stuffed",
+                    "id": 65856,
+                    "display_name": "Stuffed"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "id": 65846,
+                    "display_name": "Oven",
+                    "type": "appliance",
+                    "name": "oven"
+                },
+                {
+                    "name": "tongs",
+                    "id": 1247790,
+                    "display_name": "Tongs",
+                    "type": "equipment"
+                },
+                {
+                    "name": "deep_fry",
+                    "id": 64493,
+                    "display_name": "Deep-Fry",
+                    "type": "cooking_style"
+                },
+                {
+                    "type": "equipment",
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons"
+                },
+                {
+                    "id": 1247787,
+                    "display_name": "Saute Pan",
+                    "type": "equipment",
+                    "name": "saute_pan"
+                },
+                {
+                    "name": "bake",
+                    "id": 64492,
+                    "display_name": "Bake",
+                    "type": "cooking_style"
+                },
+                {
+                    "type": "equipment",
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board"
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Sides",
+                    "type": "meal",
+                    "name": "sides",
+                    "id": 64490
+                },
+                {
+                    "name": "puerto_rican",
+                    "id": 6953050,
+                    "display_name": "Puerto Rican",
+                    "type": "cuisine"
+                }
+            ],
+            "created_at": 1619548989,
+            "video_url": null,
+            "video_ad_content": null,
+            "slug": "canoas-sweet-plantain-boats",
+            "prep_time_minutes": 15,
+            "name": "Canoas (Sweet Plantain Boats)",
+            "video_id": null
+        },
+        {
+            "nutrition_visibility": "auto",
+            "show_id": 17,
+            "nutrition": {},
+            "buzz_id": null,
+            "aspect_ratio": "16:9",
+            "video_ad_content": null,
+            "original_video_url": null,
+            "canonical_id": "recipe:7191",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "id": 79804,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 624388
+                                }
+                            ],
+                            "raw_text": "Juice of 1 orange (about ½ cup)",
+                            "extra_comment": "juiced",
+                            "ingredient": {
+                                "updated_at": 1509035262,
+                                "name": "orange",
+                                "created_at": 1494989685,
+                                "display_plural": "oranges",
+                                "id": 420,
+                                "display_singular": "orange"
+                            }
+                        },
+                        {
+                            "raw_text": "Juice of 1 lime (about ¼ cup)",
+                            "extra_comment": "juiced",
+                            "ingredient": {
+                                "created_at": 1494874467,
+                                "display_plural": "limes",
+                                "id": 323,
+                                "display_singular": "lime",
+                                "updated_at": 1509035270,
+                                "name": "lime"
+                            },
+                            "id": 79805,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "quantity": "1",
+                                    "id": 624390,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1½ tablespoons olive oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035290,
+                                "name": "olive oil",
+                                "created_at": 1493306183,
+                                "display_plural": "olive oils",
+                                "id": 4,
+                                "display_singular": "olive oil"
+                            },
+                            "id": 79806,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 624387
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons"
+                                    },
+                                    "quantity": "2 ½",
+                                    "id": 624400
+                                }
+                            ],
+                            "raw_text": "2½ teaspoons adobo seasoning",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1598644906,
+                                "name": "adobo seasoning",
+                                "created_at": 1598644906,
+                                "display_plural": "adobo seasonings",
+                                "id": 6775,
+                                "display_singular": "adobo seasoning"
+                            },
+                            "id": 79807,
+                            "position": 5
+                        },
+                        {
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "½",
+                                    "id": 624396
+                                }
+                            ],
+                            "raw_text": "½ teaspoon garlic powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "garlic powder",
+                                "created_at": 1493307128,
+                                "display_plural": "garlic powders",
+                                "id": 9,
+                                "display_singular": "garlic powder",
+                                "updated_at": 1509035289
+                            },
+                            "id": 79808
+                        },
+                        {
+                            "raw_text": "3 garlic cloves, minced",
+                            "extra_comment": "minced",
+                            "ingredient": {
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics",
+                                "id": 95,
+                                "display_singular": "garlic"
+                            },
+                            "id": 79809,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "clove",
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove"
+                                    },
+                                    "quantity": "3",
+                                    "id": 624386
+                                }
+                            ]
+                        },
+                        {
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 624391
+                                }
+                            ],
+                            "raw_text": "¼ teaspoon freshly ground black pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438,
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper"
+                            },
+                            "id": 79810
+                        },
+                        {
+                            "raw_text": "12 ounces flank, flap, or strip steak",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035275,
+                                "name": "flank steak",
+                                "created_at": 1494623618,
+                                "display_plural": "flank steaks",
+                                "id": 262,
+                                "display_singular": "flank steak"
+                            },
+                            "id": 79811,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "12",
+                                    "id": 624393
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "360",
+                                    "id": 624389
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "vegetable oil",
+                                "created_at": 1493314628,
+                                "display_plural": "vegetable oils",
+                                "id": 20,
+                                "display_singular": "vegetable oil"
+                            },
+                            "id": 79812,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "1",
+                                    "id": 624407
+                                }
+                            ],
+                            "raw_text": "1 tablespoon vegetable oil",
+                            "extra_comment": ""
+                        }
+                    ],
+                    "name": "Steak",
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035249,
+                                "name": "mayonnaise",
+                                "created_at": 1495392174,
+                                "display_plural": "mayonnaises",
+                                "id": 583,
+                                "display_singular": "mayonnaise"
+                            },
+                            "id": 79814,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "id": 624398,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "⅓"
+                                },
+                                {
+                                    "quantity": "80",
+                                    "id": 624397,
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    }
+                                }
+                            ],
+                            "raw_text": "⅓ cup mayonnaise"
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "ketchups",
+                                "id": 14,
+                                "display_singular": "ketchup",
+                                "updated_at": 1509035289,
+                                "name": "ketchup",
+                                "created_at": 1493307243
+                            },
+                            "id": 79815,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "quantity": "¼",
+                                    "id": 624406,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    }
+                                },
+                                {
+                                    "id": 624403,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "60"
+                                }
+                            ],
+                            "raw_text": "¼ cup ketchup"
+                        },
+                        {
+                            "raw_text": "2 garlic cloves, minced",
+                            "extra_comment": "minced",
+                            "ingredient": {
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics",
+                                "id": 95,
+                                "display_singular": "garlic"
+                            },
+                            "id": 79816,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove",
+                                        "abbreviation": "clove"
+                                    },
+                                    "quantity": "2",
+                                    "id": 624392
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "garlic powder",
+                                "updated_at": 1509035289,
+                                "name": "garlic powder",
+                                "created_at": 1493307128,
+                                "display_plural": "garlic powders",
+                                "id": 9
+                            },
+                            "id": 79817,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "½",
+                                    "id": 624394
+                                }
+                            ],
+                            "raw_text": "½ teaspoon garlic powder"
+                        },
+                        {
+                            "raw_text": "¼ teaspoon freshly ground black pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper",
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438,
+                                "display_plural": "freshly ground black peppers"
+                            },
+                            "id": 79818,
+                            "position": 16,
+                            "measurements": [
+                                {
+                                    "quantity": "¼",
+                                    "id": 624395,
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 11,
+                                "display_singular": "kosher salt",
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts"
+                            },
+                            "id": 79819,
+                            "position": 17,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "½",
+                                    "id": 624415
+                                }
+                            ],
+                            "raw_text": "½ teaspoon kosher salt"
+                        }
+                    ],
+                    "name": "Mayoketchup",
+                    "position": 2
+                },
+                {
+                    "components": [
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "4",
+                                    "id": 624401
+                                },
+                                {
+                                    "quantity": "960",
+                                    "id": 624399,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    }
+                                }
+                            ],
+                            "raw_text": "4 cups vegetable oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "vegetable oil",
+                                "created_at": 1493314628,
+                                "display_plural": "vegetable oils",
+                                "id": 20,
+                                "display_singular": "vegetable oil"
+                            },
+                            "id": 79821,
+                            "position": 19
+                        },
+                        {
+                            "ingredient": {
+                                "id": 2068,
+                                "display_singular": "green plantain",
+                                "updated_at": 1509035146,
+                                "name": "green plantain",
+                                "created_at": 1499973187,
+                                "display_plural": "green plantains"
+                            },
+                            "id": 79822,
+                            "position": 20,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "2",
+                                    "id": 624409
+                                }
+                            ],
+                            "raw_text": "2 large green plantains",
+                            "extra_comment": "large"
+                        },
+                        {
+                            "position": 21,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 624410
+                                }
+                            ],
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt",
+                                "updated_at": 1509035289,
+                                "name": "kosher salt"
+                            },
+                            "id": 79823
+                        }
+                    ],
+                    "name": "Tostones",
+                    "position": 3
+                },
+                {
+                    "components": [
+                        {
+                            "extra_comment": "halved lengthwise",
+                            "ingredient": {
+                                "display_singular": "cheddar cheese",
+                                "updated_at": 1509035261,
+                                "name": "cheddar cheese",
+                                "created_at": 1495068854,
+                                "display_plural": "cheddar cheeses",
+                                "id": 434
+                            },
+                            "id": 79825,
+                            "position": 23,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "slice",
+                                        "display_plural": "slices",
+                                        "display_singular": "slice",
+                                        "abbreviation": "slice"
+                                    },
+                                    "quantity": "4",
+                                    "id": 624412
+                                }
+                            ],
+                            "raw_text": "4 slices of cheddar cheese, halved lengthwise"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 624404
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram"
+                                    },
+                                    "quantity": "35",
+                                    "id": 624402
+                                }
+                            ],
+                            "raw_text": "¼ cup thinly sliced red onion",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "created_at": 1493307196,
+                                "display_plural": "red onions",
+                                "id": 13,
+                                "display_singular": "red onion",
+                                "updated_at": 1509035289,
+                                "name": "red onion"
+                            },
+                            "id": 79826,
+                            "position": 24
+                        },
+                        {
+                            "raw_text": "½ cup fresh cilantro leaves and tender stems",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "fresh cilantro",
+                                "created_at": 1494974463,
+                                "display_plural": "fresh cilantros",
+                                "id": 372,
+                                "display_singular": "fresh cilantro",
+                                "updated_at": 1509035266
+                            },
+                            "id": 79827,
+                            "position": 25,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½",
+                                    "id": 624408
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "20",
+                                    "id": 624405
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "chopped",
+                            "ingredient": {
+                                "display_plural": "lettuces",
+                                "id": 2837,
+                                "display_singular": "lettuce",
+                                "updated_at": 1509035105,
+                                "name": "lettuce",
+                                "created_at": 1502059846
+                            },
+                            "id": 79828,
+                            "position": 26,
+                            "measurements": [
+                                {
+                                    "quantity": "½",
+                                    "id": 624414,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "50",
+                                    "id": 624413
+                                }
+                            ],
+                            "raw_text": "½ cup chopped lettuce"
+                        },
+                        {
+                            "id": 79829,
+                            "position": 27,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 624411
+                                }
+                            ],
+                            "raw_text": "1 small tomato, thinly sliced",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "updated_at": 1528127599,
+                                "name": "small tomato",
+                                "created_at": 1528127599,
+                                "display_plural": "small tomatoes",
+                                "id": 4236,
+                                "display_singular": "small tomato"
+                            }
+                        },
+                        {
+                            "raw_text": "¼ avocado, thinly sliced",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "updated_at": 1509035215,
+                                "name": "avocado",
+                                "created_at": 1496185911,
+                                "display_plural": "avocados",
+                                "id": 1005,
+                                "display_singular": "avocado"
+                            },
+                            "id": 79830,
+                            "position": 28,
+                            "measurements": [
+                                {
+                                    "id": 624416,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "¼"
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Assembly",
+                    "position": 4
+                }
+            ],
+            "created_at": 1616009105,
+            "description": "In this recipe, thin cuts of flap steak are marinated in orange and lime juice and sandwiched between 2 flattened, crispy fried plantains, or tostones. We finish things off with a tangy, garlicky mayoketchup sauce, cheddar cheese, and fresh toppings like lettuce, tomato, red onion, and avocado. It’s crunchy, salty, creamy, citrusy and delicious!",
+            "inspired_by_url": null,
+            "video_url": null,
+            "seo_title": "Jibarito Sandwich",
+            "facebook_posts": [],
+            "price": {
+                "total": 6050,
+                "updated_at": "2023-01-17T06:26:17+01:00",
+                "portion": 3000,
+                "consumption_total": 1150,
+                "consumption_portion": 550
+            },
+            "slug": "jibarito-sandwich",
+            "prep_time_minutes": 140,
+            "tags": [
+                {
+                    "display_name": "Latin American",
+                    "type": "cuisine",
+                    "name": "latin_american",
+                    "id": 64456
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "name": "gluten_free",
+                    "id": 64465,
+                    "display_name": "Gluten-Free",
+                    "type": "dietary"
+                },
+                {
+                    "name": "dinner",
+                    "id": 64486,
+                    "display_name": "Dinner",
+                    "type": "meal"
+                },
+                {
+                    "name": "one_top_app_steak",
+                    "id": 2651761,
+                    "display_name": "Steak",
+                    "type": "business_tags"
+                },
+                {
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment",
+                    "name": "cutting_board"
+                },
+                {
+                    "type": "equipment",
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons"
+                },
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "name": "deep_fry",
+                    "id": 64493,
+                    "display_name": "Deep-Fry",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "one_top_app_meat",
+                    "id": 2651753,
+                    "display_name": "Meat",
+                    "type": "business_tags"
+                },
+                {
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine",
+                    "name": "american"
+                },
+                {
+                    "id": 64489,
+                    "display_name": "Lunch",
+                    "type": "meal",
+                    "name": "lunch"
+                },
+                {
+                    "id": 1247793,
+                    "display_name": "Whisk",
+                    "type": "equipment",
+                    "name": "whisk"
+                },
+                {
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance"
+                },
+                {
+                    "display_name": "Tongs",
+                    "type": "equipment",
+                    "name": "tongs",
+                    "id": 1247790
+                },
+                {
+                    "type": "cooking_style",
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food"
+                },
+                {
+                    "name": "brunch",
+                    "id": 64484,
+                    "display_name": "Brunch",
+                    "type": "occasion"
+                },
+                {
+                    "type": "occasion",
+                    "name": "weeknight",
+                    "id": 64505,
+                    "display_name": "Weeknight"
+                },
+                {
+                    "id": 65859,
+                    "display_name": "Pan Fry",
+                    "type": "cooking_style",
+                    "name": "pan_fry"
+                },
+                {
+                    "name": "puerto_rican",
+                    "id": 6953050,
+                    "display_name": "Puerto Rican",
+                    "type": "cuisine"
+                }
+            ],
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "thumbnail_alt_text": "",
+            "servings_noun_plural": "sandwiches",
+            "cook_time_minutes": 15,
+            "language": "eng",
+            "id": 7191,
+            "brand": null,
+            "tips_and_ratings_enabled": true,
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/6610ab955c48442bbd4eac699b51bc6b.jpeg",
+            "updated_at": 1616503533,
+            "topics": [
+                {
+                    "name": "Sunday Brunch",
+                    "slug": "brunch"
+                },
+                {
+                    "name": "Lunch",
+                    "slug": "lunch"
+                },
+                {
+                    "slug": "dinner",
+                    "name": "Dinner"
+                },
+                {
+                    "name": "American",
+                    "slug": "american"
+                }
+            ],
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63404,
+                    "position": 1,
+                    "display_text": "Marinate the steak: In a large bowl, whisk together the orange juice, lime juice, olive oil, adobo seasoning, garlic powder, garlic, and pepper. Add the steak and turn to coat. Cover and refrigerate for 1–2 hours."
+                },
+                {
+                    "temperature": null,
+                    "id": 63405,
+                    "position": 2,
+                    "display_text": "Make the mayoketchup: In a medium bowl, mix together the mayonnaise, ketchup, garlic, garlic powder, pepper, and salt. Cover and refrigerate until ready to use.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "temperature": null,
+                    "id": 63406,
+                    "position": 3,
+                    "display_text": "Sear the steak: Heat the vegetable oil in a large high-walled skillet over medium-high heat until shimmering.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63407,
+                    "position": 4,
+                    "display_text": "Remove the steak from the marinade and pat dry with a paper towel. Add the steak to the pan and sear for 2-4 minutes on each side until the internal temperature reaches 135°F (55°C). Remove from the pan and set on a cutting board to rest, then slice against the grain into ¼-inch-wide pieces."
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63408,
+                    "position": 5,
+                    "display_text": "Make the tostones: Heat the canola oil in a large high-walled skillet over medium heat until it reaches 350°F (180°C).",
+                    "start_time": 0
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63409,
+                    "position": 6,
+                    "display_text": "Peel the plantains and cut in half lengthwise. Add the plantains to the hot oil and fry until light golden brown on all sides, 3–4 minutes. Transfer to a paper towel-lined plate to drain.",
+                    "start_time": 0
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63410,
+                    "position": 7,
+                    "display_text": "Working 1 at a time, place a plantain half on a cutting board. Place another cutting board on top of the plantain and press down to flatten until the plantain doubles in width and is about ¼–½ inch thick."
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63411,
+                    "position": 8,
+                    "display_text": "Return the oil temperature to 350°F (180°C). Fry the plantains again, 2 at a time, until golden brown and crispy on both sides, 1–2 minutes total. Transfer to a paper towel-lined plate to drain and immediately sprinkle with salt on both sides."
+                },
+                {
+                    "temperature": null,
+                    "id": 63412,
+                    "position": 9,
+                    "display_text": "Assemble the sandwiches: Spread 1–2 tablespoons of the mayoketchup across a plantain. Top with 2 half-slices of cheddar, and half of the sliced steak, onion, cilantro, lettuce, tomato, and avocado. Spread another 1–2 tablespoons of mayo ketchup on another plantain and top with 2 more half-slices of cheddar. Top the sandwich with the second plantain. Repeat with remaining ingredients to make another sandwich.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63413,
+                    "position": 10,
+                    "display_text": "Enjoy!"
+                },
+                {
+                    "display_text": "RECIPE BY: Tikeyah Whittle",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63414,
+                    "position": 11
+                }
+            ],
+            "user_ratings": {
+                "count_negative": 3,
+                "count_positive": 20,
+                "score": 0.869565
+            },
+            "name": "Jibarito Sandwich",
+            "compilations": [],
+            "total_time_minutes": 155,
+            "credits": [
+                {
+                    "name": "Tikeyah Whittle",
+                    "type": "internal"
+                }
+            ],
+            "beauty_url": null,
+            "country": "US",
+            "approved_at": 1616503533,
+            "yields": "Makes 2 sandwiches",
+            "video_id": null,
+            "servings_noun_singular": "sandwich",
+            "brand_id": null,
+            "num_servings": 2,
+            "renditions": [],
+            "is_shoppable": true,
+            "promotion": "full",
+            "keywords": "",
+            "draft_status": "published",
+            "is_one_top": false,
+            "total_time_tier": {
+                "display_tier": "Under 2.5 hours",
+                "tier": "under_2.5_hours"
+            }
+        }
+    ]
+}

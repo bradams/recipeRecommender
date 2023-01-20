@@ -12,19 +12,20 @@ def fileToParse():
 	recipeDataDF = pd.DataFrame()
 
 	#Path to data directory
-	mypath = '/Users/bradadams/Desktop/Python/Recipe Recommender/Data'
+	mypath = 'C:/Users/bradl/OneDrive/Desktop/Git/recipeRecommender/JSON'
 
 	#loop through data files
 	for f in listdir(mypath):
 
 		#ignore hidden files
 		if not f.startswith('.'):
+
 			filename = mypath + "/" + f
 
-			print(filename)
+			print("Current file: ", f)
 
 			#open data file
-			currF = open(filename)
+			currF = open(filename, encoding = 'utf-8')
 
 			#load json file
 			data=json.load(currF)
@@ -38,32 +39,14 @@ def fileToParse():
 
 				#loop through recipe data
 				for recipeInfo,recipeData in recipe.items():
-					#print(recipeInfo)
-					#if recipeInfo == 'name':
-					#	recipeDataDict[recipeInfo] = recipeData
-					#if recipeInfo == 'cook_time_minutes':
-					#	recipeDataDict[recipeInfo] = recipeData		
-					#if recipeInfo == 'prep_time_minutes':
-					#	recipeDataDict[recipeInfo] = recipeData	
-
-					#if recipeInfo == 'instructions':
-					#	recipeDataDict[recipeInfo] = recipeData
-
-						#Get id from instructions....need this to get ingredients
-						#for instructionInfo, instructionData in recipeData[0].items():
-						#	if instructionInfo == 'id':
-						#		recipeDataDict['ID'] = instructionData
 
 					if recipeInfo == 'id':
 						recipeDataDict[recipeInfo] = int(recipeData)
 
-					#if recipeInfo == 'nutrition':
-					#	recipeDataDict[recipeInfo] = recipeData
-
+				#add current id to the DF
 				recipeDataDF = recipeDataDF.append(recipeDataDict, ignore_index=True)
 
-
-
+	#dump ids to CSV file
 	recipeDataDF.to_csv('recipeData.csv',index=False)
 
 

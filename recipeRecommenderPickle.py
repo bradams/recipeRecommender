@@ -20,6 +20,8 @@ import matplotlib.gridspec as gridspec
 
 from gensim.models import Word2Vec
 
+import pickle
+
 
 
 
@@ -217,6 +219,24 @@ def getRecommendations(N, scores, recipes):
 
 
 
+def cleanIngredientList(toRun):
+    if toRun == 0:
+        pass
+    else:
+        #Read data
+        recipeData = pd.read_pickle('recipeDataDetailed.pickle')
+        print("DATA:", recipeData)
+
+        #initialize empty column
+        recipeData['cleanedIngredientList'] = None
+
+        #remove stopwords
+        for row in range(len(recipeData)):
+            recipeData['cleanedIngredientList'][row] = cleanIngredients(recipeData['ingredient_list'][row])
+
+        with open('recipeDataFinal.pickle','wb') as f:
+            pickle.dump(recipeData, f)
+
 
 
 
@@ -229,29 +249,16 @@ def getRecommendations(N, scores, recipes):
 if __name__ == '__main__':
     print('\n\n\n\n\n')
 
-    #Read data
-    recipeData = pd.read_pickle('recipeData.pickle')
-    print("DATA:", recipeData)
+    #clean data if needed
+    cleanIngredientList(0)
 
-    #initialize empty column
-    #recipeData['cleanedIngredientList'] = None
-
-    #remove stopwords
-    #for row in range(len(recipeData)):
-    #    recipeData['cleanedIngredientList'][row] = cleanIngredients(recipeData['ingredient_list'][row])
-
-
-    import pickle
-
-    #with open('recipeData.pickle','wb') as f:
-    #    pickle.dump(recipeData, f)
-
-    #recipeData.to_csv('recipeDataDetailed2.csv')
+    #Read cleaned data
+    recipeData = pd.read_pickle('recipeDataFinal.pickle')
 
     #recommender system based on ingredients
     trainWord2Vec(0, recipeData)
 
 
-    createRecommendations(5, 'holiday sprinkles, cream cheese, gingerbread',recipeData)
+    print(createRecommendations(5, 'holiday sprinkles, cream cheese, gingerbread',recipeData))
 
 

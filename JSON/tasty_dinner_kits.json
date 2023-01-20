@@ -1,0 +1,1901 @@
+{
+    "count": 4,
+    "results": [
+        {
+            "instructions": [
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63097,
+                    "position": 1,
+                    "display_text": "Add water, salt and rice to a 2-quart saucepan; stir. Bring to a boil.",
+                    "start_time": 0
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63098,
+                    "position": 2,
+                    "display_text": "Reduce heat to low. Cover; cook 22-24 minutes. Remove from heat and set aside.",
+                    "start_time": 0
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63099,
+                    "position": 3,
+                    "display_text": "Meanwhile, coat sliced beef with seasoning in shallow bowl or plastic bag.",
+                    "start_time": 0
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63100,
+                    "position": 4,
+                    "display_text": "Heat oil in 10-inch non-stick skillet over medium-high heat. Carefully add beef and peppers; cook 6 to 7 minutes, stirring occasionally, until sauce thickens."
+                },
+                {
+                    "display_text": "Top rice with beef and peppers; drizzle with Korean BBQ Sauce. Sprinkle with optional toppings if desired. Enjoy!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63101,
+                    "position": 5
+                }
+            ],
+            "num_servings": 5,
+            "is_one_top": false,
+            "video_ad_content": null,
+            "servings_noun_singular": "helping",
+            "tags": [
+                {
+                    "name": "tasty_dinner_kits",
+                    "id": 6361812,
+                    "display_name": "Tasty Dinner Kits",
+                    "type": "business_tags"
+                },
+                {
+                    "name": "low_carb",
+                    "id": 64467,
+                    "display_name": "Low-Carb",
+                    "type": "healthy"
+                },
+                {
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein",
+                    "type": "healthy"
+                },
+                {
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "id": 8091748,
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty",
+                    "name": "under_1_hour"
+                },
+                {
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary",
+                    "name": "dairy_free"
+                },
+                {
+                    "type": "dietary",
+                    "name": "keto",
+                    "id": 8091756,
+                    "display_name": "Keto"
+                }
+            ],
+            "total_time_tier": {
+                "tier": "under_30_minutes",
+                "display_tier": "Under 30 minutes"
+            },
+            "slug": "korean-style-bbq-beef-helper",
+            "nutrition": {
+                "updated_at": "2021-09-03T08:02:48+02:00",
+                "protein": 29,
+                "fat": 30,
+                "calories": 403,
+                "sugar": 0,
+                "carbohydrates": 2,
+                "fiber": 0
+            },
+            "compilations": [],
+            "description": "This dinner kit makes for the ultimate comfort food, and the beauty of this family friendly dish is that it comes together so quickly! Tasty dinner kits are now available in stores. ",
+            "inspired_by_url": null,
+            "beauty_url": null,
+            "topics": [
+                {
+                    "name": "BBQ Season",
+                    "slug": "bbq"
+                },
+                {
+                    "name": "Keto",
+                    "slug": "keto"
+                },
+                {
+                    "name": "Low Carb Meals",
+                    "slug": "low-carb-meals"
+                },
+                {
+                    "name": "Dinner Made Easy with Tasty Dinner Kits!",
+                    "slug": "tasty-dinner-kits"
+                }
+            ],
+            "keywords": "hamburger helper, korean bbq, korean-style bbq beef, tasty helper",
+            "brand": null,
+            "prep_time_minutes": 5,
+            "name": "Korean-Style Bbq Beef Dinner Kit",
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "draft_status": "published",
+            "total_time_minutes": 30,
+            "is_shoppable": true,
+            "nutrition_visibility": "auto",
+            "price": {
+                "total": 1700,
+                "updated_at": "2023-01-17T06:26:07+01:00",
+                "portion": 350,
+                "consumption_total": 1400,
+                "consumption_portion": 300
+            },
+            "id": 7153,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 656646
+                                }
+                            ],
+                            "raw_text": "Tasty™ Korean-Style BBQ Beef Dinner Kit",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "Tasty™ Korean-Style BBQ Beef Dinner Kits",
+                                "id": 8994,
+                                "display_singular": "Tasty™ Korean-Style BBQ Beef Dinner Kit",
+                                "updated_at": 1630594796,
+                                "name": "Tasty™ Korean-Style BBQ Beef Dinner Kit",
+                                "created_at": 1630594796
+                            },
+                            "id": 87467,
+                            "position": 1
+                        },
+                        {
+                            "raw_text": "1 Lb sirloin cut in ¼-inch strips",
+                            "extra_comment": "sliced in quarter-inch strips",
+                            "ingredient": {
+                                "display_plural": "sirloin steaks",
+                                "id": 553,
+                                "display_singular": "sirloin steak",
+                                "updated_at": 1509035252,
+                                "name": "sirloin steak",
+                                "created_at": 1495299014
+                            },
+                            "id": 79211,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "id": 656653,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "455"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    },
+                                    "quantity": "1",
+                                    "id": 656652
+                                }
+                            ]
+                        },
+                        {
+                            "id": 79212,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 656655
+                                }
+                            ],
+                            "raw_text": "1 medium red bell pepper, cut in strips",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "name": "medium red bell pepper",
+                                "created_at": 1519872108,
+                                "display_plural": "medium red bell peppers",
+                                "id": 3807,
+                                "display_singular": "medium red bell pepper",
+                                "updated_at": 1519872108
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "id": 656647,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1"
+                                }
+                            ],
+                            "raw_text": "1 tablespoon oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 100,
+                                "display_singular": "oil",
+                                "updated_at": 1509035284,
+                                "name": "oil",
+                                "created_at": 1493745145,
+                                "display_plural": "oils"
+                            },
+                            "id": 79213,
+                            "position": 4
+                        },
+                        {
+                            "raw_text": "1¾ cups water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035280,
+                                "name": "water",
+                                "created_at": 1494124627,
+                                "display_plural": "waters",
+                                "id": 197,
+                                "display_singular": "water"
+                            },
+                            "id": 79214,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "id": 656651,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "420"
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "1 ¾",
+                                    "id": 656650
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "½ teaspoon salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt"
+                            },
+                            "id": 79215,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "½",
+                                    "id": 656649
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "extra_comment": "diagonally cut",
+                            "ingredient": {
+                                "created_at": 1494382484,
+                                "display_plural": "green onions",
+                                "id": 255,
+                                "display_singular": "green onion",
+                                "updated_at": 1509035275,
+                                "name": "green onion"
+                            },
+                            "id": 79217,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "quantity": "4",
+                                    "id": 656648,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "stem",
+                                        "display_plural": "stems",
+                                        "display_singular": "stem",
+                                        "abbreviation": "stem"
+                                    }
+                                }
+                            ],
+                            "raw_text": "1 tablespoon sesame seeds"
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035281,
+                                "name": "sesame seeds",
+                                "created_at": 1494117789,
+                                "display_plural": "sesame seeds",
+                                "id": 182,
+                                "display_singular": "sesame seed"
+                            },
+                            "id": 79218,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 656654
+                                }
+                            ],
+                            "raw_text": "n/a"
+                        }
+                    ],
+                    "name": "Make It Special",
+                    "position": 2
+                }
+            ],
+            "buzz_id": null,
+            "tips_and_ratings_enabled": true,
+            "credits": [
+                {
+                    "name": null,
+                    "type": "internal"
+                }
+            ],
+            "approved_at": 1614995161,
+            "seo_title": "Tasty Korean-Style BBQ Beef Dinner Kit",
+            "country": "US",
+            "facebook_posts": [],
+            "show_id": 17,
+            "thumbnail_alt_text": "",
+            "updated_at": 1630531432,
+            "renditions": [],
+            "yields": "5 helpings",
+            "canonical_id": "recipe:7153",
+            "cook_time_minutes": 25,
+            "language": "eng",
+            "user_ratings": {
+                "count_positive": 36,
+                "score": 0.923077,
+                "count_negative": 3
+            },
+            "brand_id": null,
+            "created_at": 1614980237,
+            "original_video_url": null,
+            "aspect_ratio": "16:9",
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/28a0b5506f2c4363970e9a59a63d1489.png",
+            "video_url": null,
+            "servings_noun_plural": "helpings",
+            "promotion": "partial",
+            "video_id": null
+        },
+        {
+            "facebook_posts": [],
+            "buzz_id": null,
+            "canonical_id": "recipe:7151",
+            "servings_noun_singular": "helping",
+            "show_id": 17,
+            "compilations": [],
+            "video_ad_content": null,
+            "yields": "5 helpings",
+            "id": 7151,
+            "name": "Creamy Salsa Verde Chicken Dinner Kit",
+            "tips_and_ratings_enabled": true,
+            "updated_at": 1630533440,
+            "is_shoppable": true,
+            "seo_title": "Tasty Creamy Salsa Verde Chicken Dinner Kit",
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/d37ba4580c8747aab4366f60e4d02d95.png",
+            "thumbnail_alt_text": "",
+            "keywords": "cream salsa verde, hamburger helper, salsa verde chicken, tasty helper",
+            "brand_id": null,
+            "nutrition": {
+                "fat": 8,
+                "calories": 206,
+                "sugar": 1,
+                "carbohydrates": 2,
+                "fiber": 0,
+                "updated_at": "2021-09-03T08:02:49+02:00",
+                "protein": 28
+            },
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "description": "This dinner kit makes for the ultimate comfort food, and the beauty of this family friendly dish is that it comes together so quickly! Tasty dinner kits are now available in stores. ",
+            "inspired_by_url": null,
+            "renditions": [],
+            "topics": [
+                {
+                    "slug": "keto",
+                    "name": "Keto"
+                },
+                {
+                    "name": "Low Carb Meals",
+                    "slug": "low-carb-meals"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Dinner Made Easy with Tasty Dinner Kits!",
+                    "slug": "tasty-dinner-kits"
+                }
+            ],
+            "cook_time_minutes": 25,
+            "video_id": null,
+            "country": "US",
+            "instructions": [
+                {
+                    "display_text": "Add water, salt and rice to a 2-quart saucepan; stir. Bring to a boil.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63082,
+                    "position": 1
+                },
+                {
+                    "position": 2,
+                    "display_text": "Reduce heat to low. Cover; cook 22-24 minutes. Remove from heat and set aside.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63083
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63084,
+                    "position": 3,
+                    "display_text": "Meanwhile, coat chicken pieces with seasoning in shallow bowl or plastic bag."
+                },
+                {
+                    "id": 63085,
+                    "position": 4,
+                    "display_text": "Heat oil in 10-inch non-stick skillet over medium-high heat. Carefully add chicken and peppers; cook 6 to 8 minutes, stirring frequently, until thoroughly cooked.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "position": 5,
+                    "display_text": "Top rice with chicken and peppers; drizzle with Creamy Salsa Verde sauce. Sprinkle with optional toppings if desired. Enjoy!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63086
+                }
+            ],
+            "user_ratings": {
+                "count_positive": 31,
+                "score": 0.96875,
+                "count_negative": 1
+            },
+            "draft_status": "published",
+            "beauty_url": null,
+            "original_video_url": null,
+            "credits": [
+                {
+                    "name": null,
+                    "type": "internal"
+                }
+            ],
+            "is_one_top": false,
+            "nutrition_visibility": "auto",
+            "prep_time_minutes": 5,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "Tasty™ Creamy Salsa Verde Chicken Dinner Kit",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1630594859,
+                                "display_plural": "Tasty™ Creamy Salsa Verde Chicken Dinner Kits",
+                                "id": 8995,
+                                "display_singular": "Tasty™ Creamy Salsa Verde Chicken Dinner Kit",
+                                "updated_at": 1630594859,
+                                "name": "Tasty™ Creamy Salsa Verde Chicken Dinner Kit"
+                            },
+                            "id": 87468,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 656670,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1 Lb boneless, skinless chicken breasts cut in ½-inch cubes",
+                            "extra_comment": "cut in 1/2 inch cubes",
+                            "ingredient": {
+                                "display_singular": "boneless, skinless chicken breast",
+                                "updated_at": 1509035287,
+                                "name": "boneless, skinless chicken breast",
+                                "created_at": 1493390997,
+                                "display_plural": "boneless, skinless chicken breasts",
+                                "id": 33
+                            },
+                            "id": 79187,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "id": 656677,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    },
+                                    "quantity": "1"
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram"
+                                    },
+                                    "quantity": "455",
+                                    "id": 656676
+                                }
+                            ]
+                        },
+                        {
+                            "id": 79188,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "quantity": "1",
+                                    "id": 656669,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "1 medium red bell pepper, sliced in 2-inch lengths",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "updated_at": 1519872108,
+                                "name": "medium red bell pepper",
+                                "created_at": 1519872108,
+                                "display_plural": "medium red bell peppers",
+                                "id": 3807,
+                                "display_singular": "medium red bell pepper"
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon"
+                                    },
+                                    "quantity": "2",
+                                    "id": 656672
+                                }
+                            ],
+                            "raw_text": "2 tablespoons oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "oils",
+                                "id": 100,
+                                "display_singular": "oil",
+                                "updated_at": 1509035284,
+                                "name": "oil",
+                                "created_at": 1493745145
+                            },
+                            "id": 79189,
+                            "position": 4
+                        },
+                        {
+                            "raw_text": "1½ cups water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "water",
+                                "updated_at": 1509035280,
+                                "name": "water",
+                                "created_at": 1494124627,
+                                "display_plural": "waters",
+                                "id": 197
+                            },
+                            "id": 79190,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 656675
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "360",
+                                    "id": 656674
+                                }
+                            ]
+                        },
+                        {
+                            "id": 79191,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "quantity": "½",
+                                    "id": 656668,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    }
+                                }
+                            ],
+                            "raw_text": "½ teaspoon salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt"
+                            }
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "name": "Make It Special",
+                    "position": 2,
+                    "components": [
+                        {
+                            "extra_comment": "chopped",
+                            "ingredient": {
+                                "created_at": 1527199111,
+                                "display_plural": "fresh cilantro leaves",
+                                "id": 4163,
+                                "display_singular": "fresh cilantro leaf",
+                                "updated_at": 1527199111,
+                                "name": "fresh cilantro leaves"
+                            },
+                            "id": 79193,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2",
+                                    "id": 656671
+                                }
+                            ],
+                            "raw_text": "Sprinkled cotija cheese"
+                        },
+                        {
+                            "id": 79194,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 656673
+                                }
+                            ],
+                            "raw_text": "Hot sauce of choice",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1517365642,
+                                "display_plural": "crumbled cotija cheeses",
+                                "id": 3602,
+                                "display_singular": "crumbled cotija cheese",
+                                "updated_at": 1517365642,
+                                "name": "crumbled cotija cheese"
+                            }
+                        },
+                        {
+                            "raw_text": "n/a",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1495743231,
+                                "display_plural": "hot sauces",
+                                "id": 780,
+                                "display_singular": "hot sauce",
+                                "updated_at": 1509035234,
+                                "name": "hot sauce"
+                            },
+                            "id": 79195,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "id": 656678,
+                                    "unit": {
+                                        "display_plural": "drizzle",
+                                        "display_singular": "drizzle",
+                                        "abbreviation": "drizzle",
+                                        "system": "none",
+                                        "name": "drizzle"
+                                    },
+                                    "quantity": "0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "name": "tasty_dinner_kits",
+                    "id": 6361812,
+                    "display_name": "Tasty Dinner Kits",
+                    "type": "business_tags"
+                },
+                {
+                    "type": "healthy",
+                    "name": "low_carb",
+                    "id": 64467,
+                    "display_name": "Low-Carb"
+                },
+                {
+                    "type": "healthy",
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein"
+                },
+                {
+                    "name": "low_sugar",
+                    "id": 8091918,
+                    "display_name": "Low-Sugar",
+                    "type": "healthy"
+                },
+                {
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty",
+                    "name": "under_1_hour",
+                    "id": 8091748
+                },
+                {
+                    "name": "keto",
+                    "id": 8091756,
+                    "display_name": "Keto",
+                    "type": "dietary"
+                }
+            ],
+            "aspect_ratio": "16:9",
+            "video_url": null,
+            "servings_noun_plural": "helpings",
+            "total_time_tier": {
+                "tier": "under_30_minutes",
+                "display_tier": "Under 30 minutes"
+            },
+            "price": {
+                "consumption_portion": 300,
+                "total": 2050,
+                "updated_at": "2023-01-17T06:26:07+01:00",
+                "portion": 400,
+                "consumption_total": 1450
+            },
+            "slug": "creamy-salsa-verde-chicken-helper",
+            "promotion": "partial",
+            "language": "eng",
+            "brand": null,
+            "num_servings": 5,
+            "created_at": 1614979593,
+            "total_time_minutes": 30,
+            "approved_at": 1614995130
+        },
+        {
+            "nutrition": {
+                "updated_at": "2021-09-03T08:02:49+02:00",
+                "protein": 29,
+                "fat": 19,
+                "calories": 301,
+                "sugar": 2,
+                "carbohydrates": 5,
+                "fiber": 0
+            },
+            "beauty_url": null,
+            "yields": "5 helpings",
+            "video_id": null,
+            "servings_noun_singular": "helping",
+            "sections": [
+                {
+                    "position": 1,
+                    "components": [
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1630594965,
+                                "name": "Tasty™ Chicken Tikka Masala Dinner Kit",
+                                "created_at": 1630594965,
+                                "display_plural": "Tasty™ Chicken Tikka Masala Dinner Kits",
+                                "id": 8996,
+                                "display_singular": "Tasty™ Chicken Tikka Masala Dinner Kit"
+                            },
+                            "id": 87469,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 656687,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Tasty™ Chicken Tikka Masala Dinner Kit"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    },
+                                    "quantity": "1",
+                                    "id": 656689
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "455",
+                                    "id": 656688
+                                }
+                            ],
+                            "raw_text": "1 Lb boneless, skinless chicken breasts cut in ½-inch cubes",
+                            "extra_comment": "cut in 1/2-inch cubes",
+                            "ingredient": {
+                                "display_singular": "boneless, skinless chicken breast",
+                                "updated_at": 1509035287,
+                                "name": "boneless, skinless chicken breast",
+                                "created_at": 1493390997,
+                                "display_plural": "boneless, skinless chicken breasts",
+                                "id": 33
+                            },
+                            "id": 79177,
+                            "position": 2
+                        },
+                        {
+                            "raw_text": "1 medium onion, thinly sliced",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "name": "medium onion",
+                                "created_at": 1494212624,
+                                "display_plural": "medium onions",
+                                "id": 213,
+                                "display_singular": "medium onion",
+                                "updated_at": 1509035279
+                            },
+                            "id": 79178,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 656690
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035284,
+                                "name": "oil",
+                                "created_at": 1493745145,
+                                "display_plural": "oils",
+                                "id": 100,
+                                "display_singular": "oil"
+                            },
+                            "id": 79179,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "id": 656685,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2"
+                                }
+                            ],
+                            "raw_text": "2 tablespoons oil"
+                        },
+                        {
+                            "raw_text": "1½ cups water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494124627,
+                                "display_plural": "waters",
+                                "id": 197,
+                                "display_singular": "water",
+                                "updated_at": 1509035280,
+                                "name": "water"
+                            },
+                            "id": 79180,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 656682
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter"
+                                    },
+                                    "quantity": "360",
+                                    "id": 656679
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "½ teaspoon salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "salt",
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22
+                            },
+                            "id": 79181,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "½",
+                                    "id": 656684
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "½ cup heavy cream or milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1614979066,
+                                "name": "heavy cream (or milk)",
+                                "created_at": 1614979066,
+                                "display_plural": "heavy cream (or milk)s",
+                                "id": 8065,
+                                "display_singular": "heavy cream (or milk)"
+                            },
+                            "id": 79182,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "quantity": "½",
+                                    "id": 656683,
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL"
+                                    },
+                                    "quantity": "120",
+                                    "id": 656680
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null
+                },
+                {
+                    "name": "Make It Special",
+                    "position": 2,
+                    "components": [
+                        {
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "3",
+                                    "id": 656686
+                                }
+                            ],
+                            "raw_text": "1-2 tablespoons plain greek yogurt drizzled",
+                            "extra_comment": "chopped",
+                            "ingredient": {
+                                "display_singular": "fresh cilantro",
+                                "updated_at": 1509035266,
+                                "name": "fresh cilantro",
+                                "created_at": 1494974463,
+                                "display_plural": "fresh cilantros",
+                                "id": 372
+                            },
+                            "id": 79184
+                        },
+                        {
+                            "raw_text": "n/a",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035261,
+                                "name": "plain greek yogurt",
+                                "created_at": 1495053532,
+                                "display_plural": "plain greek yogurts",
+                                "id": 428,
+                                "display_singular": "plain greek yogurt"
+                            },
+                            "id": 79185,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "drizzle",
+                                        "abbreviation": "drizzle",
+                                        "system": "none",
+                                        "name": "drizzle",
+                                        "display_plural": "drizzle"
+                                    },
+                                    "quantity": "0",
+                                    "id": 656681
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "num_servings": 5,
+            "total_time_minutes": 30,
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Add water, salt and rice to a 2-quart saucepan; stir. Bring to a boil.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63076
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63077,
+                    "position": 2,
+                    "display_text": "Reduce heat to low. Cover; cook 22-24 minutes. Remove from heat and set aside."
+                },
+                {
+                    "temperature": null,
+                    "id": 63078,
+                    "position": 3,
+                    "display_text": "Meanwhile, coat chicken pieces with seasoning in shallow bowl or plastic bag.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "temperature": null,
+                    "id": 63079,
+                    "position": 4,
+                    "display_text": "Heat oil in 10-inch non-stick skillet over medium-high heat. Carefully add chicken and onions; cook 7 to 9 minutes, stirring frequently, until thoroughly cooked.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "id": 63080,
+                    "position": 5,
+                    "display_text": "Reduce heat to low. Stir in Tikka Masala sauce and cream; cook 1-2 minutes until cooked through.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "position": 6,
+                    "display_text": "Serve chicken and onions with rice. Sprinkle with optional toppings if desired. Enjoy!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63081
+                }
+            ],
+            "show_id": 17,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "credits": [
+                {
+                    "name": null,
+                    "type": "internal"
+                }
+            ],
+            "is_shoppable": true,
+            "brand": null,
+            "name": "Chicken Tikka Masala Dinner Kit",
+            "created_at": 1614978914,
+            "description": "Tikka masala makes for the ultimate comfort food, and the beauty of this family friendly dish is that it comes together so quickly! Tasty dinner kits are now available in stores. ",
+            "original_video_url": null,
+            "cook_time_minutes": 25,
+            "promotion": "partial",
+            "tips_and_ratings_enabled": true,
+            "aspect_ratio": "16:9",
+            "slug": "chicken-tikka-masala-helper",
+            "inspired_by_url": null,
+            "keywords": "chicken tikka masala, hamburger helper, tasty helper, tikka masala",
+            "id": 7150,
+            "approved_at": 1614995111,
+            "video_ad_content": null,
+            "seo_title": "Tasty Chicken Tikka Masala Dinner Kit",
+            "canonical_id": "recipe:7150",
+            "prep_time_minutes": 5,
+            "video_url": null,
+            "brand_id": null,
+            "compilations": [],
+            "buzz_id": null,
+            "draft_status": "published",
+            "thumbnail_alt_text": "",
+            "updated_at": 1616607387,
+            "country": "US",
+            "language": "eng",
+            "topics": [
+                {
+                    "name": "Keto",
+                    "slug": "keto"
+                },
+                {
+                    "slug": "low-carb-meals",
+                    "name": "Low Carb Meals"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Dinner Made Easy with Tasty Dinner Kits!",
+                    "slug": "tasty-dinner-kits"
+                }
+            ],
+            "is_one_top": false,
+            "renditions": [],
+            "user_ratings": {
+                "score": 0.827586,
+                "count_negative": 5,
+                "count_positive": 24
+            },
+            "price": {
+                "portion": 450,
+                "consumption_total": 1400,
+                "consumption_portion": 300,
+                "total": 2150,
+                "updated_at": "2023-01-17T06:26:07+01:00"
+            },
+            "tags": [
+                {
+                    "name": "tasty_dinner_kits",
+                    "id": 6361812,
+                    "display_name": "Tasty Dinner Kits",
+                    "type": "business_tags"
+                },
+                {
+                    "type": "healthy",
+                    "name": "low_carb",
+                    "id": 64467,
+                    "display_name": "Low-Carb"
+                },
+                {
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein",
+                    "type": "healthy"
+                },
+                {
+                    "name": "low_sugar",
+                    "id": 8091918,
+                    "display_name": "Low-Sugar",
+                    "type": "healthy"
+                },
+                {
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "id": 8091748,
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty",
+                    "name": "under_1_hour"
+                },
+                {
+                    "name": "keto",
+                    "id": 8091756,
+                    "display_name": "Keto",
+                    "type": "dietary"
+                }
+            ],
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/03c8f57052e04837b9201348378894ec.png",
+            "servings_noun_plural": "helpings",
+            "total_time_tier": {
+                "tier": "under_30_minutes",
+                "display_tier": "Under 30 minutes"
+            },
+            "nutrition_visibility": "auto",
+            "facebook_posts": []
+        },
+        {
+            "show_id": 17,
+            "sections": [
+                {
+                    "position": 1,
+                    "components": [
+                        {
+                            "ingredient": {
+                                "updated_at": 1630531011,
+                                "name": "Tasty™ Creamy Tuscan Chicken Dinner Kit",
+                                "created_at": 1630531011,
+                                "display_plural": "Tasty™ Creamy Tuscan Chicken Dinner Kits",
+                                "id": 8992,
+                                "display_singular": "Tasty™ Creamy Tuscan Chicken Dinner Kit"
+                            },
+                            "id": 87466,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 656659
+                                }
+                            ],
+                            "raw_text": "Tasty™ Creamy Tuscan Chicken Dinner Kit",
+                            "extra_comment": ""
+                        },
+                        {
+                            "raw_text": "1 Lb boneless, skinless chicken breasts",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035287,
+                                "name": "boneless, skinless chicken breast",
+                                "created_at": 1493390997,
+                                "display_plural": "boneless, skinless chicken breasts",
+                                "id": 33,
+                                "display_singular": "boneless, skinless chicken breast"
+                            },
+                            "id": 79125,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "455",
+                                    "id": 656667
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "lb",
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb"
+                                    },
+                                    "quantity": "1",
+                                    "id": 656666
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035287,
+                                "name": "butter",
+                                "created_at": 1493314940,
+                                "display_plural": "butters",
+                                "id": 30,
+                                "display_singular": "butter"
+                            },
+                            "id": 79126,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2",
+                                    "id": 656660
+                                }
+                            ],
+                            "raw_text": "2 tablespoons Butter",
+                            "extra_comment": ""
+                        },
+                        {
+                            "raw_text": "¾ cup Milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 21,
+                                "display_singular": "milk",
+                                "updated_at": 1509035288,
+                                "name": "milk",
+                                "created_at": 1493314636,
+                                "display_plural": "milks"
+                            },
+                            "id": 79127,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter"
+                                    },
+                                    "quantity": "180",
+                                    "id": 656665
+                                },
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "¾",
+                                    "id": 656664
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "4 cups, loosely packed, Fresh Spinach (about 2 oz)",
+                            "extra_comment": "loosely packed (about 2 oz)",
+                            "ingredient": {
+                                "display_singular": "fresh spinach",
+                                "updated_at": 1509035240,
+                                "name": "fresh spinach",
+                                "created_at": 1495650236,
+                                "display_plural": "fresh spinaches",
+                                "id": 687
+                            },
+                            "id": 79128,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "120",
+                                    "id": 656658
+                                },
+                                {
+                                    "quantity": "4",
+                                    "id": 656657,
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null
+                },
+                {
+                    "components": [
+                        {
+                            "id": 79130,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "50",
+                                    "id": 656662
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 656661
+                                }
+                            ],
+                            "raw_text": "n/a",
+                            "extra_comment": "coarsely chopped",
+                            "ingredient": {
+                                "updated_at": 1509035285,
+                                "name": "sundried tomato",
+                                "created_at": 1493745047,
+                                "display_plural": "sundried tomatoes",
+                                "id": 97,
+                                "display_singular": "sundried tomato"
+                            }
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1527201769,
+                                "name": "Juice of 1 lemon",
+                                "created_at": 1527201769,
+                                "display_plural": "Juices of 1 lemon",
+                                "id": 4166,
+                                "display_singular": "Juice of 1 lemon"
+                            },
+                            "id": 79131,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 656663
+                                }
+                            ],
+                            "raw_text": "n/a"
+                        },
+                        {
+                            "raw_text": "n/a",
+                            "extra_comment": "finely chopped",
+                            "ingredient": {
+                                "updated_at": 1509035283,
+                                "name": "fresh parsley",
+                                "created_at": 1493906396,
+                                "display_plural": "fresh parsleys",
+                                "id": 154,
+                                "display_singular": "fresh parsley"
+                            },
+                            "id": 79132,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2",
+                                    "id": 656656
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Make It Special",
+                    "position": 2
+                }
+            ],
+            "name": "Creamy Tuscan Chicken Dinner Kit",
+            "thumbnail_alt_text": "",
+            "credits": [
+                {
+                    "name": null,
+                    "type": "internal"
+                }
+            ],
+            "approved_at": 1614995016,
+            "slug": "creamy-tuscan-chicken-helper",
+            "video_url": null,
+            "country": "US",
+            "brand_id": null,
+            "tags": [
+                {
+                    "name": "tasty_dinner_kits",
+                    "id": 6361812,
+                    "display_name": "Tasty Dinner Kits",
+                    "type": "business_tags"
+                },
+                {
+                    "name": "low_carb",
+                    "id": 64467,
+                    "display_name": "Low-Carb",
+                    "type": "healthy"
+                },
+                {
+                    "type": "healthy",
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein"
+                },
+                {
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_1_hour",
+                    "id": 8091748,
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty"
+                }
+            ],
+            "buzz_id": null,
+            "aspect_ratio": "16:9",
+            "description": "Tuscan chicken is the ultimate comfort food, and the beauty of this family friendly dish is that it comes together so quickly! Tasty dinner kits are now available in stores. ",
+            "is_shoppable": true,
+            "total_time_tier": {
+                "tier": "under_30_minutes",
+                "display_tier": "Under 30 minutes"
+            },
+            "user_ratings": {
+                "score": 0.915663,
+                "count_negative": 7,
+                "count_positive": 76
+            },
+            "canonical_id": "recipe:7147",
+            "yields": "Servings 3",
+            "language": "eng",
+            "brand": null,
+            "beauty_url": null,
+            "facebook_posts": [],
+            "prep_time_minutes": 5,
+            "draft_status": "published",
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/63a823b13dd94ba4aee147b7f03aa6f4.png",
+            "id": 7147,
+            "tips_and_ratings_enabled": true,
+            "created_at": 1614969124,
+            "total_time_minutes": 30,
+            "updated_at": 1630531243,
+            "servings_noun_plural": "helpings",
+            "video_ad_content": null,
+            "original_video_url": null,
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Fill a 2-quart saucepan two-thirds full of water. Heat to boiling.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63051
+                },
+                {
+                    "id": 63052,
+                    "position": 2,
+                    "display_text": "Add pasta; stir. Boil gently 12 minutes, stirring occasionally. Drain; set aside.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "id": 63053,
+                    "position": 3,
+                    "display_text": "Meanwhile, cut chicken breasts at an angle, into ½-inch medallions.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63054,
+                    "position": 4,
+                    "display_text": "Coat chicken with seasoning in shallow bowl or plastic bag.",
+                    "start_time": 0
+                },
+                {
+                    "temperature": null,
+                    "id": 63055,
+                    "position": 5,
+                    "display_text": "Heat butter in 10-inch non-stick skillet over medium heat; carefully add chicken and any excess seasoning. Cook medallions 4 to 5 minutes on each side, until browned.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63056,
+                    "position": 6,
+                    "display_text": "Stir in milk; heat to boiling.",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63057,
+                    "position": 7,
+                    "display_text": "Reduce heat to medium-low, stir in spinach, and sundried tomatoes if using. Simmer 5 minutes."
+                },
+                {
+                    "temperature": null,
+                    "id": 63058,
+                    "position": 8,
+                    "display_text": "Stir in Creamy Garlic Already sauce.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "display_text": "Top pasta with chicken and sauce. Sprinkle with optional toppings if desired. Enjoy!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 63059,
+                    "position": 9
+                }
+            ],
+            "promotion": "partial",
+            "nutrition": {
+                "calories": 384,
+                "sugar": 8,
+                "carbohydrates": 11,
+                "fiber": 1,
+                "updated_at": "2021-09-03T08:02:49+02:00",
+                "protein": 50,
+                "fat": 14
+            },
+            "num_servings": 3,
+            "renditions": [],
+            "seo_title": "Tasty Creamy Tuscan Chicken Dinner Kit",
+            "cook_time_minutes": 25,
+            "keywords": "creamy tuscan chicken, hamburger helper, tasty helper, tuscan chicken",
+            "price": {
+                "total": 2250,
+                "updated_at": "2023-01-17T06:26:07+01:00",
+                "portion": 750,
+                "consumption_total": 900,
+                "consumption_portion": 300
+            },
+            "servings_noun_singular": "helping",
+            "compilations": [],
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "inspired_by_url": null,
+            "is_one_top": false,
+            "topics": [
+                {
+                    "name": "Low Carb Meals",
+                    "slug": "low-carb-meals"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "slug": "tasty-dinner-kits",
+                    "name": "Dinner Made Easy with Tasty Dinner Kits!"
+                }
+            ],
+            "nutrition_visibility": "auto",
+            "video_id": null
+        }
+    ]
+}

@@ -1,0 +1,4026 @@
+{
+    "count": 6,
+    "results": [
+        {
+            "nutrition": {
+                "fiber": 1,
+                "updated_at": "2022-10-01T08:01:27+02:00",
+                "protein": 4,
+                "fat": 10,
+                "calories": 243,
+                "sugar": 20,
+                "carbohydrates": 33
+            },
+            "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/dfced92d7ea74bdd85ed40ae2b8fea01/ReelsThumbGrilledSnickers.jpeg",
+            "approved_at": 1655922060,
+            "beauty_url": null,
+            "language": "eng",
+            "tips_and_ratings_enabled": true,
+            "canonical_id": "recipe:8282",
+            "promotion": "full",
+            "id": 8282,
+            "instructions": [
+                {
+                    "temperature": null,
+                    "id": 71984,
+                    "position": 1,
+                    "display_text": "Preheat an outdoor grill to medium-low heat. Place a nonstick grill tray or pizza stone on the grates.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "temperature": null,
+                    "id": 71985,
+                    "position": 2,
+                    "display_text": "Divide pizza dough into 12 equal portions.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "position": 3,
+                    "display_text": "Working one at a time, flatten each ball of dough, then place a candy bar in the middle and fold the dough around to seal, then roll into a ball. Spray the dough balls with nonstick spray.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 71986
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 71987,
+                    "position": 4,
+                    "display_text": "Place the dough balls on the grill tray. Cook, turning often, until golden brown and cooked through, 8–10 minutes."
+                },
+                {
+                    "id": 71988,
+                    "position": 5,
+                    "display_text": "Transfer the bites to a serving platter and dust with powdered sugar. Garnish with chocolate sauce and whipped cream.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "temperature": null,
+                    "id": 71989,
+                    "position": 6,
+                    "display_text": "Serve hot.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "position": 7,
+                    "display_text": "Enjoy!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 71991
+                }
+            ],
+            "keywords": "",
+            "facebook_posts": [],
+            "servings_noun_singular": "bite",
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "total_time_minutes": 20,
+            "video_url": "https://vid.tasty.co/output/252693/hls24_1662503281.m3u8",
+            "country": "US",
+            "topics": [
+                {
+                    "slug": "desserts",
+                    "name": "Desserts"
+                },
+                {
+                    "slug": "american",
+                    "name": "American"
+                }
+            ],
+            "video_ad_content": "none",
+            "renditions": [
+                {
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/252693/square_720/1662503281_00001.png",
+                    "file_size": 3977924,
+                    "aspect": "portrait",
+                    "width": 404,
+                    "maximum_bit_rate": null,
+                    "url": "https://vid.tasty.co/output/252693/square_720/1662503281",
+                    "duration": 18298,
+                    "bit_rate": 1740,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_404x720",
+                    "height": 720
+                },
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/252693/square_320/1662503281_00001.png",
+                    "duration": 18298,
+                    "bit_rate": 628,
+                    "content_type": "video/mp4",
+                    "aspect": "portrait",
+                    "name": "mp4_180x320",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 1435124,
+                    "url": "https://vid.tasty.co/output/252693/square_320/1662503281",
+                    "width": 180,
+                    "minimum_bit_rate": null,
+                    "height": 320
+                },
+                {
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "container": "mp4",
+                    "duration": 18298,
+                    "bit_rate": 1740,
+                    "minimum_bit_rate": null,
+                    "aspect": "portrait",
+                    "width": 404,
+                    "name": "mp4_404x720",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/252693/landscape_720/1662503281_00001.png",
+                    "file_size": 3978892,
+                    "url": "https://vid.tasty.co/output/252693/landscape_720/1662503281",
+                    "content_type": "video/mp4"
+                },
+                {
+                    "width": 270,
+                    "name": "mp4_270x480",
+                    "maximum_bit_rate": null,
+                    "height": 480,
+                    "file_size": 2310519,
+                    "duration": 18298,
+                    "bit_rate": 1011,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/252693/landscape_480/1662503281_00001.png",
+                    "url": "https://vid.tasty.co/output/252693/landscape_480/1662503281",
+                    "aspect": "portrait"
+                },
+                {
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/252693/hls24_1662503281.m3u8",
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "width": 576,
+                    "minimum_bit_rate": 274,
+                    "container": "ts",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/252693/1445289064805-h2exzu/1662503281_00001.png",
+                    "duration": 18314,
+                    "bit_rate": null,
+                    "aspect": "portrait",
+                    "name": "low",
+                    "maximum_bit_rate": 2570,
+                    "height": 1024
+                }
+            ],
+            "num_servings": 12,
+            "description": "Every time my aunt and uncle hosted one of their famous summer BBQs, these grilled Snickers pizza bites were on the menu. They’re quick, easy, and a crowd favorite. The kids would assemble them while the adults grilled the main course. After dinner, they’d pop them on the grill until golden brown, then dust with powdered sugar. Perfection!",
+            "credits": [
+                {
+                    "name": "Kelly Paige",
+                    "type": "internal"
+                },
+                {
+                    "name": "Kelly Paige",
+                    "type": "internal"
+                }
+            ],
+            "is_one_top": false,
+            "servings_noun_plural": "bites",
+            "seo_title": "",
+            "name": "Grilled Snickers® Pizza Bites",
+            "slug": "grilled-snickers-r-pizza-bites",
+            "brand_id": null,
+            "is_shoppable": true,
+            "nutrition_visibility": "auto",
+            "price": {
+                "portion": 2800,
+                "consumption_total": 32700,
+                "consumption_portion": 2700,
+                "total": 33300,
+                "updated_at": "2023-01-17T06:30:42+01:00"
+            },
+            "compilations": [],
+            "yields": "Makes 12 bites",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/80bb6606bc8a47a2b792fff61b767b7e/GrilledSnickersBites.mp4",
+            "video_id": 159399,
+            "user_ratings": {
+                "count_positive": 14,
+                "score": 0.7,
+                "count_negative": 6
+            },
+            "sections": [
+                {
+                    "position": 1,
+                    "components": [
+                        {
+                            "id": 94897,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 694666,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Nonstick cooking spray, for greasing",
+                            "extra_comment": "for greasing",
+                            "ingredient": {
+                                "updated_at": 1520176895,
+                                "name": "nonstick cooking spray",
+                                "created_at": 1520176895,
+                                "display_plural": "nonstick cooking sprays",
+                                "id": 3826,
+                                "display_singular": "nonstick cooking spray"
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "lb",
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb"
+                                    },
+                                    "quantity": "½",
+                                    "id": 694665
+                                }
+                            ],
+                            "raw_text": "½ pound store-bought pizza dough",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1496279473,
+                                "display_plural": "store-bought pizza doughs",
+                                "id": 1069,
+                                "display_singular": "store-bought pizza dough",
+                                "updated_at": 1509035210,
+                                "name": "store-bought pizza dough"
+                            },
+                            "id": 94898,
+                            "position": 2
+                        },
+                        {
+                            "id": 94899,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "piece",
+                                        "display_plural": "pieces",
+                                        "display_singular": "piece",
+                                        "abbreviation": "piece"
+                                    },
+                                    "quantity": "12",
+                                    "id": 694669
+                                }
+                            ],
+                            "raw_text": "12 bite-size Snickers®",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1655491333,
+                                "name": "bite-size Snickers®",
+                                "created_at": 1655491333,
+                                "display_plural": "bite-size Snickers®s",
+                                "id": 9892,
+                                "display_singular": "bite-size Snickers®"
+                            }
+                        },
+                        {
+                            "raw_text": "Whipped cream, optional",
+                            "extra_comment": "for garnish",
+                            "ingredient": {
+                                "display_singular": "whipped cream",
+                                "updated_at": 1509035253,
+                                "name": "whipped cream",
+                                "created_at": 1495218157,
+                                "display_plural": "whipped creams",
+                                "id": 528
+                            },
+                            "id": 94901,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 694667
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "id": 1152,
+                                "display_singular": "chocolate sauce",
+                                "updated_at": 1509035205,
+                                "name": "chocolate sauce",
+                                "created_at": 1496495673,
+                                "display_plural": "chocolate sauces"
+                            },
+                            "id": 94902,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 694668,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Chocolate sauce, optional",
+                            "extra_comment": "for garnish"
+                        },
+                        {
+                            "id": 94903,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 694670
+                                }
+                            ],
+                            "raw_text": "n/a",
+                            "extra_comment": "for garnish",
+                            "ingredient": {
+                                "updated_at": 1509035283,
+                                "name": "powdered sugar",
+                                "created_at": 1493747135,
+                                "display_plural": "powdered sugars",
+                                "id": 144,
+                                "display_singular": "powdered sugar"
+                            }
+                        }
+                    ],
+                    "name": null
+                }
+            ],
+            "tags": [
+                {
+                    "name": "american",
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine"
+                },
+                {
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "fourth_desserts",
+                    "id": 7041340,
+                    "display_name": "Fourth Desserts",
+                    "type": "feature_page"
+                },
+                {
+                    "id": 7041324,
+                    "display_name": "Summer Desserts",
+                    "type": "feature_page",
+                    "name": "summer_desserts"
+                },
+                {
+                    "name": "desserts",
+                    "id": 64485,
+                    "display_name": "Desserts",
+                    "type": "meal"
+                },
+                {
+                    "name": "snickers",
+                    "id": 6361700,
+                    "display_name": "Snickers",
+                    "type": "feature_page"
+                },
+                {
+                    "type": "cooking_style",
+                    "name": "grill",
+                    "id": 64494,
+                    "display_name": "Grill"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "summer",
+                    "id": 64510,
+                    "display_name": "Summer",
+                    "type": "seasonal"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_1_hour",
+                    "id": 8091748,
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty"
+                }
+            ],
+            "buzz_id": null,
+            "draft_status": "published",
+            "updated_at": 1663272086,
+            "cook_time_minutes": 10,
+            "brand": null,
+            "prep_time_minutes": 10,
+            "aspect_ratio": "9:16",
+            "created_at": 1655491040,
+            "inspired_by_url": null,
+            "thumbnail_alt_text": "",
+            "total_time_tier": {
+                "display_tier": "Under 30 minutes",
+                "tier": "under_30_minutes"
+            },
+            "show_id": 17
+        },
+        {
+            "credits": [
+                {
+                    "name": "Betsy Carter",
+                    "type": "internal"
+                },
+                {
+                    "name": "Danielle Campbell ",
+                    "type": "internal"
+                }
+            ],
+            "yields": "Servings: 1",
+            "promotion": "full",
+            "id": 6922,
+            "slug": "snickers-inspired-latte",
+            "tips_and_ratings_enabled": true,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "video_id": 118455,
+            "nutrition_visibility": "auto",
+            "country": "US",
+            "num_servings": 1,
+            "approved_at": 1605728306,
+            "video_url": "https://vid.tasty.co/output/185331/hls24_1605570759.m3u8",
+            "renditions": [
+                {
+                    "aspect": "square",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185331/square_720/1605570759_00001.png",
+                    "url": "https://vid.tasty.co/output/185331/square_720/1605570759",
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "file_size": 12205277,
+                    "duration": 61069,
+                    "bit_rate": 1599,
+                    "width": 720
+                },
+                {
+                    "minimum_bit_rate": null,
+                    "name": "mp4_320x320",
+                    "maximum_bit_rate": null,
+                    "file_size": 4279806,
+                    "duration": 61069,
+                    "bit_rate": 561,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185331/square_320/1605570759_00001.png",
+                    "url": "https://vid.tasty.co/output/185331/square_320/1605570759",
+                    "width": 320,
+                    "height": 320
+                },
+                {
+                    "url": "https://vid.tasty.co/output/185331/landscape_720/1605570759",
+                    "bit_rate": 1598,
+                    "aspect": "square",
+                    "width": 720,
+                    "height": 720,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185331/landscape_720/1605570759_00001.png",
+                    "file_size": 12196160,
+                    "duration": 61069,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720"
+                },
+                {
+                    "container": "mp4",
+                    "duration": 61069,
+                    "bit_rate": 925,
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "height": 480,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185331/landscape_480/1605570759_00001.png",
+                    "file_size": 7054124,
+                    "url": "https://vid.tasty.co/output/185331/landscape_480/1605570759",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "name": "mp4_480x480",
+                    "maximum_bit_rate": null
+                },
+                {
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080,
+                    "minimum_bit_rate": 273,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185331/1445289064805-h2exzu/1605570759_00001.png",
+                    "file_size": null,
+                    "duration": 61061,
+                    "name": "low",
+                    "maximum_bit_rate": 2664,
+                    "height": 1080,
+                    "container": "ts",
+                    "url": "https://vid.tasty.co/output/185331/hls24_1605570759.m3u8"
+                }
+            ],
+            "is_shoppable": true,
+            "total_time_tier": {
+                "tier": "under_15_minutes",
+                "display_tier": "Under 15 minutes"
+            },
+            "instructions": [
+                {
+                    "temperature": null,
+                    "id": 61133,
+                    "position": 1,
+                    "display_text": "In a small saucepan over medium heat, whisk together the skim milk, sugar, peanut butter, and vanilla. Bring to a low simmer, whisking constantly, until the sugar has dissolved and the syrup is smooth and thick, 3–5 minutes. Add the salt, then remove the pot from the heat and let the syrup cool for 10–15 minutes, until thickened slightly. Leftover syrup will keep in an airtight container the refrigerator for up to 1 month.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "display_text": "Drizzle the peanut butter syrup around the inside rim of a large mug. Add the espresso and frothed whole milk. Top with whipped cream, caramel syrup, chocolate syrup, crushed peanuts, and crushed nougat.",
+                    "start_time": 9000,
+                    "appliance": null,
+                    "end_time": 47000,
+                    "temperature": null,
+                    "id": 61134,
+                    "position": 2
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 61135,
+                    "position": 3,
+                    "display_text": "Serve immediately."
+                },
+                {
+                    "id": 61136,
+                    "position": 4,
+                    "display_text": "Enjoy!",
+                    "start_time": 52333,
+                    "appliance": null,
+                    "end_time": 57500,
+                    "temperature": null
+                }
+            ],
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "1 cup skim milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "skim milk",
+                                "updated_at": 1509035174,
+                                "name": "skim milk",
+                                "created_at": 1496943760,
+                                "display_plural": "skim milks",
+                                "id": 1659
+                            },
+                            "id": 76086,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "quantity": "1",
+                                    "id": 606409,
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "240",
+                                    "id": 606408
+                                }
+                            ]
+                        },
+                        {
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "id": 606411,
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "1"
+                                },
+                                {
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "200",
+                                    "id": 606410
+                                }
+                            ],
+                            "raw_text": "1 cup sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1493314650,
+                                "display_plural": "sugars",
+                                "id": 24,
+                                "display_singular": "sugar",
+                                "updated_at": 1509035288,
+                                "name": "sugar"
+                            },
+                            "id": 76087
+                        },
+                        {
+                            "id": 76088,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "½",
+                                    "id": 606399
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "120",
+                                    "id": 606398
+                                }
+                            ],
+                            "raw_text": "½ cup creamy peanut butter",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "creamy peanut butter",
+                                "created_at": 1496004371,
+                                "display_plural": "creamy peanut butters",
+                                "id": 898,
+                                "display_singular": "creamy peanut butter",
+                                "updated_at": 1509035224
+                            }
+                        },
+                        {
+                            "id": 76089,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 606400
+                                }
+                            ],
+                            "raw_text": "1 teaspoon vanilla extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035284,
+                                "name": "vanilla extract",
+                                "created_at": 1493745620,
+                                "display_plural": "vanilla extracts",
+                                "id": 103,
+                                "display_singular": "vanilla extract"
+                            }
+                        },
+                        {
+                            "id": 76090,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "⅛",
+                                    "id": 606394
+                                }
+                            ],
+                            "raw_text": "⅛ teaspoon kosher salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            }
+                        },
+                        {
+                            "raw_text": "1 cup whole milk, frothed",
+                            "extra_comment": "frothed",
+                            "ingredient": {
+                                "name": "whole milk",
+                                "created_at": 1495732941,
+                                "display_plural": "whole milks",
+                                "id": 770,
+                                "display_singular": "whole milk",
+                                "updated_at": 1509035235
+                            },
+                            "id": 76091,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1",
+                                    "id": 606396
+                                },
+                                {
+                                    "id": 606395,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "240"
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "brewed espressos",
+                                "id": 7491,
+                                "display_singular": "brewed espresso",
+                                "updated_at": 1605545364,
+                                "name": "brewed espresso",
+                                "created_at": 1605545364
+                            },
+                            "id": 76092,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "4",
+                                    "id": 606406
+                                },
+                                {
+                                    "id": 606404,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "115"
+                                }
+                            ],
+                            "raw_text": "4 ounces brewed espresso"
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035253,
+                                "name": "whipped cream",
+                                "created_at": 1495218157,
+                                "display_plural": "whipped creams",
+                                "id": 528,
+                                "display_singular": "whipped cream"
+                            },
+                            "id": 76093,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 606412
+                                }
+                            ],
+                            "raw_text": "Whipped cream, for topping",
+                            "extra_comment": "for topping"
+                        },
+                        {
+                            "raw_text": "Caramel syrup, for topping",
+                            "extra_comment": "for topping",
+                            "ingredient": {
+                                "id": 1315,
+                                "display_singular": "caramel syrup",
+                                "updated_at": 1509035195,
+                                "name": "caramel syrup",
+                                "created_at": 1496681427,
+                                "display_plural": "caramel syrups"
+                            },
+                            "id": 76094,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606405
+                                }
+                            ]
+                        },
+                        {
+                            "id": 76095,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 606407
+                                }
+                            ],
+                            "raw_text": "Chocolate syrup, for topping",
+                            "extra_comment": "for topping",
+                            "ingredient": {
+                                "updated_at": 1509035245,
+                                "name": "chocolate syrup",
+                                "created_at": 1495576933,
+                                "display_plural": "chocolate syrups",
+                                "id": 638,
+                                "display_singular": "chocolate syrup"
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606401
+                                }
+                            ],
+                            "raw_text": "Crushed peanuts, for topping",
+                            "extra_comment": "for topping",
+                            "ingredient": {
+                                "id": 1890,
+                                "display_singular": "crushed peanut",
+                                "updated_at": 1509035158,
+                                "name": "crushed peanut",
+                                "created_at": 1497977748,
+                                "display_plural": "crushed peanuts"
+                            },
+                            "id": 76096,
+                            "position": 11
+                        },
+                        {
+                            "raw_text": "Crushed nougat, for topping",
+                            "extra_comment": "for topping",
+                            "ingredient": {
+                                "updated_at": 1605545411,
+                                "name": "crushed nougat",
+                                "created_at": 1605545411,
+                                "display_plural": "crushed nougats",
+                                "id": 7492,
+                                "display_singular": "crushed nougat"
+                            },
+                            "id": 76097,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606402
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "name": "Special Equipment",
+                    "position": 2,
+                    "components": [
+                        {
+                            "raw_text": "Milk frother",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "milk frother",
+                                "created_at": 1605545419,
+                                "display_plural": "milk frothers",
+                                "id": 7493,
+                                "display_singular": "milk frother",
+                                "updated_at": 1605545419
+                            },
+                            "id": 76099,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606397
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "Espresso machine",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "espresso machine",
+                                "created_at": 1605545426,
+                                "display_plural": "espresso machines",
+                                "id": 7494,
+                                "display_singular": "espresso machine",
+                                "updated_at": 1605545426
+                            },
+                            "id": 76100,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606403
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "type": "feature_page",
+                    "name": "snickers",
+                    "id": 6361700,
+                    "display_name": "Snickers"
+                },
+                {
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion",
+                    "name": "indulgent_sweets",
+                    "id": 65850
+                },
+                {
+                    "name": "drinks",
+                    "id": 64487,
+                    "display_name": "Drinks",
+                    "type": "meal"
+                },
+                {
+                    "type": "difficulty",
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes"
+                },
+                {
+                    "type": "difficulty",
+                    "name": "under_15_minutes",
+                    "id": 8091744,
+                    "display_name": "Under 15 Minutes"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty",
+                    "name": "under_1_hour",
+                    "id": 8091748
+                }
+            ],
+            "compilations": [
+                {
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1834",
+                    "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/8127d45fe7004526b798a36ac9e08b17/Recipe-Cards-1080x1350-01-Snickers.jpg",
+                    "promotion": "full",
+                    "video_id": 118437,
+                    "keywords": null,
+                    "description": null,
+                    "draft_status": "published",
+                    "language": "eng",
+                    "name": "Recipes For When You Wake Up Feeling Fancy ",
+                    "country": "US",
+                    "is_shoppable": true,
+                    "video_url": "https://vid.tasty.co/output/185273/hls24_1605553114.m3u8",
+                    "approved_at": 1605729590,
+                    "id": 1834,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1605306674,
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/1a63935a9b664ec9a815f5d08ef38430/cafe_snickers_1080x1080_OO.jpg",
+                    "buzz_id": null,
+                    "slug": "recipes-for-when-you-wake-up-feeling-fancy"
+                },
+                {
+                    "thumbnail_alt_text": "",
+                    "promotion": "full",
+                    "video_id": 113545,
+                    "keywords": "york, hershey's, three musketeers, snickers, almond joy",
+                    "created_at": 1606174005,
+                    "description": null,
+                    "draft_status": "published",
+                    "country": "US",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "id": 1861,
+                    "slug": "tasty-cafe-candy-bar-drinks-compilation",
+                    "is_shoppable": false,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/295281.jpg",
+                    "name": "Tasty Café Candy Bar Drinks Compilation",
+                    "beauty_url": null,
+                    "approved_at": 1606228440,
+                    "canonical_id": "compilation:1861",
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "language": "eng",
+                    "video_url": "https://vid.tasty.co/output/186115/hls24_1606176525.m3u8"
+                }
+            ],
+            "video_ad_content": "none",
+            "seo_title": "Snickers-Inspired Latte",
+            "cook_time_minutes": 5,
+            "keywords": "beverages , candy, holiday, holiday drinks, latte, snicker, sweets, tasty, tasty recipes",
+            "show_id": 17,
+            "aspect_ratio": "1:1",
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/294292.jpg",
+            "thumbnail_alt_text": "",
+            "total_time_minutes": 15,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/c71d646b6f254cd8ab03e2e6ce066849/BFV73126_SnickersLatte_JSA_111620_v2_OO_1-1.mp4",
+            "brand": null,
+            "brand_id": null,
+            "description": "If you’re not you when you’re hungry or under-caffeinated, this latte is sure to satisfy! Toppings like caramel and chocolate syrups, whipped cream, and crushed peanuts and nougat take this drink to a whole new level.",
+            "draft_status": "published",
+            "nutrition": {},
+            "inspired_by_url": null,
+            "is_one_top": false,
+            "canonical_id": "recipe:6922",
+            "user_ratings": {
+                "count_negative": 5,
+                "count_positive": 24,
+                "score": 0.827586
+            },
+            "servings_noun_singular": "serving",
+            "prep_time_minutes": 5,
+            "name": "Snickers-Inspired Latte",
+            "created_at": 1605712335,
+            "updated_at": 1605728307,
+            "servings_noun_plural": "servings",
+            "beauty_url": null,
+            "facebook_posts": [],
+            "language": "eng",
+            "price": {
+                "total": 137300,
+                "updated_at": "2023-01-17T06:25:15+01:00",
+                "portion": 137300,
+                "consumption_total": 135750,
+                "consumption_portion": 135750
+            },
+            "buzz_id": null,
+            "topics": []
+        },
+        {
+            "yields": "Makes 32 bars",
+            "language": "eng",
+            "tags": [
+                {
+                    "name": "baking_pan",
+                    "id": 1280500,
+                    "display_name": "Baking Pan",
+                    "type": "equipment"
+                },
+                {
+                    "name": "parchment_paper",
+                    "id": 1247780,
+                    "display_name": "Parchment Paper",
+                    "type": "equipment"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "name": "spatula",
+                    "id": 1247788,
+                    "display_name": "Spatula",
+                    "type": "equipment"
+                },
+                {
+                    "name": "snacks",
+                    "id": 64491,
+                    "display_name": "Snacks",
+                    "type": "meal"
+                },
+                {
+                    "name": "game_day",
+                    "id": 64501,
+                    "display_name": "Game Day",
+                    "type": "holiday"
+                },
+                {
+                    "name": "casual_party",
+                    "id": 64503,
+                    "display_name": "Casual Party",
+                    "type": "occasion"
+                },
+                {
+                    "name": "kid_friendly",
+                    "id": 64488,
+                    "display_name": "Kid-Friendly",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "indulgent_sweets",
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "snickers",
+                    "id": 6361700,
+                    "display_name": "Snickers"
+                },
+                {
+                    "name": "low_sugar",
+                    "id": 8091918,
+                    "display_name": "Low-Sugar",
+                    "type": "healthy"
+                },
+                {
+                    "id": 64470,
+                    "display_name": "5 Ingredients or Less",
+                    "type": "difficulty",
+                    "name": "5_ingredients_or_less"
+                },
+                {
+                    "type": "difficulty",
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty",
+                    "name": "under_1_hour",
+                    "id": 8091748
+                },
+                {
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary",
+                    "name": "dairy_free"
+                },
+                {
+                    "display_name": "Vegan",
+                    "type": "dietary",
+                    "name": "vegan",
+                    "id": 64468
+                },
+                {
+                    "name": "vegetarian",
+                    "id": 64469,
+                    "display_name": "Vegetarian",
+                    "type": "dietary"
+                }
+            ],
+            "num_servings": 32,
+            "aspect_ratio": "1:1",
+            "approved_at": 1597416959,
+            "is_shoppable": true,
+            "seo_title": "",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/474ce93e62cb4001bfde8b18c0343483/BFV69255_DippedRiceCake_AC_v4_OO.mp4",
+            "user_ratings": {
+                "count_positive": 24,
+                "score": 0.774194,
+                "count_negative": 7
+            },
+            "total_time_tier": {
+                "tier": "under_30_minutes",
+                "display_tier": "Under 30 minutes"
+            },
+            "nutrition": {
+                "protein": 3,
+                "fat": 6,
+                "calories": 207,
+                "sugar": 4,
+                "carbohydrates": 35,
+                "fiber": 2,
+                "updated_at": "2021-05-03T13:21:28+02:00"
+            },
+            "country": "US",
+            "instructions": [
+                {
+                    "id": 57855,
+                    "position": 1,
+                    "display_text": "Line a baking sheet with parchment paper.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "start_time": 8333,
+                    "appliance": null,
+                    "end_time": 19500,
+                    "temperature": null,
+                    "id": 57856,
+                    "position": 2,
+                    "display_text": "Place the chocolate chips and coconut oil in a medium microwave-safe bowl. Microwave at full power for 1 minute, stirring every 30 seconds, until melted and smooth. Transfer the chocolate to a 2-cup liquid measuring cup or tall glass for easy dipping."
+                },
+                {
+                    "id": 57857,
+                    "position": 3,
+                    "display_text": "Add the toppings to small bowls. Dip half of each rice cake quarter in the melted chocolate, letting the excess drip off. Dip the pieces in the topping(s) to coat. Set on the prepared baking sheet and sprinkle with flaky salt. Refrigerate until the chocolate sets, about 5 minutes, before serving.",
+                    "start_time": 23000,
+                    "appliance": null,
+                    "end_time": 66166,
+                    "temperature": null
+                },
+                {
+                    "id": 57858,
+                    "position": 4,
+                    "display_text": "Enjoy!",
+                    "start_time": 67000,
+                    "appliance": null,
+                    "end_time": 69833,
+                    "temperature": null
+                }
+            ],
+            "keywords": "chocolate, dessert, fun recipes, rice cake, snack, tasty, tasty recipe, tasty_vegetarian",
+            "brand": null,
+            "servings_noun_singular": "bar",
+            "show_id": 17,
+            "prep_time_minutes": 10,
+            "compilations": [
+                {
+                    "is_shoppable": true,
+                    "description": null,
+                    "approved_at": 1605729590,
+                    "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/8127d45fe7004526b798a36ac9e08b17/Recipe-Cards-1080x1350-01-Snickers.jpg",
+                    "buzz_id": null,
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "draft_status": "published",
+                    "name": "Recipes For When You Wake Up Feeling Fancy ",
+                    "id": 1834,
+                    "country": "US",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "created_at": 1605306674,
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/1a63935a9b664ec9a815f5d08ef38430/cafe_snickers_1080x1080_OO.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/185273/hls24_1605553114.m3u8",
+                    "language": "eng",
+                    "canonical_id": "compilation:1834",
+                    "slug": "recipes-for-when-you-wake-up-feeling-fancy",
+                    "video_id": 118437
+                },
+                {
+                    "canonical_id": "compilation:2139",
+                    "buzz_id": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/306243.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/192496/hls24_1612527792.m3u8",
+                    "approved_at": 1612553393,
+                    "video_id": 124203,
+                    "country": "US",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "created_at": 1612527818,
+                    "id": 2139,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "description": "It's Bachelor season again! And you have to have the perfect selection of snacks to truly go with all the drama. You can keep it simple with delicious <a href=\"https://tasty.co/recipe/bbq-popcorn\">barbecue popcorn</a>. But do you want to impress your friends with something more elaborate? Then try the <a href=\"https://tasty.co/recipe/cajun-bbq-baked-wings\">Cajun BBQ Baked Wings</a>. You can even make some <a href=\"https://tasty.co/recipe/cinnamon-sugar-dippers\">Cinnamon Sugar Dippers</a> for those who have a sweet tooth! ",
+                    "draft_status": "published",
+                    "name": "Recipes For Your Next Bachelor Viewing Party",
+                    "beauty_url": null,
+                    "slug": "recipes-for-your-next-bachelor-viewing-party",
+                    "promotion": "full"
+                }
+            ],
+            "tips_and_ratings_enabled": true,
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/278513.jpg",
+            "thumbnail_alt_text": "",
+            "servings_noun_plural": "bars",
+            "video_id": 111478,
+            "price": {
+                "total": 6400,
+                "updated_at": "2023-01-17T06:23:53+01:00",
+                "portion": 200,
+                "consumption_total": 3050,
+                "consumption_portion": 100
+            },
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz"
+                                    },
+                                    "quantity": "12",
+                                    "id": 586699
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "340",
+                                    "id": 586698
+                                }
+                            ],
+                            "raw_text": "12 ounces (2 cups) dark chocolate chips",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 363,
+                                "display_singular": "dark chocolate chip",
+                                "updated_at": 1509035266,
+                                "name": "dark chocolate chips",
+                                "created_at": 1494966692,
+                                "display_plural": "dark chocolate chips"
+                            },
+                            "id": 71303,
+                            "position": 1
+                        },
+                        {
+                            "raw_text": "3 tablespoons refined coconut oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1517250145,
+                                "name": "refined coconut oil",
+                                "created_at": 1517250145,
+                                "display_plural": "refined coconut oils",
+                                "id": 3579,
+                                "display_singular": "refined coconut oil"
+                            },
+                            "id": 71304,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "3",
+                                    "id": 586700
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "8 rice cakes, quartered",
+                            "extra_comment": "quartered",
+                            "ingredient": {
+                                "created_at": 1503102491,
+                                "display_plural": "rice cakes",
+                                "id": 2878,
+                                "display_singular": "rice cake",
+                                "updated_at": 1509035102,
+                                "name": "rice cake"
+                            },
+                            "id": 71305,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "id": 586704,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "8"
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1 cup finely chopped freeze-dried strawberries, toasted coconut flakes, honey-roasted peanuts, hazelnuts, pistachios, and/or (or a mix of your favorites)",
+                            "extra_comment": "or  toasted coconut flakes, honey-roasted peanuts, hazelnuts, pistachios, and/or (or a mix of your favorites)",
+                            "ingredient": {
+                                "updated_at": 1509035170,
+                                "name": "freeze-dried strawberry",
+                                "created_at": 1496995990,
+                                "display_plural": "freeze-dried strawberries",
+                                "id": 1718,
+                                "display_singular": "freeze-dried strawberry"
+                            },
+                            "id": 71306,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "id": 586703,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1"
+                                },
+                                {
+                                    "id": 586701,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "110"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 71307,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 586702
+                                }
+                            ],
+                            "raw_text": "Flaky sea salt, for sprinkling",
+                            "extra_comment": "for sprinkling",
+                            "ingredient": {
+                                "id": 3099,
+                                "display_singular": "flaky sea salt",
+                                "updated_at": 1509035088,
+                                "name": "flaky sea salt",
+                                "created_at": 1507925704,
+                                "display_plural": "flaky sea salts"
+                            }
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "total_time_minutes": 20,
+            "updated_at": 1597416959,
+            "beauty_url": null,
+            "topics": [
+                {
+                    "name": "5 Ingredients or Less",
+                    "slug": "5-ingredients-or-less"
+                },
+                {
+                    "name": "Best Vegetarian",
+                    "slug": "best-vegetarian"
+                },
+                {
+                    "name": "Kid Friendly",
+                    "slug": "kid-friendly"
+                },
+                {
+                    "name": "Vegan",
+                    "slug": "vegan"
+                },
+                {
+                    "slug": "snacks",
+                    "name": "Snacks"
+                }
+            ],
+            "canonical_id": "recipe:6475",
+            "nutrition_visibility": "auto",
+            "slug": "chocolate-dipped-rice-cake-candy-bar-bites",
+            "buzz_id": null,
+            "video_ad_content": "none",
+            "cook_time_minutes": 5,
+            "facebook_posts": [],
+            "id": 6475,
+            "show": {
+                "id": 17,
+                "name": "Tasty"
+            },
+            "description": "Turn rice cakes and your favorite nuts and freeze-dried fruit into a sweet treat with a dip in melted chocolate and a sprinkle of flaky salt. This recipe comes together quickly so you can be snacking in just minutes, and it makes plenty to share with your family and friends!",
+            "brand_id": null,
+            "name": "Chocolate Dipped Rice Cake “Candy Bar\" Bites",
+            "video_url": "https://vid.tasty.co/output/175958/hls24_1597283383.m3u8",
+            "credits": [
+                {
+                    "name": "Betsy Carter",
+                    "type": "internal"
+                },
+                {
+                    "name": "Andrew Pollock",
+                    "type": "internal"
+                },
+                {
+                    "type": "internal",
+                    "name": "Ben Mims"
+                }
+            ],
+            "is_one_top": false,
+            "created_at": 1597283412,
+            "draft_status": "published",
+            "inspired_by_url": null,
+            "renditions": [
+                {
+                    "aspect": "square",
+                    "width": 720,
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/175958/square_720/1597283383_00001.png",
+                    "duration": 178585,
+                    "url": "https://vid.tasty.co/output/175958/square_720/1597283383",
+                    "bit_rate": 2200,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 49105909
+                },
+                {
+                    "duration": 178585,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_320x320",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/175958/square_320/1597283383_00001.png",
+                    "file_size": 16523679,
+                    "maximum_bit_rate": null,
+                    "height": 320,
+                    "bit_rate": 741,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/175958/square_320/1597283383"
+                },
+                {
+                    "duration": 178585,
+                    "bit_rate": 2200,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "url": "https://vid.tasty.co/output/175958/landscape_720/1597283383",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/175958/landscape_720/1597283383_00001.png",
+                    "file_size": 49100532,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "container": "mp4"
+                },
+                {
+                    "minimum_bit_rate": null,
+                    "url": "https://vid.tasty.co/output/175958/landscape_480/1597283383",
+                    "bit_rate": 1263,
+                    "width": 480,
+                    "duration": 178585,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "name": "mp4_480x480",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/175958/landscape_480/1597283383_00001.png",
+                    "file_size": 28184895,
+                    "height": 480
+                },
+                {
+                    "height": 1080,
+                    "container": "ts",
+                    "duration": 178596,
+                    "bit_rate": null,
+                    "aspect": "square",
+                    "minimum_bit_rate": 275,
+                    "name": "low",
+                    "maximum_bit_rate": 3845,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/175958/1445289064805-h2exzu/1597283383_00001.png",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/175958/hls24_1597283383.m3u8",
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "width": 1080
+                }
+            ],
+            "promotion": "full"
+        },
+        {
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Preheat the broiler.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 31932
+                },
+                {
+                    "appliance": null,
+                    "end_time": 6500,
+                    "temperature": null,
+                    "id": 31933,
+                    "position": 2,
+                    "display_text": "Place the ham and muffins on a baking sheet. Tip: If your baking sheet is not large enough to hold everything at once, place a wire on top of the pan and arrange the remaining ham and English muffins on top of it.",
+                    "start_time": 3000
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 31934,
+                    "position": 3,
+                    "display_text": "Broil for 2 minutes, until the English muffins are toasted and the ham starts to crisp."
+                },
+                {
+                    "position": 4,
+                    "display_text": "Remove the English muffins and ham from the oven. Slice the ham lengthwise, into ⅛-inch (3 mm) wide strips.",
+                    "start_time": 9000,
+                    "appliance": null,
+                    "end_time": 13833,
+                    "temperature": null,
+                    "id": 31935
+                },
+                {
+                    "start_time": 15000,
+                    "appliance": null,
+                    "end_time": 16500,
+                    "temperature": null,
+                    "id": 31936,
+                    "position": 5,
+                    "display_text": "Cover a small bowl, about 3 inches (7-cm) in diameter, with plastic wrap. Place a ham strip across the middle (the edge of the strip should come slightly over the lip of the bowl). Continue placing ham strips across the bowl, overlapping them in a spiral pattern. Repeat with three more small bowls and the remaining ham strips."
+                },
+                {
+                    "display_text": "In a large pan over medium-high heat, melt 2 tablespoons of butter. Add the garlic and cook for 1 minute, until the garlic starts to brown. Add the spinach and stir until wilted to half its original volume, 3-4 minutes. Add the salt and pepper and stir for another minute. Remove from heat.",
+                    "start_time": 17833,
+                    "appliance": null,
+                    "end_time": 36350,
+                    "temperature": null,
+                    "id": 31937,
+                    "position": 6
+                },
+                {
+                    "id": 31938,
+                    "position": 7,
+                    "display_text": "Make the hollandaise sauce: In a blender, combine the eggs yolks, lemon juice, Dijon mustard, and cayenne pepper. Blend on high for 5 seconds. Reduce the blender speed to low and pour in the melted butter in a thin, steady stream. Blend for 30 more seconds. Cover and keep warm.",
+                    "start_time": 37000,
+                    "appliance": null,
+                    "end_time": 46833,
+                    "temperature": null
+                },
+                {
+                    "position": 8,
+                    "display_text": "Fill a deep pan with enough water to cover 4 small, heat-safe bowls. Bring the water to a boil over high heat and use a pair of tongs to place the bowls in the water. Carefully drop an egg into each bowl. Cook for 2-3 minutes, or until the yolks are cooked to your desired firmness. Using tongs, remove the bowls from the water and drain.",
+                    "start_time": 48000,
+                    "appliance": null,
+                    "end_time": 56333,
+                    "temperature": null,
+                    "id": 31939
+                },
+                {
+                    "position": 9,
+                    "display_text": "Place a poached egg inside each small bowl with the spiralized ham slices and top with spinach. Fold the ham slices over the spinach and place a buttered English muffin half on top. Place a plate over the bowl and invert. Remove the bowl and plastic wrap.",
+                    "start_time": 57000,
+                    "appliance": null,
+                    "end_time": 69166,
+                    "temperature": null,
+                    "id": 31940
+                },
+                {
+                    "end_time": 77500,
+                    "temperature": null,
+                    "id": 31941,
+                    "position": 10,
+                    "display_text": "Serve with hollandaise sauce and chives.",
+                    "start_time": 70000,
+                    "appliance": null
+                },
+                {
+                    "id": 31942,
+                    "position": 11,
+                    "display_text": "Enjoy!",
+                    "start_time": 79000,
+                    "appliance": null,
+                    "end_time": 85000,
+                    "temperature": null
+                }
+            ],
+            "language": "eng",
+            "price": {
+                "total": 1700,
+                "updated_at": "2023-01-17T06:06:17+01:00",
+                "portion": 450,
+                "consumption_total": 950,
+                "consumption_portion": 250
+            },
+            "buzz_id": 4786766,
+            "aspect_ratio": "1:1",
+            "thumbnail_alt_text": "",
+            "yields": "Servings: 4",
+            "inspired_by_url": "https://www.allrecipes.com/recipe/238685/eggs-florentine/",
+            "country": "US",
+            "keywords": "blender hollandaise sauce, breakfast, brunch food, dome, eggs florentine, english muffins, ham, how to make eggs florentine, mimosa, poached egg, poached egg hack, pretty brunch food, tasty",
+            "facebook_posts": [],
+            "show_id": 17,
+            "brand_id": null,
+            "tags": [
+                {
+                    "type": "appliance",
+                    "name": "oven",
+                    "id": 65846,
+                    "display_name": "Oven"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "name": "blender",
+                    "id": 65838,
+                    "display_name": "Blender",
+                    "type": "appliance"
+                },
+                {
+                    "display_name": "Tongs",
+                    "type": "equipment",
+                    "name": "tongs",
+                    "id": 1247790
+                },
+                {
+                    "name": "breakfast",
+                    "id": 64483,
+                    "display_name": "Breakfast",
+                    "type": "meal"
+                },
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment",
+                    "name": "measuring_spoons"
+                },
+                {
+                    "name": "bake",
+                    "id": 64492,
+                    "display_name": "Bake",
+                    "type": "cooking_style"
+                },
+                {
+                    "id": 64484,
+                    "display_name": "Brunch",
+                    "type": "occasion",
+                    "name": "brunch"
+                },
+                {
+                    "id": 1280500,
+                    "display_name": "Baking Pan",
+                    "type": "equipment",
+                    "name": "baking_pan"
+                },
+                {
+                    "name": "cooling_rack",
+                    "id": 1280502,
+                    "display_name": "Cooling Rack",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "plastic_wrap",
+                    "id": 1247784,
+                    "display_name": "Plastic Wrap"
+                },
+                {
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex",
+                    "type": "equipment"
+                },
+                {
+                    "name": "saute_pan",
+                    "id": 1247787,
+                    "display_name": "Saute Pan",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts"
+                },
+                {
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "broiler",
+                    "id": 65839,
+                    "display_name": "Broiler",
+                    "type": "appliance"
+                },
+                {
+                    "name": "stuffed",
+                    "id": 65856,
+                    "display_name": "Stuffed",
+                    "type": "cooking_style"
+                },
+                {
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion",
+                    "name": "special_occasion"
+                },
+                {
+                    "name": "snickers",
+                    "id": 6361700,
+                    "display_name": "Snickers",
+                    "type": "feature_page"
+                },
+                {
+                    "name": "low_sugar",
+                    "id": 8091918,
+                    "display_name": "Low-Sugar",
+                    "type": "healthy"
+                }
+            ],
+            "draft_status": "published",
+            "servings_noun_plural": "servings",
+            "topics": [
+                {
+                    "name": "Sunday Brunch",
+                    "slug": "brunch"
+                },
+                {
+                    "name": "Breakfast",
+                    "slug": "breakfast"
+                }
+            ],
+            "cook_time_minutes": null,
+            "promotion": "full",
+            "num_servings": 4,
+            "tips_and_ratings_enabled": true,
+            "video_url": "https://vid.tasty.co/output/87182/hls24_1522350258.m3u8",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "extra_comment": "large slices",
+                            "ingredient": {
+                                "display_singular": "ham",
+                                "updated_at": 1509035279,
+                                "name": "ham",
+                                "created_at": 1494210028,
+                                "display_plural": "hams",
+                                "id": 205
+                            },
+                            "id": 36523,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "large slice",
+                                        "display_plural": "large slices",
+                                        "display_singular": "large slice",
+                                        "abbreviation": "large slice"
+                                    },
+                                    "quantity": "8",
+                                    "id": 544473
+                                }
+                            ],
+                            "raw_text": "8 large slices of ham"
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035210,
+                                "name": "english muffin",
+                                "created_at": 1496289153,
+                                "display_plural": "english muffins",
+                                "id": 1080,
+                                "display_singular": "english muffin"
+                            },
+                            "id": 36524,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 544484
+                                }
+                            ],
+                            "raw_text": "2 English muffins, halved",
+                            "extra_comment": "halved"
+                        },
+                        {
+                            "id": 36525,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "3",
+                                    "id": 544483
+                                }
+                            ],
+                            "raw_text": "3 tablespoons unsalted butter, divided",
+                            "extra_comment": "divided",
+                            "ingredient": {
+                                "id": 291,
+                                "display_singular": "unsalted butter",
+                                "updated_at": 1509035272,
+                                "name": "unsalted butter",
+                                "created_at": 1494806355,
+                                "display_plural": "unsalted butters"
+                            }
+                        },
+                        {
+                            "extra_comment": "minced",
+                            "ingredient": {
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics",
+                                "id": 95,
+                                "display_singular": "garlic"
+                            },
+                            "id": 36526,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "clove",
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove"
+                                    },
+                                    "quantity": "2",
+                                    "id": 544482
+                                }
+                            ],
+                            "raw_text": "2 cloves of garlic, minced"
+                        },
+                        {
+                            "id": 36527,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz"
+                                    },
+                                    "quantity": "10",
+                                    "id": 544472
+                                },
+                                {
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "280",
+                                    "id": 544471
+                                }
+                            ],
+                            "raw_text": "10 ounces uncooked spinach",
+                            "extra_comment": "uncooked",
+                            "ingredient": {
+                                "id": 164,
+                                "display_singular": "spinach",
+                                "updated_at": 1509035282,
+                                "name": "spinach",
+                                "created_at": 1493925032,
+                                "display_plural": "spinaches"
+                            }
+                        },
+                        {
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 544478
+                                }
+                            ],
+                            "raw_text": "1 teaspoon salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 22,
+                                "display_singular": "salt",
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts"
+                            },
+                            "id": 36528
+                        },
+                        {
+                            "raw_text": "½ teaspoon pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "pepper",
+                                "updated_at": 1509035287,
+                                "name": "pepper",
+                                "created_at": 1493314935,
+                                "display_plural": "peppers",
+                                "id": 29
+                            },
+                            "id": 36529,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "½",
+                                    "id": 544476
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "4 large eggs",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035275,
+                                "name": "large egg",
+                                "created_at": 1494382414,
+                                "display_plural": "large eggs",
+                                "id": 253,
+                                "display_singular": "large egg"
+                            },
+                            "id": 36530,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "4",
+                                    "id": 544481
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "position": 2,
+                    "components": [
+                        {
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "4",
+                                    "id": 544479
+                                }
+                            ],
+                            "raw_text": "4 large eggs yolks",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "large egg yolk",
+                                "updated_at": 1509035146,
+                                "name": "large egg yolk",
+                                "created_at": 1499974363,
+                                "display_plural": "large egg yolks",
+                                "id": 2073
+                            },
+                            "id": 36532
+                        },
+                        {
+                            "raw_text": "1½ tablespoons lemon juice",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494624947,
+                                "display_plural": "lemon juices",
+                                "id": 271,
+                                "display_singular": "lemon juice",
+                                "updated_at": 1509035274,
+                                "name": "lemon juice"
+                            },
+                            "id": 36533,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 544477
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1 teaspoon Dijon mustard",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035271,
+                                "name": "dijon mustard",
+                                "created_at": 1494812213,
+                                "display_plural": "dijon mustards",
+                                "id": 307,
+                                "display_singular": "dijon mustard"
+                            },
+                            "id": 36534,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 544485
+                                }
+                            ]
+                        },
+                        {
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 544486
+                                }
+                            ],
+                            "raw_text": "¼ teaspoon cayenne pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "cayenne peppers",
+                                "id": 10,
+                                "display_singular": "cayenne pepper",
+                                "updated_at": 1509035289,
+                                "name": "cayenne pepper",
+                                "created_at": 1493307142
+                            },
+                            "id": 36535
+                        },
+                        {
+                            "ingredient": {
+                                "display_plural": "unsalted butters",
+                                "id": 291,
+                                "display_singular": "unsalted butter",
+                                "updated_at": 1509035272,
+                                "name": "unsalted butter",
+                                "created_at": 1494806355
+                            },
+                            "id": 36536,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½",
+                                    "id": 544475
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "115",
+                                    "id": 544474
+                                }
+                            ],
+                            "raw_text": "½ cup (1 stick) unsalted butter, melted",
+                            "extra_comment": "1 stick, melted"
+                        },
+                        {
+                            "raw_text": "1 tablespoon chopped chives, for serving",
+                            "extra_comment": "chopped, for serving",
+                            "ingredient": {
+                                "display_plural": "fresh chives",
+                                "id": 1947,
+                                "display_singular": "fresh chive",
+                                "updated_at": 1509035154,
+                                "name": "fresh chives",
+                                "created_at": 1498567386
+                            },
+                            "id": 36537,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "id": 544480,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1"
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Hollandaise Sauce"
+                }
+            ],
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "renditions": [
+                {
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/87182/square_720/1522350258_00001.png",
+                    "url": "https://vid.tasty.co/output/87182/square_720/1522350258",
+                    "bit_rate": 2255,
+                    "minimum_bit_rate": null,
+                    "aspect": "square",
+                    "width": 720,
+                    "container": "mp4",
+                    "file_size": 28708717,
+                    "duration": 101866,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "maximum_bit_rate": null,
+                    "height": 320,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/87182/square_320/1522350258",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_320x320",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/87182/square_320/1522350258_00001.png",
+                    "file_size": 9908269,
+                    "duration": 101866,
+                    "bit_rate": 779
+                },
+                {
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/87182/landscape_720/1522350258_00001.png",
+                    "file_size": 28731268,
+                    "url": "https://vid.tasty.co/output/87182/landscape_720/1522350258",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "container": "mp4",
+                    "duration": 101866,
+                    "bit_rate": 2257,
+                    "name": "mp4_720x720",
+                    "height": 720
+                },
+                {
+                    "container": "mp4",
+                    "file_size": 16801140,
+                    "url": "https://vid.tasty.co/output/87182/landscape_480/1522350258",
+                    "bit_rate": 1320,
+                    "content_type": "video/mp4",
+                    "name": "mp4_480x480",
+                    "height": 480,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/87182/landscape_480/1522350258_00001.png",
+                    "duration": 101866,
+                    "aspect": "square",
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "duration": 101852,
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "minimum_bit_rate": 270,
+                    "name": "low",
+                    "container": "ts",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/87182/1445289064805-h2exzu/1522350258_00001.png",
+                    "file_size": null,
+                    "maximum_bit_rate": 3952,
+                    "height": 1080,
+                    "url": "https://vid.tasty.co/output/87182/hls24_1522350258.m3u8",
+                    "aspect": "square",
+                    "width": 1080
+                }
+            ],
+            "canonical_id": "recipe:3675",
+            "name": "Eggs Florentine Domes",
+            "created_at": 1522287827,
+            "is_shoppable": true,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/da5fccafbc294f95a787d32ea3859df8/BFV40601_EggsFlorentineDomes_FB1080SQ.mp4",
+            "id": 3675,
+            "nutrition": {
+                "fiber": 2,
+                "updated_at": "2021-05-03T13:25:48+02:00",
+                "protein": 21,
+                "fat": 44,
+                "calories": 552,
+                "sugar": 1,
+                "carbohydrates": 17
+            },
+            "is_one_top": false,
+            "slug": "eggs-florentine-domes",
+            "prep_time_minutes": null,
+            "compilations": [
+                {
+                    "slug": "7-creative-ways-to-use-eggs",
+                    "promotion": "full",
+                    "facebook_posts": [],
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1542658572,
+                    "buzz_id": null,
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/185124.jpg",
+                    "name": "7 Creative Ways To Use Eggs",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1540404054,
+                    "aspect_ratio": "1:1",
+                    "draft_status": "published",
+                    "canonical_id": "compilation:696",
+                    "beauty_url": null,
+                    "video_id": 71371,
+                    "country": "US",
+                    "language": "eng",
+                    "video_url": "https://vid.tasty.co/output/149284/hls24_1571781718.m3u8",
+                    "id": 696
+                },
+                {
+                    "is_shoppable": false,
+                    "description": null,
+                    "promotion": "full",
+                    "video_url": "https://vid.tasty.co/output/154960/hls24_1576222059.m3u8",
+                    "approved_at": 1576793206,
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "created_at": 1576465442,
+                    "draft_status": "published",
+                    "language": "eng",
+                    "name": "12 Amazing Ways To Cook Your Eggs",
+                    "canonical_id": "compilation:1330",
+                    "video_id": 96630,
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "thumbnail_alt_text": "",
+                    "buzz_id": null,
+                    "slug": "12-amazing-ways-to-cook-your-eggs",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/fda823d06891426d9f0cd73aa47db8f5/EGGFB.jpg",
+                    "id": 1330,
+                    "beauty_url": null
+                },
+                {
+                    "beauty_url": null,
+                    "video_id": 104370,
+                    "country": "US",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "canonical_id": "compilation:1476",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/165971/hls24_1588065642.m3u8",
+                    "name": "10 Trendy Egg Recipes",
+                    "id": 1476,
+                    "buzz_id": null,
+                    "is_shoppable": false,
+                    "description": null,
+                    "draft_status": "published",
+                    "slug": "10-trendy-egg-recipes",
+                    "promotion": "full",
+                    "created_at": 1589346169,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/263761.jpg",
+                    "approved_at": 1593175475,
+                    "aspect_ratio": "16:9",
+                    "keywords": null,
+                    "facebook_posts": []
+                },
+                {
+                    "canonical_id": "compilation:1834",
+                    "country": "US",
+                    "facebook_posts": [],
+                    "description": null,
+                    "language": "eng",
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/1a63935a9b664ec9a815f5d08ef38430/cafe_snickers_1080x1080_OO.jpg",
+                    "approved_at": 1605729590,
+                    "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/8127d45fe7004526b798a36ac9e08b17/Recipe-Cards-1080x1350-01-Snickers.jpg",
+                    "slug": "recipes-for-when-you-wake-up-feeling-fancy",
+                    "keywords": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "created_at": 1605306674,
+                    "video_url": "https://vid.tasty.co/output/185273/hls24_1605553114.m3u8",
+                    "name": "Recipes For When You Wake Up Feeling Fancy ",
+                    "id": 1834,
+                    "buzz_id": null,
+                    "video_id": 118437,
+                    "is_shoppable": true,
+                    "thumbnail_alt_text": ""
+                },
+                {
+                    "name": "Breakfast Recipes for Christmas Morning",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "video_id": 120530,
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "approved_at": 1608562206,
+                    "facebook_posts": [],
+                    "id": 1962,
+                    "keywords": null,
+                    "description": "What's more fun that present-opening by the christmas tree followed by a heart-warming breakfast? This year take your holiday breakfast game up a notch with these delightful recipes. Bake some wholesome breakfast <a href=\"https://tasty.co/recipe/breakfast-pizza-boats\">pizza boats</a>, or go for a decadent <a href=\"https://tasty.co/recipe/creme-brulee-french-toast\">creme brulee french toast</a> and then chow down on a hearty <a href=\"https://tasty.co/recipe/eggs-florentine-domes\">eggs forentine dome</a>. Trust us, this is the perfect way to start your day!",
+                    "draft_status": "published",
+                    "slug": "breakfast-recipes-for-christmas-morning",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/188543/hls24_1608107315.m3u8",
+                    "canonical_id": "compilation:1962",
+                    "promotion": "full",
+                    "is_shoppable": false,
+                    "created_at": 1608106259,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/299600.jpg"
+                },
+                {
+                    "keywords": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/309570.jpg",
+                    "id": 2189,
+                    "beauty_url": null,
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "description": "What better way to celebrate Sundays than over a family brunch? We’ve picked the absolute best brunch recipes just for you. Start with an <a href=\"https://tasty.co/recipe/eggs-florentine-domes\">Eggs Florentine Dome</a> or a <a href=\"https://tasty.co/recipe/cheesy-bacon-monkey-bread\">Cheesy Bacon Monkey Bread</a>. We promise that these recipes are sure to make your family time extra special.",
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/194534/hls24_1614276198.m3u8",
+                    "approved_at": 1614959248,
+                    "is_shoppable": false,
+                    "slug": "sunday-brunch-recipes",
+                    "canonical_id": "compilation:2189",
+                    "buzz_id": null,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1614275568,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "name": "Sunday Brunch Recipes",
+                    "promotion": "full",
+                    "video_id": 125371
+                },
+                {
+                    "keywords": null,
+                    "created_at": 1615898708,
+                    "description": "If you have a few extra minutes in the A.M., make yourself some hearty <a href=\"https://tasty.co/recipe/eggs-florentine-domes\">Eggs Florentine Domes</a>. For a more rushed day, fall back on the <a href=\"https://tasty.co/recipe/classic-omelette\">classic omelette</a> or some pretty <a href=\"https://tasty.co/recipe/cloud-eggs\">cloud eggs</a>. You can also mix it up with <a href=\"https://tasty.co/recipe/spanish-omelet-tortilla-de-patata\">tortilla de patata</a>. There's nothing like a serving of eggs to kickstart your day! ",
+                    "language": "eng",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "draft_status": "published",
+                    "approved_at": 1616157893,
+                    "name": "An 'Egg-cellent' Way To Start Your Day!",
+                    "canonical_id": "compilation:2225",
+                    "id": 2225,
+                    "beauty_url": null,
+                    "slug": "an-eggs-celent-way-to-start-your-day",
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/312543.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_id": 126818,
+                    "video_url": "https://vid.tasty.co/output/196560/hls24_1615899284.m3u8",
+                    "buzz_id": null,
+                    "promotion": "full"
+                },
+                {
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "video_url": "https://vid.tasty.co/output/199254/hls24_1617974993.m3u8",
+                    "name": "Recipes That Will Make You Fall In Love With Ham",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "created_at": 1617974854,
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1618576814,
+                    "id": 2283,
+                    "facebook_posts": [],
+                    "canonical_id": "compilation:2283",
+                    "slug": "recipes-that-will-make-you-fall-in-love-with-ham",
+                    "promotion": "full",
+                    "video_id": 129111,
+                    "country": "US",
+                    "keywords": null,
+                    "description": "Have you been having a hankering for some good ol' ham? Our <a href=\"https://tasty.co/recipe/honey-mustard-glazed-ham\">honey mustard galzed ham</a> is a classic must-have. For a great start to the day, you can even whip up our <a href=\"https://tasty.co/recipe/eggs-florentine-domes\">ham-loaded eggs florentine domes</a>. And of course, our <a href=\"https://tasty.co/recipe/ham-and-garlic-pull-apart-garlic-bread\">ham and garlic pull-apart bread</a> is perfect for entertaining. Now, you've got the permission to go ham — in all respects.",
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/316736.jpg"
+                }
+            ],
+            "total_time_minutes": null,
+            "video_ad_content": "none",
+            "credits": [
+                {
+                    "name": "Katie Aubin",
+                    "type": "internal"
+                }
+            ],
+            "nutrition_visibility": "auto",
+            "user_ratings": {
+                "score": 0.897059,
+                "count_negative": 14,
+                "count_positive": 122
+            },
+            "brand": null,
+            "servings_noun_singular": "serving",
+            "description": null,
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/147015.jpg",
+            "updated_at": 1560181902,
+            "approved_at": 1522425347,
+            "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/0d03773c70644871b9a185e1eee1b930/BeautyShotbeautyTemplate2.jpg",
+            "total_time_tier": null,
+            "seo_title": null,
+            "video_id": 51440
+        },
+        {
+            "seo_title": null,
+            "cook_time_minutes": null,
+            "brand": null,
+            "brand_id": null,
+            "buzz_id": 4727071,
+            "updated_at": 1560182275,
+            "nutrition_visibility": "auto",
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "promotion": "full",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "2 sheets puff pastry",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035252,
+                                "name": "puff pastry",
+                                "created_at": 1495297405,
+                                "display_plural": "puff pastries",
+                                "id": 551,
+                                "display_singular": "puff pastry"
+                            },
+                            "id": 32174,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "sheet",
+                                        "abbreviation": "sheet",
+                                        "system": "none",
+                                        "name": "sheet",
+                                        "display_plural": "sheets"
+                                    },
+                                    "quantity": "2",
+                                    "id": 384319
+                                }
+                            ]
+                        },
+                        {
+                            "id": 32175,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "quantity": "125",
+                                    "id": 384316,
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½",
+                                    "id": 384315
+                                }
+                            ],
+                            "raw_text": "½ cup butter, softened",
+                            "extra_comment": "softened",
+                            "ingredient": {
+                                "updated_at": 1509035287,
+                                "name": "butter",
+                                "created_at": 1493314940,
+                                "display_plural": "butters",
+                                "id": 30,
+                                "display_singular": "butter"
+                            }
+                        },
+                        {
+                            "raw_text": "1 egg",
+                            "extra_comment": "beaten",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "egg",
+                                "created_at": 1493314622,
+                                "display_plural": "eggs",
+                                "id": 19,
+                                "display_singular": "egg"
+                            },
+                            "id": 32176,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 384317
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035262,
+                                "name": "granulated sugar",
+                                "created_at": 1494989637,
+                                "display_plural": "granulated sugars",
+                                "id": 419,
+                                "display_singular": "granulated sugar"
+                            },
+                            "id": 32177,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "quantity": "200",
+                                    "id": 384321,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1",
+                                    "id": 384320
+                                }
+                            ],
+                            "raw_text": "1 cup granulated sugar"
+                        },
+                        {
+                            "raw_text": "1 tablespoon cinnamon",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 152,
+                                "display_singular": "cinnamon",
+                                "updated_at": 1509035283,
+                                "name": "cinnamon",
+                                "created_at": 1493906374,
+                                "display_plural": "cinnamons"
+                            },
+                            "id": 32178,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 384318
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "compilations": [
+                {
+                    "video_id": 44129,
+                    "is_shoppable": false,
+                    "facebook_posts": [],
+                    "beauty_url": null,
+                    "slug": "puff-pastry-muffin",
+                    "approved_at": 1516290141,
+                    "canonical_id": "compilation:427",
+                    "id": 427,
+                    "aspect_ratio": null,
+                    "keywords": null,
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/8d03909801ab453a9c582e6f60fa3559/BF_THUMB_Square_o2.jpg",
+                    "country": "US",
+                    "created_at": 1516289684,
+                    "draft_status": "published",
+                    "buzz_id": 4727083,
+                    "name": "Puff Pastry Muffins",
+                    "promotion": "full",
+                    "description": null,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/72622/hls24_1515778784.m3u8"
+                },
+                {
+                    "name": "Cupcakes or Muffins?",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "promotion": "full",
+                    "country": "US",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/109553/hls24_1537382583.m3u8",
+                    "id": 667,
+                    "video_id": 66910,
+                    "keywords": null,
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/179372.jpg",
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "facebook_posts": [],
+                    "created_at": 1537383154,
+                    "draft_status": "published",
+                    "approved_at": 1537647832,
+                    "canonical_id": "compilation:667",
+                    "slug": "cupcakes-or-muffins"
+                },
+                {
+                    "id": 668,
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "description": null,
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:668",
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "draft_status": "published",
+                    "buzz_id": null,
+                    "slug": "10-homemade-churro-recipes",
+                    "promotion": "full",
+                    "aspect_ratio": null,
+                    "created_at": 1537384496,
+                    "language": "eng",
+                    "approved_at": 1538580452,
+                    "name": "10 Homemade Churro Recipes",
+                    "beauty_url": null,
+                    "video_id": 66933,
+                    "country": "US",
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/54aa9cc386564460b6146277d253bfec/churros_THUMB.jpg",
+                    "video_url": "https://vid.tasty.co/output/109564/hls24_1537384100.m3u8"
+                },
+                {
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1834",
+                    "keywords": null,
+                    "description": null,
+                    "language": "eng",
+                    "name": "Recipes For When You Wake Up Feeling Fancy ",
+                    "buzz_id": null,
+                    "is_shoppable": true,
+                    "facebook_posts": [],
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/185273/hls24_1605553114.m3u8",
+                    "id": 1834,
+                    "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/8127d45fe7004526b798a36ac9e08b17/Recipe-Cards-1080x1350-01-Snickers.jpg",
+                    "slug": "recipes-for-when-you-wake-up-feeling-fancy",
+                    "promotion": "full",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1605306674,
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/1a63935a9b664ec9a815f5d08ef38430/cafe_snickers_1080x1080_OO.jpg",
+                    "approved_at": 1605729590,
+                    "video_id": 118437
+                },
+                {
+                    "keywords": null,
+                    "video_url": "https://vid.tasty.co/output/191561/hls24_1611836447.m3u8",
+                    "approved_at": 1612190717,
+                    "name": "Easy Homemade Muffins",
+                    "promotion": "full",
+                    "is_shoppable": false,
+                    "buzz_id": null,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/304810.jpg",
+                    "canonical_id": "compilation:2087",
+                    "id": 2087,
+                    "beauty_url": null,
+                    "thumbnail_alt_text": "",
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1611836065,
+                    "description": "There is a muffin for every mood. Celebrate the weekend with <a href=\"https://tasty.co/recipe/churro-puff-pastry-muffin\">Churro Puff Pastry Muffins</a>, wake up to the scent of freshly-baked <a href=\"https://tasty.co/recipe/apple-cinnamon-oatmeal-muffins\">Apple Cinnamon Oatmeal Muffins</a>, or munch on <a href=\"https://tasty.co/recipe/chai-spiced-cheesecake-muffins\">chai-spiced cheesecake muffins</a> after dinner. Get those muffin trays out already!",
+                    "draft_status": "published",
+                    "slug": "easy-homemade-muffins",
+                    "video_id": 123283
+                }
+            ],
+            "draft_status": "published",
+            "inspired_by_url": "http://baketotheroots.de/cruffins-croissant-meets-muffin/",
+            "keywords": null,
+            "slug": "churro-puff-pastry-muffin",
+            "servings_noun_singular": "serving",
+            "prep_time_minutes": null,
+            "total_time_tier": null,
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/129787.jpg",
+            "thumbnail_alt_text": "",
+            "beauty_url": null,
+            "topics": [
+                {
+                    "name": "5 Ingredients or Less",
+                    "slug": "5-ingredients-or-less"
+                },
+                {
+                    "name": "Baked Goods",
+                    "slug": "baked-goods"
+                },
+                {
+                    "name": "Sunday Brunch",
+                    "slug": "brunch"
+                },
+                {
+                    "name": "Desserts",
+                    "slug": "desserts"
+                }
+            ],
+            "description": null,
+            "video_url": "https://vid.tasty.co/output/72622/hls24_1515778784.m3u8",
+            "instructions": [
+                {
+                    "end_time": 0,
+                    "temperature": 350,
+                    "id": 28239,
+                    "position": 1,
+                    "display_text": "Preheat the oven to 350°F (180°C).",
+                    "start_time": 0,
+                    "appliance": "oven"
+                },
+                {
+                    "start_time": 3833,
+                    "appliance": null,
+                    "end_time": 12833,
+                    "temperature": null,
+                    "id": 28240,
+                    "position": 2,
+                    "display_text": "Cut the puff pastry sheets in half, then use a rolling pin to roll each half out to 24 inches long x 8 inches (60x20 cm) wide."
+                },
+                {
+                    "id": 28241,
+                    "position": 3,
+                    "display_text": "Brush the puff pastry sheets with the softened butter, then carefully roll them up into tight logs. Cut the logs in half lengthwise.",
+                    "start_time": 13500,
+                    "appliance": null,
+                    "end_time": 29816,
+                    "temperature": null
+                },
+                {
+                    "id": 28242,
+                    "position": 4,
+                    "display_text": "Take each half and fold the smooth part of the dough inward to create a spiral shape.",
+                    "start_time": 31000,
+                    "appliance": null,
+                    "end_time": 33333,
+                    "temperature": null
+                },
+                {
+                    "start_time": 34166,
+                    "appliance": null,
+                    "end_time": 40166,
+                    "temperature": null,
+                    "id": 28243,
+                    "position": 5,
+                    "display_text": "Place the spirals in a muffin tin and brush the tops with egg wash."
+                },
+                {
+                    "temperature": null,
+                    "id": 28244,
+                    "position": 6,
+                    "display_text": "Bake for 15 minutes on the top rack, then transfer to the bottom rack and bake for another 15 minutes.",
+                    "start_time": 41666,
+                    "appliance": null,
+                    "end_time": 46833
+                },
+                {
+                    "id": 28245,
+                    "position": 7,
+                    "display_text": "Combine the sugar and cinnamon in a small bowl.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "display_text": "Remove the muffins from the oven. Once cool enough to handle, roll in the cinnamon sugar mixture.",
+                    "start_time": 51000,
+                    "appliance": null,
+                    "end_time": 57166,
+                    "temperature": null,
+                    "id": 28246,
+                    "position": 8
+                },
+                {
+                    "start_time": 58000,
+                    "appliance": null,
+                    "end_time": 63833,
+                    "temperature": null,
+                    "id": 28247,
+                    "position": 9,
+                    "display_text": "Enjoy!"
+                }
+            ],
+            "id": 3335,
+            "nutrition": {
+                "calories": 520,
+                "sugar": 18,
+                "carbohydrates": 46,
+                "fiber": 1,
+                "updated_at": "2021-05-03T13:25:49+02:00",
+                "protein": 5,
+                "fat": 35
+            },
+            "tips_and_ratings_enabled": true,
+            "credits": [
+                {
+                    "name": "Katie Aubin",
+                    "type": "internal"
+                }
+            ],
+            "approved_at": 1522185532,
+            "servings_noun_plural": "servings",
+            "video_ad_content": "none",
+            "language": "eng",
+            "price": {
+                "total": 800,
+                "updated_at": "2023-01-17T06:06:21+01:00",
+                "portion": 100,
+                "consumption_total": 700,
+                "consumption_portion": 100
+            },
+            "num_servings": 8,
+            "created_at": 1515693955,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/2593971a9efc47c584aa8a8227d34c78/BFV33843_FluffyMuffins_FB1080SQ.mp4",
+            "video_id": 38969,
+            "facebook_posts": [],
+            "is_one_top": false,
+            "renditions": [
+                {
+                    "bit_rate": 1824,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/72622/square_720/1515778784_00001.png",
+                    "url": "https://vid.tasty.co/output/72622/square_720/1515778784",
+                    "height": 720,
+                    "name": "mp4_720x720",
+                    "file_size": 32626058,
+                    "duration": 143151,
+                    "minimum_bit_rate": null
+                },
+                {
+                    "container": "mp4",
+                    "file_size": 11239196,
+                    "aspect": "square",
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "height": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/72622/square_320/1515778784_00001.png",
+                    "url": "https://vid.tasty.co/output/72622/square_320/1515778784",
+                    "duration": 143151,
+                    "bit_rate": 629,
+                    "content_type": "video/mp4",
+                    "name": "mp4_320x320",
+                    "maximum_bit_rate": null
+                },
+                {
+                    "url": "https://vid.tasty.co/output/72622/landscape_720/1515778784",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/72622/landscape_720/1515778784_00001.png",
+                    "file_size": 32639399,
+                    "duration": 143151,
+                    "bit_rate": 1825
+                },
+                {
+                    "aspect": "square",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/72622/landscape_480/1515778784_00001.png",
+                    "url": "https://vid.tasty.co/output/72622/landscape_480/1515778784",
+                    "duration": 143151,
+                    "bit_rate": 1043,
+                    "height": 480,
+                    "file_size": 18661141,
+                    "content_type": "video/mp4",
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_480x480"
+                },
+                {
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "width": 1080,
+                    "name": "low",
+                    "maximum_bit_rate": 3404,
+                    "height": 1080,
+                    "container": "ts",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/72622/1445289064805-h2exzu/1515778784_00001.png",
+                    "file_size": null,
+                    "aspect": "square",
+                    "minimum_bit_rate": 275,
+                    "url": "https://vid.tasty.co/output/72622/hls24_1515778784.m3u8",
+                    "duration": 143102,
+                    "bit_rate": null
+                }
+            ],
+            "user_ratings": {
+                "count_negative": 45,
+                "count_positive": 300,
+                "score": 0.869565
+            },
+            "name": "Churro Puff Pastry Muffin",
+            "is_shoppable": true,
+            "canonical_id": "recipe:3335",
+            "total_time_minutes": null,
+            "yields": "Servings: 8",
+            "country": "US",
+            "show_id": 17,
+            "tags": [
+                {
+                    "name": "oven",
+                    "id": 65846,
+                    "display_name": "Oven",
+                    "type": "appliance"
+                },
+                {
+                    "id": 1247771,
+                    "display_name": "Cupcake Pan",
+                    "type": "equipment",
+                    "name": "cupcake_pan"
+                },
+                {
+                    "name": "indulgent_sweets",
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion"
+                },
+                {
+                    "name": "rolling_pin",
+                    "id": 1280512,
+                    "display_name": "Rolling Pin",
+                    "type": "equipment"
+                },
+                {
+                    "name": "brunch",
+                    "id": 64484,
+                    "display_name": "Brunch",
+                    "type": "occasion"
+                },
+                {
+                    "display_name": "Desserts",
+                    "type": "meal",
+                    "name": "desserts",
+                    "id": 64485
+                },
+                {
+                    "type": "occasion",
+                    "name": "casual_party",
+                    "id": 64503,
+                    "display_name": "Casual Party"
+                },
+                {
+                    "name": "bakery_goods",
+                    "id": 65857,
+                    "display_name": "Bakery Goods",
+                    "type": "meal"
+                },
+                {
+                    "id": 64492,
+                    "display_name": "Bake",
+                    "type": "cooking_style",
+                    "name": "bake"
+                },
+                {
+                    "display_name": "Parchment Paper",
+                    "type": "equipment",
+                    "name": "parchment_paper",
+                    "id": 1247780
+                },
+                {
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board"
+                },
+                {
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment",
+                    "name": "chefs_knife"
+                },
+                {
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex",
+                    "type": "equipment"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "snickers",
+                    "id": 6361700,
+                    "display_name": "Snickers"
+                },
+                {
+                    "display_name": "MC Breakfast Sweet",
+                    "type": "feature_page",
+                    "name": "mc_breakfast_sweet",
+                    "id": 6683350
+                },
+                {
+                    "name": "5_ingredients_or_less",
+                    "id": 64470,
+                    "display_name": "5 Ingredients or Less",
+                    "type": "difficulty"
+                }
+            ],
+            "aspect_ratio": "1:1"
+        },
+        {
+            "is_shoppable": true,
+            "topics": [
+                {
+                    "name": "5 Ingredients or Less",
+                    "slug": "5-ingredients-or-less"
+                },
+                {
+                    "name": "Best Vegetarian",
+                    "slug": "best-vegetarian"
+                },
+                {
+                    "name": "Bread Lovers",
+                    "slug": "bread"
+                },
+                {
+                    "name": "Sunday Brunch",
+                    "slug": "brunch"
+                },
+                {
+                    "name": "Kid Friendly",
+                    "slug": "kid-friendly"
+                },
+                {
+                    "name": "Breakfast",
+                    "slug": "breakfast"
+                },
+                {
+                    "name": "American",
+                    "slug": "american"
+                }
+            ],
+            "slug": "peanut-butter-and-banana-toast",
+            "created_at": 1501633885,
+            "is_one_top": false,
+            "updated_at": 1560183072,
+            "renditions": [
+                {
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/45881/mp4_1280X720/1501691049_00001.png",
+                    "duration": 146906,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "file_size": 138505722,
+                    "url": "https://vid.tasty.co/output/45881/mp4_1280X720/1501691049",
+                    "bit_rate": 7543,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720"
+                },
+                {
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "width": 1080,
+                    "minimum_bit_rate": 275,
+                    "maximum_bit_rate": 8242,
+                    "container": "mp4",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/45881/low_1501691049.m3u8",
+                    "height": 1080,
+                    "name": "low",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/45881/1445289064805-h2exzu/1501691049_00001.png",
+                    "duration": 146855,
+                    "aspect": "square"
+                },
+                {
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_640x640",
+                    "height": 640,
+                    "container": "mp4",
+                    "bit_rate": 7468,
+                    "url": "https://vid.tasty.co/output/45881/mp4_640x640/1501691049",
+                    "duration": 146906,
+                    "width": 640,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/45881/mp4_640x640/1501691049_00001.png",
+                    "file_size": 137126121
+                },
+                {
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 138554493,
+                    "url": "https://vid.tasty.co/output/45881/mp4_720x1280/1501691049",
+                    "duration": 146906,
+                    "bit_rate": 7546,
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/45881/mp4_720x1280/1501691049_00001.png",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "minimum_bit_rate": null
+                }
+            ],
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Spread peanut butter on the toast and top with sliced banana. Sprinkle with cinnamon.",
+                    "start_time": 3350,
+                    "appliance": null,
+                    "end_time": 12209,
+                    "temperature": null,
+                    "id": 18682
+                },
+                {
+                    "position": 2,
+                    "display_text": "Enjoy!",
+                    "start_time": 12440,
+                    "appliance": null,
+                    "end_time": 13440,
+                    "temperature": null,
+                    "id": 18736
+                }
+            ],
+            "user_ratings": {
+                "count_positive": 628,
+                "score": 0.961715,
+                "count_negative": 25
+            },
+            "aspect_ratio": "1:1",
+            "inspired_by_url": null,
+            "seo_title": null,
+            "promotion": "full",
+            "prep_time_minutes": null,
+            "tips_and_ratings_enabled": true,
+            "show": {
+                "name": "Goodful",
+                "id": 34
+            },
+            "beauty_url": null,
+            "nutrition": {
+                "calories": 81,
+                "sugar": 9,
+                "carbohydrates": 20,
+                "fiber": 2,
+                "updated_at": "2020-12-14T00:37:58+01:00",
+                "protein": 1,
+                "fat": 0
+            },
+            "draft_status": "published",
+            "video_url": "https://vid.tasty.co/output/45881/low_1501691049.m3u8",
+            "language": "und",
+            "tags": [
+                {
+                    "display_name": "American",
+                    "type": "cuisine",
+                    "name": "american",
+                    "id": 64444
+                },
+                {
+                    "name": "kid_friendly",
+                    "id": 64488,
+                    "display_name": "Kid-Friendly",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "breakfast",
+                    "id": 64483,
+                    "display_name": "Breakfast",
+                    "type": "meal"
+                },
+                {
+                    "display_name": "Brunch",
+                    "type": "occasion",
+                    "name": "brunch",
+                    "id": 64484
+                },
+                {
+                    "name": "snickers",
+                    "id": 6361700,
+                    "display_name": "Snickers",
+                    "type": "feature_page"
+                },
+                {
+                    "name": "low_calorie",
+                    "id": 8091916,
+                    "display_name": "Low-Calorie",
+                    "type": "healthy"
+                },
+                {
+                    "name": "5_ingredients_or_less",
+                    "id": 64470,
+                    "display_name": "5 Ingredients or Less",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "vegetarian",
+                    "id": 64469,
+                    "display_name": "Vegetarian",
+                    "type": "dietary"
+                }
+            ],
+            "num_servings": 1,
+            "credits": [
+                {
+                    "name": "Tiffany Lo",
+                    "type": "internal"
+                }
+            ],
+            "approved_at": 1502405710,
+            "nutrition_visibility": "auto",
+            "keywords": "9 ways, almond butter, apple, avocado, bananas, breakfast, cantaloupe, chickpeas, cinnamon, coconut, eggs  , feta, goodful, healthy, honey, peanut butter, prosciutto, raspberries, ricotta, smoked salmon, toasts, turkey bacon",
+            "facebook_posts": [],
+            "servings_noun_plural": "servings",
+            "cook_time_minutes": null,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/db165214636f42138b3de96a7fdccec4/BFV23736_Breakfast_Toasts_9_Ways-FB1080.mp4",
+            "compilations": [
+                {
+                    "video_id": 24265,
+                    "country": "ZZ",
+                    "created_at": 1501633886,
+                    "draft_status": "published",
+                    "language": "und",
+                    "thumbnail_url": "https://img.buzzfeed.com/video-api-prod/assets/62808cafab864b10a4cdb72fa3a4753c/BFV23736_Breakfast-Toasts-9-Ways-FB1.jpg",
+                    "id": 167,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "description": null,
+                    "video_url": "https://vid.tasty.co/output/45881/low_1501691049.m3u8",
+                    "facebook_posts": [],
+                    "approved_at": 1502405724,
+                    "canonical_id": "compilation:167",
+                    "promotion": "full",
+                    "show": [
+                        {
+                            "id": 34,
+                            "name": "Goodful"
+                        }
+                    ],
+                    "thumbnail_alt_text": "",
+                    "name": "Breakfast Toasts 9 Ways",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "slug": "breakfast-toasts-9-ways"
+                },
+                {
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/55267acb3307432088122f85f69f84e0/PRE-WORKOUTFB.jpg",
+                    "video_url": "https://vid.tasty.co/output/72778/hls24_1515794643.m3u8",
+                    "video_id": 43072,
+                    "aspect_ratio": null,
+                    "draft_status": "published",
+                    "language": "eng",
+                    "slug": "easy-to-make-pre-workout-snacks",
+                    "promotion": "full",
+                    "facebook_posts": [],
+                    "description": null,
+                    "approved_at": 1516141308,
+                    "name": "Easy To Make Pre-Workout Snacks",
+                    "keywords": null,
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1515794838,
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:418",
+                    "id": 418,
+                    "beauty_url": null,
+                    "country": "US",
+                    "buzz_id": 4725674
+                },
+                {
+                    "is_shoppable": false,
+                    "created_at": 1579771545,
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "country": "US",
+                    "keywords": null,
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "slug": "16-ways-to-up-your-breakfast-toast-game",
+                    "video_id": 99479,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "name": "16 Ways To Up Your Breakfast Toast Game",
+                    "canonical_id": "compilation:1367",
+                    "promotion": "full",
+                    "aspect_ratio": "16:9",
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/252778.jpg",
+                    "video_url": "https://vid.tasty.co/output/158401/hls24_1579766114.m3u8",
+                    "approved_at": 1580183953,
+                    "id": 1367
+                },
+                {
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/185273/hls24_1605553114.m3u8",
+                    "name": "Recipes For When You Wake Up Feeling Fancy ",
+                    "canonical_id": "compilation:1834",
+                    "buzz_id": null,
+                    "video_id": 118437,
+                    "facebook_posts": [],
+                    "description": null,
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1605729590,
+                    "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/8127d45fe7004526b798a36ac9e08b17/Recipe-Cards-1080x1350-01-Snickers.jpg",
+                    "promotion": "full",
+                    "created_at": 1605306674,
+                    "country": "US",
+                    "language": "eng",
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/1a63935a9b664ec9a815f5d08ef38430/cafe_snickers_1080x1080_OO.jpg",
+                    "id": 1834,
+                    "slug": "recipes-for-when-you-wake-up-feeling-fancy",
+                    "aspect_ratio": "1:1",
+                    "keywords": null,
+                    "is_shoppable": true
+                },
+                {
+                    "country": "US",
+                    "facebook_posts": [],
+                    "description": "Looking for a fresh start in 2021? We've got just the perfect recommendation to kickstart the new year! From french toasts, pancakes, cobblers, smoothies, avocado toasts, waffles and even this epic <a href=\"https://tasty.co/recipe/mini-donut-cereal\">mini donut cereal bowl,</a> here's an assortment of our top breakfast recipes. Cheers to a Tasty New Year! ",
+                    "draft_status": "published",
+                    "name": "Top Breakfasts of 2020!",
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "canonical_id": "compilation:2009",
+                    "id": 2009,
+                    "buzz_id": null,
+                    "slug": "top-breakfasts-of-2020",
+                    "beauty_url": null,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "created_at": 1608800203,
+                    "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/df868ffa23a14d33a06632b35ae3cae6/FBThumbapproved.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/189658/hls24_1608823457.m3u8",
+                    "language": "eng",
+                    "approved_at": 1609257204,
+                    "promotion": "full",
+                    "video_id": 121402
+                },
+                {
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/197450/hls24_1616590513.m3u8",
+                    "description": "Whoever said that you need to empty your wallet to enjoy a good snack couldn't have been more wrong. Our <a href=\"https://tasty.co/recipe/peanut-butter-and-banana-toast\">peanut butter and banana toast</a> and <a href=\"https://tasty.co/recipe/breakfast-burritos\">freezer prep breakfast burritos</a> are filling and flavorful without breaking the bank! Looking for easy, budget-friendly meals? From a <a href=\"https://tasty.co/recipe/hasselback-cheese-puff-fried-chicken\">fried chicken twist</a> to a <a href=\"https://tasty.co/recipe/microwave-5-minute-mac-n-cheese\">5-minute mac and cheese</a>, we've got it all.",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/313970.jpg",
+                    "approved_at": 1617727353,
+                    "name": "Snack Recipes That Won't Break Your Bank!",
+                    "video_id": 126442,
+                    "language": "eng",
+                    "draft_status": "published",
+                    "canonical_id": "compilation:2243",
+                    "beauty_url": null,
+                    "slug": "snack-recipes-that-won-t-break-your-bank",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1616590473,
+                    "id": 2243,
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "promotion": "full"
+                }
+            ],
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3b22c30979fe445dab56e0b729f2b0f8/BFV23736_Breakfast_Toasts_9_Ways-FB1080.jpg",
+            "thumbnail_alt_text": "",
+            "total_time_tier": null,
+            "yields": "Servings: 1",
+            "brand": null,
+            "show_id": 34,
+            "brand_id": null,
+            "canonical_id": "recipe:2204",
+            "video_id": 24265,
+            "servings_noun_singular": "serving",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "ingredient": {
+                                "id": 605,
+                                "display_singular": "bread",
+                                "updated_at": 1509035248,
+                                "name": "bread",
+                                "created_at": 1495475882,
+                                "display_plural": "breads"
+                            },
+                            "id": 21786,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "slice",
+                                        "abbreviation": "slice",
+                                        "system": "none",
+                                        "name": "slice",
+                                        "display_plural": "slices"
+                                    },
+                                    "quantity": "1",
+                                    "id": 322763
+                                }
+                            ],
+                            "raw_text": "1 slice bread, toasted",
+                            "extra_comment": "toasted"
+                        },
+                        {
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "display_plural": "peanut butters",
+                                "id": 51,
+                                "display_singular": "peanut butter",
+                                "updated_at": 1509035286,
+                                "name": "peanut butter",
+                                "created_at": 1493430352
+                            },
+                            "id": 21787,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 322762,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Peanut butter, to taste"
+                        },
+                        {
+                            "id": 21788,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "½",
+                                    "id": 322764
+                                }
+                            ],
+                            "raw_text": "½ banana, sliced",
+                            "extra_comment": "sliced",
+                            "ingredient": {
+                                "name": "banana",
+                                "created_at": 1493430017,
+                                "display_plural": "bananas",
+                                "id": 38,
+                                "display_singular": "banana",
+                                "updated_at": 1509035287
+                            }
+                        },
+                        {
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "created_at": 1493906374,
+                                "display_plural": "cinnamons",
+                                "id": 152,
+                                "display_singular": "cinnamon",
+                                "updated_at": 1509035283,
+                                "name": "cinnamon"
+                            },
+                            "id": 21789,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 322765
+                                }
+                            ],
+                            "raw_text": "Cinnamon, to taste"
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "name": "Peanut Butter And Banana Toast",
+            "buzz_id": null,
+            "description": null,
+            "country": "ZZ",
+            "price": {
+                "total": 600,
+                "updated_at": "2023-01-17T06:10:13+01:00",
+                "portion": 600,
+                "consumption_total": 300,
+                "consumption_portion": 300
+            },
+            "id": 2204,
+            "total_time_minutes": null,
+            "video_ad_content": "none"
+        }
+    ]
+}

@@ -1,0 +1,2998 @@
+{
+    "count": 4,
+    "results": [
+        {
+            "brand_id": null,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/651a510d05e6459e97c96e726c5ebd22.jpeg",
+            "credits": [
+                {
+                    "name": "Vivian PH",
+                    "type": "community"
+                }
+            ],
+            "promotion": "full",
+            "compilations": [],
+            "tips_and_ratings_enabled": true,
+            "cook_time_minutes": null,
+            "video_id": null,
+            "canonical_id": "recipe:8069",
+            "language": "eng",
+            "tags": [
+                {
+                    "type": "difficulty",
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy"
+                },
+                {
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance"
+                },
+                {
+                    "name": "lunch",
+                    "id": 64489,
+                    "display_name": "Lunch",
+                    "type": "meal"
+                },
+                {
+                    "name": "special_occasion",
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion"
+                },
+                {
+                    "name": "weeknight",
+                    "id": 64505,
+                    "display_name": "Weeknight",
+                    "type": "occasion"
+                },
+                {
+                    "id": 65859,
+                    "display_name": "Pan Fry",
+                    "type": "cooking_style",
+                    "name": "pan_fry"
+                },
+                {
+                    "name": "hawaiian",
+                    "id": 6953012,
+                    "display_name": "Hawaiian",
+                    "type": "cuisine"
+                },
+                {
+                    "type": "dietary",
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free"
+                }
+            ],
+            "created_at": 1643226851,
+            "total_time_minutes": null,
+            "servings_noun_plural": "servings",
+            "topics": [
+                {
+                    "name": "Community Recipes",
+                    "slug": "community"
+                },
+                {
+                    "name": "Lunch",
+                    "slug": "lunch"
+                }
+            ],
+            "video_ad_content": null,
+            "price": {
+                "consumption_portion": 100,
+                "total": 1200,
+                "updated_at": "2023-01-17T06:29:53+01:00",
+                "portion": 400,
+                "consumption_total": 250
+            },
+            "aspect_ratio": "16:9",
+            "inspired_by_url": null,
+            "updated_at": 1644350438,
+            "is_one_top": false,
+            "total_time_tier": null,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "ingredient": {
+                                "id": 285,
+                                "display_singular": "rice",
+                                "updated_at": 1509035273,
+                                "name": "rice",
+                                "created_at": 1494805537,
+                                "display_plural": "rices"
+                            },
+                            "id": 91828,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "4 ½",
+                                    "id": 680498
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "900",
+                                    "id": 680496
+                                }
+                            ],
+                            "raw_text": "4 ½ cups rice, cooked",
+                            "extra_comment": "cooked"
+                        },
+                        {
+                            "raw_text": "2 eggs",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "eggs",
+                                "id": 19,
+                                "display_singular": "egg",
+                                "updated_at": 1509035288,
+                                "name": "egg",
+                                "created_at": 1493314622
+                            },
+                            "id": 91829,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 680497
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1608213836,
+                                "name": "spam",
+                                "created_at": 1608213836,
+                                "display_plural": "spams",
+                                "id": 7797,
+                                "display_singular": "spam"
+                            },
+                            "id": 91830,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "container",
+                                        "display_plural": "containers",
+                                        "display_singular": "container",
+                                        "abbreviation": "container"
+                                    },
+                                    "quantity": "1",
+                                    "id": 680494
+                                }
+                            ],
+                            "raw_text": "One container of Spam, cubed",
+                            "extra_comment": "cubed"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 680495
+                                }
+                            ],
+                            "raw_text": "1 yellow onion, diced",
+                            "extra_comment": "diced",
+                            "ingredient": {
+                                "updated_at": 1509035276,
+                                "name": "yellow onion",
+                                "created_at": 1494297033,
+                                "display_plural": "yellow onions",
+                                "id": 243,
+                                "display_singular": "yellow onion"
+                            },
+                            "id": 91831,
+                            "position": 4
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035249,
+                                "name": "mayonnaise",
+                                "created_at": 1495392174,
+                                "display_plural": "mayonnaises",
+                                "id": 583,
+                                "display_singular": "mayonnaise"
+                            },
+                            "id": 91832,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 680499
+                                }
+                            ],
+                            "raw_text": "Mayo",
+                            "extra_comment": ""
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 680501
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "10",
+                                    "id": 680500
+                                }
+                            ],
+                            "raw_text": "¼ cup green onion, chopped",
+                            "extra_comment": "chopped",
+                            "ingredient": {
+                                "display_plural": "green onions",
+                                "id": 255,
+                                "display_singular": "green onion",
+                                "updated_at": 1509035275,
+                                "name": "green onion",
+                                "created_at": 1494382484
+                            },
+                            "id": 91833,
+                            "position": 6
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "country": "US",
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 70340,
+                    "position": 1,
+                    "display_text": "Put rice in a bowl, then flip it over on a plate, making dome rice."
+                },
+                {
+                    "id": 70341,
+                    "position": 2,
+                    "display_text": "Cook spam in a skillet, then set aside. In the same skillet, scramble eggs and set aside. Once set aside, sauté onion. Put aside.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "display_text": "To assemble, top rice with eggs, then add onions and spam. Finally, garnish with green onion and drizzle with mayo.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 70342,
+                    "position": 3
+                },
+                {
+                    "temperature": null,
+                    "id": 70343,
+                    "position": 4,
+                    "display_text": "Serve.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                }
+            ],
+            "facebook_posts": [],
+            "user_ratings": {
+                "score": 0.95,
+                "count_negative": 1,
+                "count_positive": 19
+            },
+            "id": 8069,
+            "show_id": 17,
+            "prep_time_minutes": null,
+            "thumbnail_alt_text": "",
+            "renditions": [],
+            "is_shoppable": true,
+            "yields": "Servings: 3",
+            "original_video_url": null,
+            "brand": null,
+            "servings_noun_singular": "serving",
+            "nutrition": {
+                "updated_at": "2022-10-01T08:01:41+02:00",
+                "protein": 11,
+                "fat": 13,
+                "calories": 218,
+                "sugar": 5,
+                "carbohydrates": 13,
+                "fiber": 1
+            },
+            "description": "",
+            "draft_status": "published",
+            "seo_title": "",
+            "nutrition_visibility": "auto",
+            "keywords": "",
+            "slug": "hawaii-rice-dish",
+            "num_servings": 3,
+            "buzz_id": null,
+            "approved_at": 1644350437,
+            "name": "Hawaii Rice Dish",
+            "video_url": null,
+            "beauty_url": null
+        },
+        {
+            "prep_time_minutes": 20,
+            "compilations": [],
+            "buzz_id": null,
+            "description": "These tacos were inspired by a popular Hawaiian dish called loco moco, which features a bed or rice topped with a beef patty, gravy, and an over-easy egg. In our version, we deep fry a mixture of rice and flour into crispy taco shells and fill them with deliciously tender braised short ribs, a fried egg, and flavorful gravy made from the short rib braising!",
+            "beauty_url": null,
+            "canonical_id": "recipe:7571",
+            "video_id": 135556,
+            "slug": "loco-moco-short-rib-tacos",
+            "tags": [
+                {
+                    "display_name": "Cutting Board",
+                    "type": "equipment",
+                    "name": "cutting_board",
+                    "id": 1280503
+                },
+                {
+                    "name": "food_processor",
+                    "id": 65842,
+                    "display_name": "Food Processor",
+                    "type": "appliance"
+                },
+                {
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "name": "saute_pan",
+                    "id": 1247787,
+                    "display_name": "Saute Pan",
+                    "type": "equipment"
+                },
+                {
+                    "name": "strainer",
+                    "id": 1247789,
+                    "display_name": "Strainer",
+                    "type": "equipment"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Instant Pot",
+                    "type": "appliance",
+                    "name": "instant_pot",
+                    "id": 4767336
+                },
+                {
+                    "id": 1280514,
+                    "display_name": "Spider",
+                    "type": "equipment",
+                    "name": "spider"
+                },
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "happy_hour",
+                    "id": 64502,
+                    "display_name": "Happy Hour",
+                    "type": "occasion"
+                },
+                {
+                    "name": "deep_fry",
+                    "id": 64493,
+                    "display_name": "Deep-Fry",
+                    "type": "cooking_style"
+                },
+                {
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine",
+                    "name": "american"
+                },
+                {
+                    "display_name": "Hawaiian",
+                    "type": "cuisine",
+                    "name": "hawaiian",
+                    "id": 6953012
+                },
+                {
+                    "name": "one_top_app_meat",
+                    "id": 2651753,
+                    "display_name": "Meat",
+                    "type": "business_tags"
+                },
+                {
+                    "name": "lunch",
+                    "id": 64489,
+                    "display_name": "Lunch",
+                    "type": "meal"
+                },
+                {
+                    "name": "appetizers",
+                    "id": 64481,
+                    "display_name": "Appetizers",
+                    "type": "meal"
+                },
+                {
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein",
+                    "type": "healthy"
+                },
+                {
+                    "name": "low_sugar",
+                    "id": 8091918,
+                    "display_name": "Low-Sugar",
+                    "type": "healthy"
+                },
+                {
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary"
+                }
+            ],
+            "nutrition": {
+                "carbohydrates": 41,
+                "fiber": 13,
+                "updated_at": "2022-10-01T08:02:20+02:00",
+                "protein": 44,
+                "fat": 79,
+                "calories": 1070,
+                "sugar": 6
+            },
+            "thumbnail_alt_text": "",
+            "created_at": 1624859790,
+            "video_url": "https://vid.tasty.co/output/207492/hls24_1624859840.m3u8",
+            "approved_at": 1625154353,
+            "is_one_top": false,
+            "instructions": [
+                {
+                    "display_text": "Season the short ribs on all sides with the salt and pepper.",
+                    "start_time": 6000,
+                    "appliance": null,
+                    "end_time": 14833,
+                    "temperature": null,
+                    "id": 66136,
+                    "position": 1
+                },
+                {
+                    "position": 2,
+                    "display_text": "Turn the Instant Pot to sauté mode and set the timer to 40 minutes. Add the canola oil and heat until shimmering. Sear the short ribs on all sides until golden brown, 3–4 minutes per side. Remove the short ribs from the Instant Pot.",
+                    "start_time": 16000,
+                    "appliance": null,
+                    "end_time": 34666,
+                    "temperature": null,
+                    "id": 66137
+                },
+                {
+                    "end_time": 61000,
+                    "temperature": null,
+                    "id": 66138,
+                    "position": 3,
+                    "display_text": "Add the 1-inch onion pieces, crushed garlic, soy sauce, Worcestershire sauce, beef stock, and sugar to the Instant Pot and stir to combine. Return the short ribs to the pot, secure the lid, and set the valve to sealing. Pressure cook for 45 minutes. Let the pressure naturally release for 15 minutes, then manually release the remaining pressure. Remove the short ribs from the Instant Pot and transfer to a bowl to cool. Strain the braising liquid, discarding the solids, and transfer to the refrigerator to cool for 1–2 hours, until the fat rises to the surface and solidifies.",
+                    "start_time": 35000,
+                    "appliance": null
+                },
+                {
+                    "start_time": 66000,
+                    "appliance": null,
+                    "end_time": 77000,
+                    "temperature": null,
+                    "id": 66139,
+                    "position": 4,
+                    "display_text": "Once the meat is cool enough to handle, remove the bones and any tough connective tissue, and break up into bite-size pieces. Cover the meat and refrigerate until ready to use."
+                },
+                {
+                    "display_text": "Once the braising liquid has cooled, remove from the refrigerator. Reserve 2 tablespoons of the solidified fat and discard the rest. Reserve the braising liquid.",
+                    "start_time": 78000,
+                    "appliance": null,
+                    "end_time": 82166,
+                    "temperature": null,
+                    "id": 66140,
+                    "position": 5
+                },
+                {
+                    "id": 66141,
+                    "position": 6,
+                    "display_text": "Melt the reserved fat in a medium skillet over medium heat. Add the diced onion and cook until softened and beginning to caramelize, 8–10 minutes. Add the minced garlic and cook until fragrant, about 1 minute. Add the ketchup and stir to incorporate. Add the flour and stir to coat evenly. Cook for 2–3 minutes, until the flour is no longer raw. Pour in the reserved braising liquid and whisk until everything is well incorporated. Bring to a simmer and cook for 4–6 minutes, until thickened. Transfer 1 cup of the gravy to a liquid measuring cup and set aside.",
+                    "start_time": 83000,
+                    "appliance": null,
+                    "end_time": 125833,
+                    "temperature": null
+                },
+                {
+                    "position": 7,
+                    "display_text": "Add the reserved short rib meat to the remaining gravy in the pan and cook until heated through, about 5 minutes. Season to taste with salt and pepper.",
+                    "start_time": 132000,
+                    "appliance": null,
+                    "end_time": 141666,
+                    "temperature": null,
+                    "id": 66142
+                },
+                {
+                    "start_time": 144000,
+                    "appliance": null,
+                    "end_time": 151500,
+                    "temperature": null,
+                    "id": 66143,
+                    "position": 8,
+                    "display_text": "Using an immersion blender, blend the reserved gravy until smooth."
+                },
+                {
+                    "appliance": null,
+                    "end_time": 170000,
+                    "temperature": null,
+                    "id": 66144,
+                    "position": 9,
+                    "display_text": "Make the rice taco shells: Add the steamed rice and ½ cup (60 g) flour to a food processor and pulse 10–12 times, until the rice is broken down and a sticky, dense dough begins to form.",
+                    "start_time": 153000
+                },
+                {
+                    "appliance": null,
+                    "end_time": 183000,
+                    "temperature": null,
+                    "id": 66145,
+                    "position": 10,
+                    "display_text": "Transfer the dough to a floured surface and sprinkle with more flour. Knead for 1–2 minutes, until the dough is still tacky, but not so much that it sticks to your hands, adding more flour little by little as necessary.",
+                    "start_time": 172000
+                },
+                {
+                    "appliance": null,
+                    "end_time": 200833,
+                    "temperature": null,
+                    "id": 66146,
+                    "position": 11,
+                    "display_text": "Portion the dough into 8 equal pieces, each about 3 ounces/the size of a lime. With wet hands, roll each piece into a smooth ball.",
+                    "start_time": 185000
+                },
+                {
+                    "temperature": null,
+                    "id": 66147,
+                    "position": 12,
+                    "display_text": "Add the remaining 2 cups of flour to a plate or baking sheet.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "position": 13,
+                    "display_text": "Set a sheet of parchment paper in front of you and spray a small circle on either side with nonstick spray. Place a rice ball on a circle and fold the other side of the parchment over to cover. Press down with a skillet to flatten the rice ball into a 4-inch-wide circle. Gently roll over the tortilla with a rolling pin to thin, if necessary.  Carefully remove the tortilla from the parchment paper and dredge in the flour. Set aside and repeat with the remaining tortillas.",
+                    "start_time": 209000,
+                    "appliance": null,
+                    "end_time": 220833,
+                    "temperature": null,
+                    "id": 66148
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 66149,
+                    "position": 14,
+                    "display_text": "Heat the canola oil in a large skillet over medium-high heat until the temperature reaches 375°F (190°C).",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "temperature": null,
+                    "id": 66150,
+                    "position": 15,
+                    "display_text": "Working 1 at a time, fry each tortilla for 45–60 seconds, then carefully flip (the tortilla should puff up) and fry for another minute or so, until golden brown on both sides. Remove the tortilla from the pan and shake off any excess oil, then transfer to a paper towel-lined plate to drain before gently placing into a taco stand to shape. Season lightly with salt. Repeat with the remaining tortillas.",
+                    "start_time": 222000,
+                    "appliance": null,
+                    "end_time": 234833
+                },
+                {
+                    "id": 66151,
+                    "position": 16,
+                    "display_text": "Assemble the tacos: Fill each rice tortilla with about ½ cup of the short rib meat. Top each taco with a fried egg and drizzle with the gravy. Garnish with green onions and black pepper.",
+                    "start_time": 239000,
+                    "appliance": null,
+                    "end_time": 251166,
+                    "temperature": null
+                },
+                {
+                    "end_time": 256333,
+                    "temperature": null,
+                    "id": 66152,
+                    "position": 17,
+                    "display_text": "Enjoy!",
+                    "start_time": 253000,
+                    "appliance": null
+                }
+            ],
+            "keywords": "",
+            "servings_noun_singular": "serving",
+            "num_servings": 8,
+            "total_time_tier": null,
+            "cook_time_minutes": 145,
+            "facebook_posts": [],
+            "name": "Loco Moco Short Rib Tacos",
+            "credits": [
+                {
+                    "name": "Tikeyah Whittle",
+                    "type": "internal"
+                }
+            ],
+            "tips_and_ratings_enabled": true,
+            "draft_status": "published",
+            "renditions": [
+                {
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/207492/square_720/1624859840_00001.png",
+                    "file_size": 68812889,
+                    "bit_rate": 2110,
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/207492/square_720/1624859840",
+                    "duration": 260970,
+                    "aspect": "square",
+                    "name": "mp4_720x720"
+                },
+                {
+                    "container": "mp4",
+                    "file_size": 23147664,
+                    "duration": 260970,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/207492/square_320/1624859840_00001.png",
+                    "url": "https://vid.tasty.co/output/207492/square_320/1624859840",
+                    "bit_rate": 710,
+                    "aspect": "square",
+                    "width": 320,
+                    "name": "mp4_320x320",
+                    "height": 320
+                },
+                {
+                    "file_size": 68786134,
+                    "bit_rate": 2109,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/207492/landscape_720/1624859840",
+                    "duration": 260970,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/207492/landscape_720/1624859840_00001.png"
+                },
+                {
+                    "url": "https://vid.tasty.co/output/207492/landscape_480/1624859840",
+                    "duration": 260970,
+                    "bit_rate": 1196,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 480,
+                    "maximum_bit_rate": null,
+                    "file_size": 38985033,
+                    "height": 480,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/207492/landscape_480/1624859840_00001.png",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_480x480",
+                    "container": "mp4"
+                },
+                {
+                    "file_size": null,
+                    "duration": 260969,
+                    "height": 1080,
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080,
+                    "minimum_bit_rate": 275,
+                    "container": "ts",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/207492/1445289064805-h2exzu/1624859840_00001.png",
+                    "url": "https://vid.tasty.co/output/207492/hls24_1624859840.m3u8",
+                    "name": "low",
+                    "maximum_bit_rate": 3684
+                }
+            ],
+            "topics": [
+                {
+                    "name": "New Years Party",
+                    "slug": "new-years"
+                },
+                {
+                    "name": "Lunch",
+                    "slug": "lunch"
+                },
+                {
+                    "slug": "american",
+                    "name": "American"
+                }
+            ],
+            "user_ratings": {
+                "score": 0.869565,
+                "count_negative": 3,
+                "count_positive": 20
+            },
+            "price": {
+                "consumption_portion": 250,
+                "total": 3650,
+                "updated_at": "2023-01-17T06:27:51+01:00",
+                "portion": 450,
+                "consumption_total": 2150
+            },
+            "brand": null,
+            "show_id": 17,
+            "video_ad_content": "none",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/0bc292439d7047ca80509182a985a350/BFV78441_LocoMocoShortRibTacos_TW_OO_V1.mp4",
+            "nutrition_visibility": "auto",
+            "servings_noun_plural": "servings",
+            "is_shoppable": true,
+            "yields": "Servings: 8",
+            "language": "eng",
+            "id": 7571,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "3 pounds bone-in beef short ribs",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1569536261,
+                                "display_plural": "bones in beef short ribs",
+                                "id": 5751,
+                                "display_singular": "bone in beef short ribs",
+                                "updated_at": 1569536261,
+                                "name": "bone in beef short ribs"
+                            },
+                            "id": 85076,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "quantity": "3",
+                                    "id": 646641,
+                                    "unit": {
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb",
+                                        "system": "imperial",
+                                        "name": "pound"
+                                    }
+                                },
+                                {
+                                    "quantity": "1.2",
+                                    "id": 646640,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2½ teaspoons kosher salt, plus more to taste",
+                            "extra_comment": "plus more to taste",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            },
+                            "id": 85077,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "id": 646623,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "2 ½"
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper",
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438
+                            },
+                            "id": 85078,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 646626
+                                }
+                            ],
+                            "raw_text": "1½ teaspoons freshly ground black pepper, plus more to taste",
+                            "extra_comment": "plus more to taste"
+                        },
+                        {
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "1",
+                                    "id": 646622
+                                }
+                            ],
+                            "raw_text": "1 tablespoon canola oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035230,
+                                "name": "canola oil",
+                                "created_at": 1495764700,
+                                "display_plural": "canola oils",
+                                "id": 825,
+                                "display_singular": "canola oil"
+                            },
+                            "id": 85079
+                        },
+                        {
+                            "raw_text": "½ medium yellow onion, cut into 1-inch pieces , plus ½, diced",
+                            "extra_comment": "cut into 1 in (2.54 cm), plus 1/2 diced",
+                            "ingredient": {
+                                "updated_at": 1509035220,
+                                "name": "medium yellow onion",
+                                "created_at": 1496102165,
+                                "display_plural": "medium yellow onions",
+                                "id": 942,
+                                "display_singular": "medium yellow onion"
+                            },
+                            "id": 85080,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "½",
+                                    "id": 646634
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "3 cloves garlic, crushed, plus 3 cloves, minced",
+                            "extra_comment": "crushed, plus 3 cloves, minced",
+                            "ingredient": {
+                                "id": 95,
+                                "display_singular": "garlic",
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics"
+                            },
+                            "id": 85081,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove",
+                                        "abbreviation": "clove"
+                                    },
+                                    "quantity": "3",
+                                    "id": 646621
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2½ tablespoons light soy sauce",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "light soy sauce",
+                                "updated_at": 1509035173,
+                                "name": "light soy sauce",
+                                "created_at": 1496950228,
+                                "display_plural": "light soy sauces",
+                                "id": 1666
+                            },
+                            "id": 85082,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon"
+                                    },
+                                    "quantity": "2 ½",
+                                    "id": 646633
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1½ teaspoons Worcestershire sauce",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "worcestershire sauce",
+                                "updated_at": 1509035273,
+                                "name": "worcestershire sauce",
+                                "created_at": 1494804954,
+                                "display_plural": "worcestershire sauces",
+                                "id": 280
+                            },
+                            "id": 85083,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "id": 646646,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "1 ½"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 85084,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 646624
+                                },
+                                {
+                                    "id": 646620,
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "360"
+                                }
+                            ],
+                            "raw_text": "1½ cups low-sodium beef stock",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035092,
+                                "name": "low sodium beef broth",
+                                "created_at": 1506649034,
+                                "display_plural": "low sodium beef broths",
+                                "id": 3036,
+                                "display_singular": "low sodium beef broth"
+                            }
+                        },
+                        {
+                            "raw_text": "2 tablespoons sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "sugar",
+                                "created_at": 1493314650,
+                                "display_plural": "sugars",
+                                "id": 24,
+                                "display_singular": "sugar"
+                            },
+                            "id": 85085,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2",
+                                    "id": 646625
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "created_at": 1493307243,
+                                "display_plural": "ketchups",
+                                "id": 14,
+                                "display_singular": "ketchup",
+                                "updated_at": 1509035289,
+                                "name": "ketchup"
+                            },
+                            "id": 85086,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "id": 646635,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2"
+                                }
+                            ],
+                            "raw_text": "2 tablespoons ketchup",
+                            "extra_comment": ""
+                        },
+                        {
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "2",
+                                    "id": 646628
+                                }
+                            ],
+                            "raw_text": "2 tablespoons all-purpose flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1513187920,
+                                "name": "all purpose flour",
+                                "created_at": 1513187920,
+                                "display_plural": "all purpose flours",
+                                "id": 3393,
+                                "display_singular": "all purpose flour"
+                            },
+                            "id": 85087
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "4 cups steamed short-grain rice",
+                            "extra_comment": "steamed",
+                            "ingredient": {
+                                "updated_at": 1509035242,
+                                "name": "short grain rice",
+                                "created_at": 1495585734,
+                                "display_plural": "short grain rices",
+                                "id": 668,
+                                "display_singular": "short grain rice"
+                            },
+                            "id": 85089,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "quantity": "4",
+                                    "id": 646632,
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    }
+                                },
+                                {
+                                    "quantity": "800",
+                                    "id": 646630,
+                                    "unit": {
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": 85090,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "2 ½",
+                                    "id": 646645
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "310",
+                                    "id": 646644
+                                }
+                            ],
+                            "raw_text": "2½ cups all-purpose flour, divided, plus more for dusting",
+                            "extra_comment": "divided, plus more for dusting",
+                            "ingredient": {
+                                "updated_at": 1513187920,
+                                "name": "all purpose flour",
+                                "created_at": 1513187920,
+                                "display_plural": "all purpose flours",
+                                "id": 3393,
+                                "display_singular": "all purpose flour"
+                            }
+                        },
+                        {
+                            "id": 85091,
+                            "position": 16,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 646638
+                                }
+                            ],
+                            "raw_text": "Nonstick cooking spray, for greasing",
+                            "extra_comment": "for greasing",
+                            "ingredient": {
+                                "id": 3826,
+                                "display_singular": "nonstick cooking spray",
+                                "updated_at": 1520176895,
+                                "name": "nonstick cooking spray",
+                                "created_at": 1520176895,
+                                "display_plural": "nonstick cooking sprays"
+                            }
+                        },
+                        {
+                            "raw_text": "2 cups canola oil",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 825,
+                                "display_singular": "canola oil",
+                                "updated_at": 1509035230,
+                                "name": "canola oil",
+                                "created_at": 1495764700,
+                                "display_plural": "canola oils"
+                            },
+                            "id": 85092,
+                            "position": 17,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    },
+                                    "quantity": "2",
+                                    "id": 646639
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter"
+                                    },
+                                    "quantity": "480",
+                                    "id": 646637
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 646636
+                                }
+                            ],
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt",
+                                "updated_at": 1509035289
+                            },
+                            "id": 85093,
+                            "position": 18
+                        }
+                    ],
+                    "name": "Rice Taco Shells",
+                    "position": 2
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "8 fried eggs",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1517420763,
+                                "display_plural": "fried eggs",
+                                "id": 3607,
+                                "display_singular": "fried egg",
+                                "updated_at": 1517420763,
+                                "name": "fried egg"
+                            },
+                            "id": 85095,
+                            "position": 20,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "8",
+                                    "id": 646643
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "id": 255,
+                                "display_singular": "green onion",
+                                "updated_at": 1509035275,
+                                "name": "green onion",
+                                "created_at": 1494382484,
+                                "display_plural": "green onions"
+                            },
+                            "id": 85096,
+                            "position": 21,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "2",
+                                    "id": 646642
+                                }
+                            ],
+                            "raw_text": "2 tablespoons thinly sliced green onions, white and light green parts",
+                            "extra_comment": "thinly sliced, white and light green parts"
+                        },
+                        {
+                            "raw_text": "Freshly ground black pepper, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438,
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper"
+                            },
+                            "id": 85097,
+                            "position": 22,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 646631
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Assembly",
+                    "position": 3
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "Instant Pot",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1550672887,
+                                "name": "instant pot",
+                                "created_at": 1550672887,
+                                "display_plural": "instant pots",
+                                "id": 5107,
+                                "display_singular": "instant pot"
+                            },
+                            "id": 85099,
+                            "position": 24,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 646627
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "name": "taco stand",
+                                "created_at": 1624881790,
+                                "display_plural": "taco stands",
+                                "id": 8717,
+                                "display_singular": "taco stand",
+                                "updated_at": 1624881790
+                            },
+                            "id": 85100,
+                            "position": 25,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 646629,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Taco stand",
+                            "extra_comment": ""
+                        }
+                    ],
+                    "name": "Special Equipment",
+                    "position": 4
+                }
+            ],
+            "updated_at": 1625154353,
+            "inspired_by_url": null,
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/329249.jpg",
+            "total_time_minutes": 225,
+            "seo_title": "Loco Moco Short Rib Tacos",
+            "country": "US",
+            "brand_id": null,
+            "aspect_ratio": "1:1",
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "promotion": "full"
+        },
+        {
+            "compilations": [],
+            "num_servings": 6,
+            "aspect_ratio": "1:1",
+            "description": "Our version of hula pie, a Hawaiiian-inspired dessert, is made with the traditional chocolate cookie crust and coffee-flavored ice cream loaded with macadamia nuts. Using a bowl and softened ice cream, we freeze the ice cream into a dome shape, then invert it onto the crust for a dessert that is as tall as it is delicious. It’s all topped with a rich chocolate fudge sauce and served with homemade whipped cream and more toasted macadamia nuts for added crunch.",
+            "draft_status": "published",
+            "inspired_by_url": null,
+            "language": "eng",
+            "show_id": 17,
+            "thumbnail_alt_text": "",
+            "is_one_top": false,
+            "buzz_id": null,
+            "servings_noun_plural": "servings",
+            "video_ad_content": "none",
+            "seo_title": "",
+            "promotion": "full",
+            "nutrition_visibility": "auto",
+            "keywords": "",
+            "prep_time_minutes": 15,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "credits": [
+                {
+                    "name": "Tikeyah Whittle",
+                    "type": "internal"
+                },
+                {
+                    "name": "Mimo Ahmed",
+                    "type": "internal"
+                }
+            ],
+            "beauty_url": null,
+            "total_time_tier": null,
+            "canonical_id": "recipe:7304",
+            "user_ratings": {
+                "score": 0.925,
+                "count_negative": 3,
+                "count_positive": 37
+            },
+            "brand": null,
+            "cook_time_minutes": 60,
+            "tags": [
+                {
+                    "type": "equipment",
+                    "name": "sauce_pan",
+                    "id": 1247786,
+                    "display_name": "Sauce Pan"
+                },
+                {
+                    "name": "freezer",
+                    "id": 65843,
+                    "display_name": "Freezer",
+                    "type": "appliance"
+                },
+                {
+                    "type": "equipment",
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl"
+                },
+                {
+                    "name": "microwave",
+                    "id": 65845,
+                    "display_name": "Microwave",
+                    "type": "appliance"
+                },
+                {
+                    "name": "food_processor",
+                    "id": 65842,
+                    "display_name": "Food Processor",
+                    "type": "appliance"
+                },
+                {
+                    "name": "hand_mixer",
+                    "id": 65844,
+                    "display_name": "Hand Mixer",
+                    "type": "appliance"
+                },
+                {
+                    "name": "casual_party",
+                    "id": 64503,
+                    "display_name": "Casual Party",
+                    "type": "occasion"
+                },
+                {
+                    "name": "desserts",
+                    "id": 64485,
+                    "display_name": "Desserts",
+                    "type": "meal"
+                },
+                {
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment",
+                    "name": "dry_measuring_cups",
+                    "id": 1280507
+                },
+                {
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion",
+                    "name": "special_occasion"
+                },
+                {
+                    "type": "holiday",
+                    "name": "asian_pacific_american_heritage_month",
+                    "id": 3802077,
+                    "display_name": "Asian Pacific American Heritage Month"
+                },
+                {
+                    "name": "plastic_wrap",
+                    "id": 1247784,
+                    "display_name": "Plastic Wrap",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506
+                },
+                {
+                    "name": "indulgent_sweets",
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion"
+                },
+                {
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance"
+                },
+                {
+                    "name": "pie_dish",
+                    "id": 1247782,
+                    "display_name": "Pie Dish",
+                    "type": "equipment"
+                },
+                {
+                    "name": "no_bake_desserts",
+                    "id": 65854,
+                    "display_name": "No Bake Desserts",
+                    "type": "cooking_style"
+                },
+                {
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment",
+                    "name": "measuring_spoons",
+                    "id": 1280508
+                },
+                {
+                    "name": "hawaiian",
+                    "id": 6953012,
+                    "display_name": "Hawaiian",
+                    "type": "cuisine"
+                },
+                {
+                    "id": 65410,
+                    "display_name": "Fusion",
+                    "type": "cuisine",
+                    "name": "fusion"
+                },
+                {
+                    "name": "high_fiber",
+                    "id": 8091920,
+                    "display_name": "High-Fiber",
+                    "type": "healthy"
+                }
+            ],
+            "nutrition": {
+                "updated_at": "2021-05-03T13:20:26+02:00",
+                "protein": 15,
+                "fat": 85,
+                "calories": 1142,
+                "sugar": 80,
+                "carbohydrates": 97,
+                "fiber": 7
+            },
+            "tips_and_ratings_enabled": true,
+            "approved_at": 1619787262,
+            "id": 7304,
+            "sections": [
+                {
+                    "name": null,
+                    "position": 1,
+                    "components": [
+                        {
+                            "ingredient": {
+                                "name": "chocolate sandwich cookie",
+                                "created_at": 1495157148,
+                                "display_plural": "chocolate sandwich cookies",
+                                "id": 509,
+                                "display_singular": "chocolate sandwich cookie",
+                                "updated_at": 1509035255
+                            },
+                            "id": 81393,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "13",
+                                    "id": 631586
+                                }
+                            ],
+                            "raw_text": "13 chocolate sandwich cookies",
+                            "extra_comment": ""
+                        },
+                        {
+                            "raw_text": "4 tablespoons (½ stick) unsalted butter, divided",
+                            "extra_comment": "divided",
+                            "ingredient": {
+                                "id": 291,
+                                "display_singular": "unsalted butter",
+                                "updated_at": 1509035272,
+                                "name": "unsalted butter",
+                                "created_at": 1494806355,
+                                "display_plural": "unsalted butters"
+                            },
+                            "id": 81394,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "4",
+                                    "id": 631589
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "display_plural": "coffee ice creams",
+                                "id": 969,
+                                "display_singular": "coffee ice cream",
+                                "updated_at": 1509035217,
+                                "name": "coffee ice cream",
+                                "created_at": 1496168629
+                            },
+                            "id": 81395,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "id": 631598,
+                                    "unit": {
+                                        "abbreviation": "pt",
+                                        "system": "imperial",
+                                        "name": "pint",
+                                        "display_plural": "pt",
+                                        "display_singular": "pt"
+                                    },
+                                    "quantity": "3"
+                                },
+                                {
+                                    "quantity": "1.4",
+                                    "id": 631595,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    }
+                                }
+                            ],
+                            "raw_text": "3 pints coffee ice cream",
+                            "extra_comment": ""
+                        },
+                        {
+                            "raw_text": "1 cup unsalted macadamia nuts, roasted and roughly chopped, divided",
+                            "extra_comment": "roasted and roughly chopped, divided",
+                            "ingredient": {
+                                "updated_at": 1619636271,
+                                "name": "unsalted macadamia nuts",
+                                "created_at": 1619636271,
+                                "display_plural": "unsalted macadamia nuts",
+                                "id": 8307,
+                                "display_singular": "unsalted macadamia nut"
+                            },
+                            "id": 81396,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "1",
+                                    "id": 631606
+                                },
+                                {
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "125",
+                                    "id": 631605
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1520176895,
+                                "name": "nonstick cooking spray",
+                                "created_at": 1520176895,
+                                "display_plural": "nonstick cooking sprays",
+                                "id": 3826,
+                                "display_singular": "nonstick cooking spray"
+                            },
+                            "id": 81397,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 631591,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Nonstick cooking spray, for greasing",
+                            "extra_comment": "for greasing"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1 ⅔",
+                                    "id": 631594
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "400",
+                                    "id": 631592
+                                }
+                            ],
+                            "raw_text": "1⅔ cups heavy cream, divided",
+                            "extra_comment": "divided",
+                            "ingredient": {
+                                "created_at": 1494214054,
+                                "display_plural": "heavy creams",
+                                "id": 221,
+                                "display_singular": "heavy cream",
+                                "updated_at": 1509035278,
+                                "name": "heavy cream"
+                            },
+                            "id": 81398,
+                            "position": 6
+                        },
+                        {
+                            "raw_text": "½ cup light corn syrup",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "light corn syrup",
+                                "updated_at": 1509035222,
+                                "name": "light corn syrup",
+                                "created_at": 1496026242,
+                                "display_plural": "light corn syrups",
+                                "id": 922
+                            },
+                            "id": 81399,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½",
+                                    "id": 631588
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "120",
+                                    "id": 631587
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 631602
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    },
+                                    "quantity": "50",
+                                    "id": 631600
+                                }
+                            ],
+                            "raw_text": "¼ cup dark brown sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035230,
+                                "name": "dark brown sugar",
+                                "created_at": 1495763910,
+                                "display_plural": "dark brown sugars",
+                                "id": 824,
+                                "display_singular": "dark brown sugar"
+                            },
+                            "id": 81400,
+                            "position": 8
+                        },
+                        {
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "id": 631599,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "¼"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "25",
+                                    "id": 631597
+                                }
+                            ],
+                            "raw_text": "¼ cup cocoa powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035277,
+                                "name": "cocoa powder",
+                                "created_at": 1494295698,
+                                "display_plural": "cocoa powders",
+                                "id": 238,
+                                "display_singular": "cocoa powder"
+                            },
+                            "id": 81401
+                        },
+                        {
+                            "raw_text": "¼ teaspoon kosher salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            },
+                            "id": 81402,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 631590
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1 cup semisweet baking chocolate chips",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "semisweet baking chocolate chips",
+                                "created_at": 1619636603,
+                                "display_plural": "semisweet baking chocolate chips",
+                                "id": 8308,
+                                "display_singular": "semisweet baking chocolate chip",
+                                "updated_at": 1619636603
+                            },
+                            "id": 81403,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "id": 631603,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "175",
+                                    "id": 631601
+                                }
+                            ]
+                        },
+                        {
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 631604
+                                }
+                            ],
+                            "raw_text": "1 teaspoon McCormick® vanilla extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1548772424,
+                                "name": "McCormick® vanilla extract",
+                                "created_at": 1548772424,
+                                "display_plural": "McCormick® vanilla extracts",
+                                "id": 5071,
+                                "display_singular": "McCormick® vanilla extract"
+                            },
+                            "id": 81404
+                        },
+                        {
+                            "raw_text": "¼ cup powdered sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "powdered sugar",
+                                "created_at": 1493747135,
+                                "display_plural": "powdered sugars",
+                                "id": 144,
+                                "display_singular": "powdered sugar",
+                                "updated_at": 1509035283
+                            },
+                            "id": 81405,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 631596
+                                },
+                                {
+                                    "quantity": "25",
+                                    "id": 631593,
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Asian Pacific American Heritage Month",
+                    "slug": "asian-pacific-american-heritage-month"
+                },
+                {
+                    "name": "No Bake Desserts",
+                    "slug": "no-bake-desserts"
+                },
+                {
+                    "name": "Desserts",
+                    "slug": "desserts"
+                }
+            ],
+            "yields": "Servings: 6",
+            "price": {
+                "portion": 1100,
+                "consumption_total": 5350,
+                "consumption_portion": 900,
+                "total": 6500,
+                "updated_at": "2023-01-17T06:26:44+01:00"
+            },
+            "servings_noun_singular": "serving",
+            "facebook_posts": [],
+            "created_at": 1619630747,
+            "total_time_minutes": 795,
+            "renditions": [
+                {
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/201151/square_720/1619550817_00001.png",
+                    "file_size": 40418943,
+                    "url": "https://vid.tasty.co/output/201151/square_720/1619550817",
+                    "duration": 195373,
+                    "bit_rate": 1656,
+                    "aspect": "square",
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "height": 720
+                },
+                {
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "duration": 195373,
+                    "bit_rate": 589,
+                    "content_type": "video/mp4",
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_320x320",
+                    "height": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/201151/square_320/1619550817_00001.png",
+                    "file_size": 14383527,
+                    "url": "https://vid.tasty.co/output/201151/square_320/1619550817",
+                    "aspect": "square"
+                },
+                {
+                    "aspect": "square",
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "duration": 195373,
+                    "content_type": "video/mp4",
+                    "file_size": 40417988,
+                    "url": "https://vid.tasty.co/output/201151/landscape_720/1619550817",
+                    "bit_rate": 1656,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/201151/landscape_720/1619550817_00001.png"
+                },
+                {
+                    "aspect": "square",
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "bit_rate": 958,
+                    "url": "https://vid.tasty.co/output/201151/landscape_480/1619550817",
+                    "duration": 195373,
+                    "content_type": "video/mp4",
+                    "name": "mp4_480x480",
+                    "height": 480,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/201151/landscape_480/1619550817_00001.png",
+                    "file_size": 23377932
+                },
+                {
+                    "duration": 195370,
+                    "bit_rate": null,
+                    "width": 1080,
+                    "url": "https://vid.tasty.co/output/201151/hls24_1619550817.m3u8",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/201151/1445289064805-h2exzu/1619550817_00001.png",
+                    "file_size": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "minimum_bit_rate": 275,
+                    "name": "low",
+                    "maximum_bit_rate": 2969,
+                    "container": "ts",
+                    "height": 1080
+                }
+            ],
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/74efedcfdc0d4b25b2202c0405e648dd/BFV78609_HulaPie_JW_042321_1x1_v05_OO.mp4",
+            "video_id": 130772,
+            "instructions": [
+                {
+                    "id": 64285,
+                    "position": 1,
+                    "display_text": "Make the crust: Add the chocolate sandwich cookies to a food processor and process into fine crumbs.",
+                    "start_time": 6000,
+                    "appliance": null,
+                    "end_time": 12333,
+                    "temperature": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 64286,
+                    "position": 2,
+                    "display_text": "Add 2 tablespoons of butter to a medium microwave-safe bowl. Microwave until melted, about 30 seconds.",
+                    "start_time": 0
+                },
+                {
+                    "end_time": 22500,
+                    "temperature": null,
+                    "id": 64287,
+                    "position": 3,
+                    "display_text": "Add the cookie crumbs to the melted butter and stir until well combined.",
+                    "start_time": 14000,
+                    "appliance": null
+                },
+                {
+                    "id": 64288,
+                    "position": 4,
+                    "display_text": "Transfer the cookie crumb mixture to a 9-inch pie pan and use a flat-bottomed measuring cup to pack tightly against the bottom and sides of the pan. Freeze overnight.",
+                    "start_time": 24000,
+                    "appliance": null,
+                    "end_time": 32333,
+                    "temperature": null
+                },
+                {
+                    "start_time": 34000,
+                    "appliance": null,
+                    "end_time": 46500,
+                    "temperature": null,
+                    "id": 64289,
+                    "position": 5,
+                    "display_text": "Make the ice cream dome: Remove the ice cream from the freezer and let soften for 5–10 minutes. Transfer the ice cream to a large bowl and stir until it reaches a thick, frozen yogurt consistency. Add ½ cup of the macadamia nuts and mix until well combined."
+                },
+                {
+                    "temperature": null,
+                    "id": 64290,
+                    "position": 6,
+                    "display_text": "Line an 8-inch bowl with plastic wrap and grease with nonstick spray.",
+                    "start_time": 53000,
+                    "appliance": null,
+                    "end_time": 59000
+                },
+                {
+                    "start_time": 64000,
+                    "appliance": null,
+                    "end_time": 76166,
+                    "temperature": null,
+                    "id": 64291,
+                    "position": 7,
+                    "display_text": "Scoop the ice cream into the prepared bowl and smooth the top. Cover and freeze overnight."
+                },
+                {
+                    "position": 8,
+                    "display_text": "Remove the ice cream dome and chocolate cookie crust from the freezer. Unwrap the bowl with the ice cream and carefully place upside-down over the crust. Remove the bowl and plastic wrap. Freeze again while you make the fudge sauce.",
+                    "start_time": 79000,
+                    "appliance": null,
+                    "end_time": 86833,
+                    "temperature": null,
+                    "id": 64292
+                },
+                {
+                    "id": 64293,
+                    "position": 9,
+                    "display_text": "In a small saucepan, combine the remaining 2 tablespoons butter, ⅔ cup cream, the corn syrup, brown sugar, cocoa powder, and salt. Bring to simmer over medium heat and cook for 3–5 minutes, stirring constantly, until the butter melts and the mixture is smooth. Remove the pan from the heat and add the chocolate chips and vanilla. Stir to melt the chocolate chips. Chill the fudge sauce in the refrigerator for 60 minutes before using.",
+                    "start_time": 88000,
+                    "appliance": null,
+                    "end_time": 119500,
+                    "temperature": null
+                },
+                {
+                    "position": 10,
+                    "display_text": "Spread about 1 cup of the cooled fudge sauce over the ice cream dome. Freeze again until the fudge is firm, 30 minutes.",
+                    "start_time": 126000,
+                    "appliance": null,
+                    "end_time": 136000,
+                    "temperature": null,
+                    "id": 64294
+                },
+                {
+                    "start_time": 138000,
+                    "appliance": null,
+                    "end_time": 154166,
+                    "temperature": null,
+                    "id": 64295,
+                    "position": 11,
+                    "display_text": "Make the whipped cream: Add the remaining cup of heavy cream and the powdered sugar to a large bowl. Whip with an electric hand mixer on high speed until medium-stiff peaks form, about 1 minute."
+                },
+                {
+                    "end_time": 172166,
+                    "temperature": null,
+                    "id": 64296,
+                    "position": 12,
+                    "display_text": "Remove the pie from the freezer and cut into 6 slices. Garnish each slice with whipped cream and the remaining macadamia nuts.",
+                    "start_time": 156000,
+                    "appliance": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 184500,
+                    "temperature": null,
+                    "id": 64297,
+                    "position": 13,
+                    "display_text": "Enjoy!",
+                    "start_time": 176000
+                }
+            ],
+            "slug": "hula-pie",
+            "name": "Hula Pie",
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/319198.jpg",
+            "video_url": "https://vid.tasty.co/output/201151/hls24_1619550817.m3u8",
+            "updated_at": 1619787269,
+            "is_shoppable": true,
+            "country": "US",
+            "brand_id": null
+        },
+        {
+            "created_at": 1589228091,
+            "thumbnail_alt_text": "",
+            "servings_noun_plural": "servings",
+            "renditions": [],
+            "video_ad_content": null,
+            "keywords": "",
+            "user_ratings": {
+                "count_positive": 23,
+                "score": 0.92,
+                "count_negative": 2
+            },
+            "compilations": [],
+            "buzz_id": null,
+            "show": {
+                "id": 17,
+                "name": "Tasty"
+            },
+            "promotion": "full",
+            "inspired_by_url": null,
+            "total_time_minutes": 65,
+            "approved_at": 1589232143,
+            "beauty_url": null,
+            "cook_time_minutes": 50,
+            "country": "US",
+            "language": "eng",
+            "updated_at": 1589232143,
+            "yields": "Servings: 6-8",
+            "canonical_id": "recipe:6168",
+            "is_shoppable": true,
+            "seo_title": "",
+            "nutrition_visibility": "auto",
+            "facebook_posts": [],
+            "prep_time_minutes": 15,
+            "num_servings": 8,
+            "tips_and_ratings_enabled": true,
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/8bded1957124439f8db075360ee3fffb.jpeg",
+            "total_time_tier": {
+                "tier": "under_1.5_hours",
+                "display_tier": "Under 1.5 hours"
+            },
+            "video_id": null,
+            "id": 6168,
+            "brand": null,
+            "servings_noun_singular": "serving",
+            "name": "Coconut-Glazed Hawaiian Butter Mochi",
+            "aspect_ratio": "16:9",
+            "draft_status": "published",
+            "description": "Coconut-glazed Hawaiian butter mochi is the perfect blend of Filipino bibingka and Japanese mochi. Rice flour gives the cake a chewy, gooey texture that makes this dessert irresistible.",
+            "video_url": null,
+            "instructions": [
+                {
+                    "temperature": null,
+                    "id": 55296,
+                    "position": 1,
+                    "display_text": "Preheat the oven to 350°F (180°C). Grease a 9 x 13-inch baking dish with nonstick spray.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "id": 55297,
+                    "position": 2,
+                    "display_text": "In a large bowl, whisk together the melted butter and sugar until combined. Add the eggs, and beat until fully incorporated. Add the vanilla, baking powder, and mochiko flour and whisk until fully combined. Add the evaporated milk and coconut milk and whisk until a smooth batter is formed.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "position": 3,
+                    "display_text": "Transfer the batter to the prepared baking dish and spread in an even layer, then bake for 45–50 minutes, until golden brown. Let the butter mochi cool to room temperature in the pan.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 55298
+                },
+                {
+                    "display_text": "While the butter mochi cools, make the glaze: In a medium bowl, whisk together the powdered sugar and coconut milk until smooth and thick. Add more coconut milk, 1 tablespoon at a time, if needed.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 55299,
+                    "position": 4
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 55300,
+                    "position": 5,
+                    "display_text": "Once the butter mochi has cooled, spread the glaze all over the top and sprinkle with the toasted shredded coconut. Slice into small squares and serve."
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 55301,
+                    "position": 6,
+                    "display_text": "Enjoy!"
+                }
+            ],
+            "price": {
+                "total": 1350,
+                "updated_at": "2023-01-17T06:22:43+01:00",
+                "portion": 150,
+                "consumption_total": 700,
+                "consumption_portion": 100
+            },
+            "slug": "coconut-glazed-hawaiian-butter-mochi",
+            "show_id": 17,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "Nonstick cooking spray, for greasing",
+                            "extra_comment": "for greasing",
+                            "ingredient": {
+                                "updated_at": 1520176895,
+                                "name": "nonstick cooking spray",
+                                "created_at": 1520176895,
+                                "display_plural": "nonstick cooking sprays",
+                                "id": 3826,
+                                "display_singular": "nonstick cooking spray"
+                            },
+                            "id": 67766,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 565034
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035272,
+                                "name": "unsalted butter",
+                                "created_at": 1494806355,
+                                "display_plural": "unsalted butters",
+                                "id": 291,
+                                "display_singular": "unsalted butter"
+                            },
+                            "id": 67767,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "113.5",
+                                    "id": 565037
+                                },
+                                {
+                                    "id": 565036,
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    },
+                                    "quantity": "½"
+                                }
+                            ],
+                            "raw_text": "½ cup (1 stick) unsalted butter, melted"
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "granulated sugars",
+                                "id": 419,
+                                "display_singular": "granulated sugar",
+                                "updated_at": 1509035262,
+                                "name": "granulated sugar",
+                                "created_at": 1494989637
+                            },
+                            "id": 67768,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "id": 565031,
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "300"
+                                },
+                                {
+                                    "id": 565030,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1 ½"
+                                }
+                            ],
+                            "raw_text": "1½ cups granulated sugar"
+                        },
+                        {
+                            "id": 67769,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "4",
+                                    "id": 565032
+                                }
+                            ],
+                            "raw_text": "4 large eggs, room temperature",
+                            "extra_comment": "room temperature",
+                            "ingredient": {
+                                "updated_at": 1509035275,
+                                "name": "large egg",
+                                "created_at": 1494382414,
+                                "display_plural": "large eggs",
+                                "id": 253,
+                                "display_singular": "large egg"
+                            }
+                        },
+                        {
+                            "id": 67770,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    },
+                                    "quantity": "6",
+                                    "id": 565022
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 565017
+                                }
+                            ],
+                            "raw_text": "1½ teaspoons vanilla extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035284,
+                                "name": "vanilla extract",
+                                "created_at": 1493745620,
+                                "display_plural": "vanilla extracts",
+                                "id": 103,
+                                "display_singular": "vanilla extract"
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "6",
+                                    "id": 565021
+                                },
+                                {
+                                    "id": 565019,
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1 ½"
+                                }
+                            ],
+                            "raw_text": "1½ teaspoons baking powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "baking powders",
+                                "id": 23,
+                                "display_singular": "baking powder",
+                                "updated_at": 1509035288,
+                                "name": "baking powder",
+                                "created_at": 1493314647
+                            },
+                            "id": 67771,
+                            "position": 7
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "320",
+                                    "id": 565018
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "16",
+                                    "id": 565016
+                                }
+                            ],
+                            "raw_text": "16 ounces glutinous rice flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1521771270,
+                                "name": "glutinous rice flour",
+                                "created_at": 1521771270,
+                                "display_plural": "glutinous rice flours",
+                                "id": 3895,
+                                "display_singular": "glutinous rice flour"
+                            },
+                            "id": 67772,
+                            "position": 8
+                        },
+                        {
+                            "raw_text": "1 12-ounce can of evaporated milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035272,
+                                "name": "evaporated milk",
+                                "created_at": 1494806179,
+                                "display_plural": "evaporated milks",
+                                "id": 289,
+                                "display_singular": "evaporated milk"
+                            },
+                            "id": 67773,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "355",
+                                    "id": 565023
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz"
+                                    },
+                                    "quantity": "12",
+                                    "id": 565020
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "coconut milk",
+                                "created_at": 1495585847,
+                                "display_plural": "coconut milks",
+                                "id": 669,
+                                "display_singular": "coconut milk",
+                                "updated_at": 1509035242
+                            },
+                            "id": 67774,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "414",
+                                    "id": 565026
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "14",
+                                    "id": 565024
+                                }
+                            ],
+                            "raw_text": "1 14-ounce can of full-fat coconut milk"
+                        }
+                    ],
+                    "name": "Butter Mochi",
+                    "position": 1
+                },
+                {
+                    "name": "Coconut Glaze",
+                    "position": 2,
+                    "components": [
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035283,
+                                "name": "powdered sugar",
+                                "created_at": 1493747135,
+                                "display_plural": "powdered sugars",
+                                "id": 144,
+                                "display_singular": "powdered sugar"
+                            },
+                            "id": 67776,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "120",
+                                    "id": 565035
+                                },
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1",
+                                    "id": 565033
+                                }
+                            ],
+                            "raw_text": "1 cup powdered sugar",
+                            "extra_comment": ""
+                        },
+                        {
+                            "id": 67777,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "43",
+                                    "id": 565029
+                                },
+                                {
+                                    "quantity": "3",
+                                    "id": 565028,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    }
+                                }
+                            ],
+                            "raw_text": "3 tablespoons canned full-fat coconut milk, plus more if needed",
+                            "extra_comment": "plus more if needed",
+                            "ingredient": {
+                                "updated_at": 1509035242,
+                                "name": "coconut milk",
+                                "created_at": 1495585847,
+                                "display_plural": "coconut milks",
+                                "id": 669,
+                                "display_singular": "coconut milk"
+                            }
+                        },
+                        {
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "50",
+                                    "id": 565027
+                                },
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "½",
+                                    "id": 565025
+                                }
+                            ],
+                            "raw_text": "½ cup unsweetened shredded coconut, toasted",
+                            "extra_comment": "toasted",
+                            "ingredient": {
+                                "updated_at": 1509035140,
+                                "name": "unsweetened shredded coconut",
+                                "created_at": 1500173023,
+                                "display_plural": "unsweetened shredded coconuts",
+                                "id": 2161,
+                                "display_singular": "unsweetened shredded coconut"
+                            },
+                            "id": 67778
+                        }
+                    ]
+                }
+            ],
+            "brand_id": null,
+            "credits": [
+                {
+                    "name": "Aleya Zenieris",
+                    "type": "internal"
+                },
+                {
+                    "name": "Andrew Pollock",
+                    "type": "internal"
+                },
+                {
+                    "type": "internal",
+                    "name": "Sean Chong-Umeda"
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Desserts",
+                    "slug": "desserts"
+                },
+                {
+                    "name": "Snacks",
+                    "slug": "snacks"
+                }
+            ],
+            "original_video_url": null,
+            "tags": [
+                {
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion",
+                    "name": "indulgent_sweets",
+                    "id": 65850
+                },
+                {
+                    "id": 64485,
+                    "display_name": "Desserts",
+                    "type": "meal",
+                    "name": "desserts"
+                },
+                {
+                    "name": "snacks",
+                    "id": 64491,
+                    "display_name": "Snacks",
+                    "type": "meal"
+                },
+                {
+                    "name": "bake",
+                    "id": 64492,
+                    "display_name": "Bake",
+                    "type": "cooking_style"
+                },
+                {
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion",
+                    "name": "special_occasion"
+                },
+                {
+                    "name": "hawaiian",
+                    "id": 6953012,
+                    "display_name": "Hawaiian",
+                    "type": "cuisine"
+                }
+            ],
+            "nutrition": {
+                "sugar": 43,
+                "carbohydrates": 95,
+                "fiber": 2,
+                "updated_at": "2020-07-17T08:01:22+02:00",
+                "protein": 11,
+                "fat": 32,
+                "calories": 699
+            },
+            "is_one_top": false
+        }
+    ]
+}

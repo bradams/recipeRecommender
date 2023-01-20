@@ -1,0 +1,1910 @@
+{
+    "count": 2,
+    "results": [
+        {
+            "promotion": "full",
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Wash the collard greens, then cut out the stems. Stack the greens and roll up like a burrito, then cut into ¼-inch strips.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62748
+                },
+                {
+                    "temperature": null,
+                    "id": 62749,
+                    "position": 2,
+                    "display_text": "Chop the bacon, then cook in a medium nonstick pan over medium heat for 5–6 minutes, until crispy. Remove from the pan with a slotted spoon, leaving the rendered fat behind, and drain on a paper towel-lined plate, then cut into ½-inch pieces.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "id": 62750,
+                    "position": 3,
+                    "display_text": "Add the garlic to the pan with the bacon fat and sauté until fragrant, about 1 minute. Add the red pepper flakes, mustard, maple syrup, and apple cider vinegar. Stir to combine, then cook for 2–3 minutes, until slightly thickened. Return the bacon to the pan and stir to combine.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "position": 4,
+                    "display_text": "Pour the warm dressing over the collard greens in a large bowl and toss to combine. Transfer to a serving dish and top with the red onion, cucumber, and tomatoes. Serve the salmon alongside, if desired.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62751
+                },
+                {
+                    "position": 5,
+                    "display_text": "Enjoy!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62752
+                }
+            ],
+            "price": {
+                "total": 6100,
+                "updated_at": "2023-01-17T06:25:57+01:00",
+                "portion": 3050,
+                "consumption_total": 4200,
+                "consumption_portion": 2100
+            },
+            "servings_noun_singular": "serving",
+            "show_id": 17,
+            "buzz_id": null,
+            "description": "Home cook Alex Hill of <a href=\"https://www.instagram.com/justaddhotsauce_/?hl=en\">@justaddhotsauce_ </a> shares her second favorite way of eating collard greens. Topped with a warm bacon dressing and paired with pan-seared salmon, this salad will have you screaming for seconds.",
+            "slug": "collard-salad-with-warm-bacon-dressing-as-made-by-alex-hill",
+            "draft_status": "published",
+            "beauty_url": null,
+            "inspired_by_url": null,
+            "video_url": null,
+            "country": "US",
+            "facebook_posts": [],
+            "language": "eng",
+            "user_ratings": {
+                "count_positive": 21,
+                "score": 0.875,
+                "count_negative": 3
+            },
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "6–8 whole collard green leaves",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1613582216,
+                                "name": "whole collard green leaves",
+                                "created_at": 1613582216,
+                                "display_plural": "whole collard green leaves",
+                                "id": 7976,
+                                "display_singular": "whole collard green leaf"
+                            },
+                            "id": 78586,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "6",
+                                    "id": 618959
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "4 slices of thick-cut applewood smoked bacon",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "thick cut applewood smoked bacon",
+                                "created_at": 1613582229,
+                                "display_plural": "thick cut applewood smoked bacons",
+                                "id": 7977,
+                                "display_singular": "thick cut applewood smoked bacon",
+                                "updated_at": 1613582229
+                            },
+                            "id": 78587,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "slice",
+                                        "system": "none",
+                                        "name": "slice",
+                                        "display_plural": "slices",
+                                        "display_singular": "slice"
+                                    },
+                                    "quantity": "4",
+                                    "id": 618960
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "2 garlic cloves, thinly sliced",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "id": 95,
+                                "display_singular": "garlic",
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics"
+                            },
+                            "id": 78588,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove",
+                                        "abbreviation": "clove"
+                                    },
+                                    "quantity": "2",
+                                    "id": 618972
+                                }
+                            ]
+                        },
+                        {
+                            "id": 78589,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "½",
+                                    "id": 618965
+                                }
+                            ],
+                            "raw_text": "½ teaspoon red pepper flakes",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "red pepper flakes",
+                                "id": 351,
+                                "display_singular": "red pepper flake",
+                                "updated_at": 1509035267,
+                                "name": "red pepper flakes",
+                                "created_at": 1494885083
+                            }
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035271,
+                                "name": "dijon mustard",
+                                "created_at": 1494812213,
+                                "display_plural": "dijon mustards",
+                                "id": 307,
+                                "display_singular": "dijon mustard"
+                            },
+                            "id": 78590,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 618966
+                                }
+                            ],
+                            "raw_text": "1 teaspoon Dijon mustard",
+                            "extra_comment": ""
+                        },
+                        {
+                            "id": 78591,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "quantity": "2",
+                                    "id": 618971,
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    }
+                                }
+                            ],
+                            "raw_text": "2 tablespoons maple syrup",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494966352,
+                                "display_plural": "maple syrups",
+                                "id": 359,
+                                "display_singular": "maple syrup",
+                                "updated_at": 1509035267,
+                                "name": "maple syrup"
+                            }
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 345,
+                                "display_singular": "apple cider vinegar",
+                                "updated_at": 1509035268,
+                                "name": "apple cider vinegar",
+                                "created_at": 1494882105,
+                                "display_plural": "apple cider vinegars"
+                            },
+                            "id": 78592,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "⅓",
+                                    "id": 618967
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "70",
+                                    "id": 618964
+                                }
+                            ],
+                            "raw_text": "⅓ cup apple cider vinegar"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 618963
+                                }
+                            ],
+                            "raw_text": "Kosher salt, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "id": 11,
+                                "display_singular": "kosher salt",
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts"
+                            },
+                            "id": 78593,
+                            "position": 8
+                        },
+                        {
+                            "raw_text": "Freshly ground black pepper, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "display_plural": "freshly ground black peppers",
+                                "id": 166,
+                                "display_singular": "freshly ground black pepper",
+                                "updated_at": 1509035282,
+                                "name": "freshly ground black pepper",
+                                "created_at": 1493925438
+                            },
+                            "id": 78594,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 618962
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "¼ red onion, thinly sliced",
+                            "extra_comment": "thinly sliced",
+                            "ingredient": {
+                                "display_singular": "red onion",
+                                "updated_at": 1509035289,
+                                "name": "red onion",
+                                "created_at": 1493307196,
+                                "display_plural": "red onions",
+                                "id": 13
+                            },
+                            "id": 78595,
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "¼",
+                                    "id": 618961
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035113,
+                                "name": "persian cucumber",
+                                "created_at": 1501593510,
+                                "display_plural": "persian cucumbers",
+                                "id": 2739,
+                                "display_singular": "persian cucumber"
+                            },
+                            "id": 78596,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "quantity": "1",
+                                    "id": 618968,
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    }
+                                }
+                            ],
+                            "raw_text": "1 Persian cucumber, thinly sliced",
+                            "extra_comment": "thinly sliced"
+                        },
+                        {
+                            "raw_text": "½ cup cherry tomatoes, quartered",
+                            "extra_comment": "quartered",
+                            "ingredient": {
+                                "display_plural": "cherry tomatoes",
+                                "id": 498,
+                                "display_singular": "cherry tomato",
+                                "updated_at": 1509035255,
+                                "name": "cherry tomato",
+                                "created_at": 1495156049
+                            },
+                            "id": 78597,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½",
+                                    "id": 618970
+                                },
+                                {
+                                    "id": 618969,
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "100"
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "¼ pound pan-seared salmon (optional), for serving",
+                            "extra_comment": "optional, for serving",
+                            "ingredient": {
+                                "name": "pan-seared salmon",
+                                "created_at": 1613582388,
+                                "display_plural": "pan-seared salmons",
+                                "id": 7978,
+                                "display_singular": "pan-seared salmon",
+                                "updated_at": 1613582388
+                            },
+                            "id": 78598,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "quantity": "¼",
+                                    "id": 618974,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "115",
+                                    "id": 618973
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "created_at": 1613503175,
+            "servings_noun_plural": "servings",
+            "renditions": [],
+            "original_video_url": null,
+            "brand": null,
+            "tags": [
+                {
+                    "id": 65840,
+                    "display_name": "Cast Iron Pan",
+                    "type": "appliance",
+                    "name": "cast_iron_pan"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "id": 64466,
+                    "display_name": "Healthy",
+                    "type": "dietary",
+                    "name": "healthy"
+                },
+                {
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup"
+                },
+                {
+                    "type": "appliance",
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top"
+                },
+                {
+                    "display_name": "Black History Month",
+                    "type": "holiday",
+                    "name": "black_history_month",
+                    "id": 3802076
+                },
+                {
+                    "id": 1247788,
+                    "display_name": "Spatula",
+                    "type": "equipment",
+                    "name": "spatula"
+                },
+                {
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment",
+                    "name": "measuring_spoons",
+                    "id": 1280508
+                },
+                {
+                    "name": "saute_pan",
+                    "id": 1247787,
+                    "display_name": "Saute Pan",
+                    "type": "equipment"
+                },
+                {
+                    "name": "dinner",
+                    "id": 64486,
+                    "display_name": "Dinner",
+                    "type": "meal"
+                },
+                {
+                    "name": "lunch",
+                    "id": 64489,
+                    "display_name": "Lunch",
+                    "type": "meal"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Tongs",
+                    "type": "equipment",
+                    "name": "tongs",
+                    "id": 1247790
+                },
+                {
+                    "name": "soul_food",
+                    "id": 6953051,
+                    "display_name": "Soul Food",
+                    "type": "cuisine"
+                },
+                {
+                    "type": "difficulty",
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes"
+                },
+                {
+                    "name": "under_45_minutes",
+                    "id": 8091747,
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "under_1_hour",
+                    "id": 8091748,
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary"
+                }
+            ],
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "credits": [
+                {
+                    "name": "Alex Hill",
+                    "type": "internal"
+                }
+            ],
+            "total_time_tier": {
+                "tier": "under_30_minutes",
+                "display_tier": "Under 30 minutes"
+            },
+            "video_id": null,
+            "is_one_top": false,
+            "video_ad_content": null,
+            "id": 7112,
+            "nutrition": {},
+            "aspect_ratio": "16:9",
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/a10b33510db54e37b709f8968db5ac0c.jpeg",
+            "total_time_minutes": 25,
+            "updated_at": 1613592278,
+            "seo_title": "",
+            "yields": "Servings: 2",
+            "keywords": "",
+            "thumbnail_alt_text": "",
+            "topics": [
+                {
+                    "name": "Black History Month",
+                    "slug": "black-history-month"
+                },
+                {
+                    "slug": "healthy",
+                    "name": "Healthy Eating"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Lunch",
+                    "slug": "lunch"
+                },
+                {
+                    "name": "Dinner",
+                    "slug": "dinner"
+                }
+            ],
+            "nutrition_visibility": "auto",
+            "prep_time_minutes": 15,
+            "num_servings": 2,
+            "tips_and_ratings_enabled": true,
+            "cook_time_minutes": 10,
+            "brand_id": null,
+            "name": "Collard Salad With Warm Bacon Dressing As Made By Alex Hill",
+            "compilations": [],
+            "approved_at": 1613582430,
+            "is_shoppable": true,
+            "canonical_id": "recipe:7112"
+        },
+        {
+            "language": "eng",
+            "id": 7099,
+            "aspect_ratio": "16:9",
+            "seo_title": "",
+            "cook_time_minutes": 45,
+            "instructions": [
+                {
+                    "display_text": "Brine the chicken: In a large bowl or container, combine the buttermilk and 2 tablespoons of salt. Add the chicken to the brine, making sure to submerge fully. Cover and refrigerate for at least 2 hours, or overnight. When ready to use, remove the chicken wings from the brine and pat dry with paper towels. Transfer to a wire rack set over a baking sheet.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62593,
+                    "position": 1
+                },
+                {
+                    "position": 2,
+                    "display_text": "Preheat the oven to 300°F (150°C).",
+                    "start_time": 0,
+                    "appliance": "oven",
+                    "end_time": 0,
+                    "temperature": 300,
+                    "id": 62594
+                },
+                {
+                    "temperature": null,
+                    "id": 62595,
+                    "position": 3,
+                    "display_text": "Fill a large cast iron skillet ¾ of the way with peanut oil and heat over medium-high heat until the temperature reaches 350°F (180°C).",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62596,
+                    "position": 4,
+                    "display_text": "In a small bowl, whisk together 2 tablespoons salt, the onion powder, paprika, garlic powder, black pepper, poultry seasoning, cayenne, and ground mustard until well combined.",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "id": 62597,
+                    "position": 5,
+                    "display_text": "Transfer all but 2 tablespoons of the spice mixture to a medium bowl with the flour and cornstarch and whisk until well combined.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62598,
+                    "position": 6,
+                    "display_text": "In a separate medium bowl, whisk together the eggs, buttermilk, hot sauce, and a pinch of salt until well combined.",
+                    "start_time": 0
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62599,
+                    "position": 7,
+                    "display_text": "Coat a chicken wing in the flour mixture, shaking off any excess, then dip in the buttermilk mixture, letting any excess drip off. Coat again in the flour mixture, pressing the flour into the chicken. Return the coated chicken to the wire rack and repeat with the remaining wings."
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62600,
+                    "position": 8,
+                    "display_text": "Working with 2–3 wings at a time, fry the chicken in the hot oil until golden brown and the internal temperature reaches 160-165°F (70-75°C). Remove the chicken from the oil, sprinkle on both sides with a pinch of the reserved spice mix, then set on a clean wire rack set over a baking sheet to cool. Repeat with the remaining chicken. When finished frying, transfer the chicken to the oven to keep warm until ready to serve."
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62601,
+                    "position": 9,
+                    "display_text": "Make the waffles: Melt the butter in a medium nonstick saucepan over medium-high heat. Cook, stirring occasionally, until the butter turns dark brown and smells nutty, between 7-10 minutes. Watch carefully and focus on color, so the butter does not burn, aiming from brown not black bits. Remove the pot from the heat.",
+                    "start_time": 0
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62602,
+                    "position": 10,
+                    "display_text": "Add an ice cube to the butter and slowly let it melt. It may froth and bubble. Add the remaining ice cube and gently stir until melted. Pour ½ cup of the browned butter into a liquid measuring cup or heatproof bowl and let cool completely, about 5 minutes. Store any remaining browned butter in the refrigerator for another use."
+                },
+                {
+                    "position": 11,
+                    "display_text": "Preheat a waffle iron to medium-high heat.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62603
+                },
+                {
+                    "id": 62604,
+                    "position": 12,
+                    "display_text": "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62605,
+                    "position": 13,
+                    "display_text": "In a medium bowl or large liquid measuring cup, whisk together the buttermilk, browned butter, eggs, and vanilla until well combined.",
+                    "start_time": 0
+                },
+                {
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62606,
+                    "position": 14,
+                    "display_text": "Pour the wet ingredients into the dry ingredients and whisk until just combined, being careful not to overmix. Let the batter sit for 5–7 minutes while the leavening agents activate.",
+                    "start_time": 0
+                },
+                {
+                    "id": 62607,
+                    "position": 15,
+                    "display_text": "Grease the waffle iron with nonstick spray, then cook the waffles according to the manufacturer’s instructions. You should have about 6 total, depending on the waffle iron. Set the waffles on a baking sheet as they finish cooking and transfer to the oven with the chicken to keep warm until ready to serve.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "id": 62608,
+                    "position": 16,
+                    "display_text": "To serve, place a waffle on each plate (either whole or cut into 4 pieces) and set 2–3 wings on top of or next to each waffle. Top the waffles with butter, maple syrup, and/or hot sauce, if desired. Serve hot.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "id": 62609,
+                    "position": 17,
+                    "display_text": "Any leftover waffles can be wrapped individually in plastic wrap, then placed in a zip-top bag and stored in the refrigerator for up to 2 days.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 62611,
+                    "position": 18,
+                    "display_text": "Enjoy!",
+                    "start_time": 0,
+                    "appliance": null
+                }
+            ],
+            "user_ratings": {
+                "score": 0.892857,
+                "count_negative": 3,
+                "count_positive": 25
+            },
+            "price": {
+                "total": 2400,
+                "updated_at": "2023-01-17T06:25:55+01:00",
+                "portion": 800,
+                "consumption_total": 1300,
+                "consumption_portion": 450
+            },
+            "slug": "fried-chicken-and-waffles-as-made-by-breana-jackson",
+            "tags": [
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food",
+                    "type": "cooking_style"
+                },
+                {
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment",
+                    "name": "cutting_board"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "name": "stove_top",
+                    "id": 65848,
+                    "display_name": "Stove Top",
+                    "type": "appliance"
+                },
+                {
+                    "display_name": "Chef's Knife",
+                    "type": "equipment",
+                    "name": "chefs_knife",
+                    "id": 1280501
+                },
+                {
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment",
+                    "name": "dry_measuring_cups",
+                    "id": 1280507
+                },
+                {
+                    "name": "cooling_rack",
+                    "id": 1280502,
+                    "display_name": "Cooling Rack",
+                    "type": "equipment"
+                },
+                {
+                    "name": "indulgent_sweets",
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion"
+                },
+                {
+                    "type": "equipment",
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl"
+                },
+                {
+                    "name": "black_history_month",
+                    "id": 3802076,
+                    "display_name": "Black History Month",
+                    "type": "holiday"
+                },
+                {
+                    "name": "whisk",
+                    "id": 1247793,
+                    "display_name": "Whisk",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Deep-Fry",
+                    "type": "cooking_style",
+                    "name": "deep_fry",
+                    "id": 64493
+                },
+                {
+                    "name": "soul_food",
+                    "id": 6953051,
+                    "display_name": "Soul Food",
+                    "type": "cuisine"
+                },
+                {
+                    "type": "healthy",
+                    "name": "high_protein",
+                    "id": 8091917,
+                    "display_name": "High-Protein"
+                },
+                {
+                    "name": "high_fiber",
+                    "id": 8091920,
+                    "display_name": "High-Fiber",
+                    "type": "healthy"
+                },
+                {
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty",
+                    "name": "under_1_hour",
+                    "id": 8091748
+                }
+            ],
+            "nutrition": {
+                "carbohydrates": 196,
+                "fiber": 7,
+                "updated_at": "2021-05-03T13:20:45+02:00",
+                "protein": 69,
+                "fat": 45,
+                "calories": 1479,
+                "sugar": 37
+            },
+            "created_at": 1612910677,
+            "is_one_top": false,
+            "keywords": "",
+            "country": "US",
+            "video_url": null,
+            "updated_at": 1612985640,
+            "approved_at": 1612985639,
+            "total_time_tier": {
+                "tier": "under_1_hour",
+                "display_tier": "Under 1 hour"
+            },
+            "promotion": "full",
+            "nutrition_visibility": "auto",
+            "topics": [
+                {
+                    "name": "Black History Month",
+                    "slug": "black-history-month"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                }
+            ],
+            "canonical_id": "recipe:7099",
+            "show_id": 17,
+            "brand_id": null,
+            "buzz_id": null,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "total_time_minutes": 60,
+            "renditions": [],
+            "yields": "Servings: 3-4",
+            "brand": null,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "extra_comment": "or water",
+                            "ingredient": {
+                                "updated_at": 1509035239,
+                                "name": "buttermilk",
+                                "created_at": 1495666444,
+                                "display_plural": "buttermilks",
+                                "id": 701,
+                                "display_singular": "buttermilk"
+                            },
+                            "id": 78362,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "4",
+                                    "id": 617941
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "liter",
+                                        "display_plural": "L",
+                                        "display_singular": "L",
+                                        "abbreviation": "L"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617940
+                                }
+                            ],
+                            "raw_text": "4 cups buttermilk or water"
+                        },
+                        {
+                            "id": 78363,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon"
+                                    },
+                                    "quantity": "4",
+                                    "id": 617946
+                                }
+                            ],
+                            "raw_text": "4 tablespoons plus a pinch of kosher salt, divided",
+                            "extra_comment": "plus a pinch, divided",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153,
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt"
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "8",
+                                    "id": 617944
+                                }
+                            ],
+                            "raw_text": "8 chicken wings",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 250,
+                                "display_singular": "chicken wing",
+                                "updated_at": 1509035276,
+                                "name": "chicken wings",
+                                "created_at": 1494300889,
+                                "display_plural": "chicken wings"
+                            },
+                            "id": 78364,
+                            "position": 4
+                        },
+                        {
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 617924
+                                }
+                            ],
+                            "raw_text": "Peanut or grapeseed oil, for frying",
+                            "extra_comment": "or grapeseed oil, for frying",
+                            "ingredient": {
+                                "display_plural": "peanut oils",
+                                "id": 738,
+                                "display_singular": "peanut oil",
+                                "updated_at": 1509035237,
+                                "name": "peanut oil",
+                                "created_at": 1495679687
+                            },
+                            "id": 78365
+                        },
+                        {
+                            "id": 78366,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617931
+                                }
+                            ],
+                            "raw_text": "1 tablespoon onion powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "onion powder",
+                                "created_at": 1493307116,
+                                "display_plural": "onion powders",
+                                "id": 8,
+                                "display_singular": "onion powder",
+                                "updated_at": 1509035289
+                            }
+                        },
+                        {
+                            "id": 78367,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617943
+                                }
+                            ],
+                            "raw_text": "1 tablespoon McCormick® Smoked Paprika",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1610807511,
+                                "name": "McCormick® Smoked Paprika",
+                                "created_at": 1610807511,
+                                "display_plural": "McCormick® Smoked Paprikas",
+                                "id": 7893,
+                                "display_singular": "McCormick® Smoked Paprika"
+                            }
+                        },
+                        {
+                            "raw_text": "1 tablespoon McCormick® Garlic Powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 5113,
+                                "display_singular": "McCormick® Garlic Powder",
+                                "updated_at": 1550780180,
+                                "name": "McCormick® Garlic Powder",
+                                "created_at": 1550780180,
+                                "display_plural": "McCormick® Garlic Powders"
+                            },
+                            "id": 78368,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617915
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "created_at": 1552673424,
+                                "display_plural": "McCormick® ground black peppers",
+                                "id": 5210,
+                                "display_singular": "McCormick® ground black pepper",
+                                "updated_at": 1552673424,
+                                "name": "McCormick® ground black pepper"
+                            },
+                            "id": 78369,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 617939
+                                }
+                            ],
+                            "raw_text": "1½ tablespoons McCormick® Ground Black Pepper",
+                            "extra_comment": ""
+                        },
+                        {
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617948
+                                }
+                            ],
+                            "raw_text": "1 tablespoon McCormick® Poultry Seasoning",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "McCormick® Poultry Seasonings",
+                                "id": 5148,
+                                "display_singular": "McCormick® Poultry Seasoning",
+                                "updated_at": 1551385555,
+                                "name": "McCormick® Poultry Seasoning",
+                                "created_at": 1551385555
+                            },
+                            "id": 78370
+                        },
+                        {
+                            "ingredient": {
+                                "id": 10,
+                                "display_singular": "cayenne pepper",
+                                "updated_at": 1509035289,
+                                "name": "cayenne pepper",
+                                "created_at": 1493307142,
+                                "display_plural": "cayenne peppers"
+                            },
+                            "id": 78371,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617942
+                                }
+                            ],
+                            "raw_text": "1 tablespoon cayenne pepper",
+                            "extra_comment": ""
+                        },
+                        {
+                            "id": 78372,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617937
+                                }
+                            ],
+                            "raw_text": "1 teaspoon McCormick® Ground Mustard",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "McCormick® Ground Mustard",
+                                "created_at": 1612984116,
+                                "display_plural": "McCormick® Ground Mustards",
+                                "id": 7964,
+                                "display_singular": "McCormick® Ground Mustard",
+                                "updated_at": 1612984116
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "2",
+                                    "id": 617936
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "250",
+                                    "id": 617933
+                                }
+                            ],
+                            "raw_text": "2 cups all-purpose flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 3393,
+                                "display_singular": "all purpose flour",
+                                "updated_at": 1513187920,
+                                "name": "all purpose flour",
+                                "created_at": 1513187920,
+                                "display_plural": "all purpose flours"
+                            },
+                            "id": 78373,
+                            "position": 13
+                        },
+                        {
+                            "raw_text": "¼ cup cornstarch",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035256,
+                                "name": "cornstarch",
+                                "created_at": 1495141711,
+                                "display_plural": "cornstarches",
+                                "id": 488,
+                                "display_singular": "cornstarch"
+                            },
+                            "id": 78374,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 617923
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "30",
+                                    "id": 617922
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "large eggs",
+                                "id": 253,
+                                "display_singular": "large egg",
+                                "updated_at": 1509035275,
+                                "name": "large egg",
+                                "created_at": 1494382414
+                            },
+                            "id": 78375,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 617917
+                                }
+                            ],
+                            "raw_text": "2 large eggs"
+                        },
+                        {
+                            "raw_text": "1 cup buttermilk, room temperature",
+                            "extra_comment": "room temperature",
+                            "ingredient": {
+                                "updated_at": 1509035239,
+                                "name": "buttermilk",
+                                "created_at": 1495666444,
+                                "display_plural": "buttermilks",
+                                "id": 701,
+                                "display_singular": "buttermilk"
+                            },
+                            "id": 78376,
+                            "position": 16,
+                            "measurements": [
+                                {
+                                    "id": 617928,
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "1"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "240",
+                                    "id": 617926
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "of choice",
+                            "ingredient": {
+                                "name": "hot sauce",
+                                "created_at": 1495743231,
+                                "display_plural": "hot sauces",
+                                "id": 780,
+                                "display_singular": "hot sauce",
+                                "updated_at": 1509035234
+                            },
+                            "id": 78377,
+                            "position": 17,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617916
+                                }
+                            ],
+                            "raw_text": "1 teaspoon hot sauce of choice"
+                        }
+                    ],
+                    "name": "Fried Chicken",
+                    "position": 1
+                },
+                {
+                    "name": "Buttermilk Waffles",
+                    "position": 2,
+                    "components": [
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "unsalted butter",
+                                "created_at": 1494806355,
+                                "display_plural": "unsalted butters",
+                                "id": 291,
+                                "display_singular": "unsalted butter",
+                                "updated_at": 1509035272
+                            },
+                            "id": 78379,
+                            "position": 19,
+                            "measurements": [
+                                {
+                                    "quantity": "1 ½",
+                                    "id": 617920,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "stick",
+                                        "display_plural": "sticks",
+                                        "display_singular": "stick",
+                                        "abbreviation": "stick"
+                                    }
+                                }
+                            ],
+                            "raw_text": "¾ cup (1½ sticks) unsalted butter"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "2",
+                                    "id": 617914
+                                }
+                            ],
+                            "raw_text": "2 ice cubes",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "ice cube",
+                                "created_at": 1496283352,
+                                "display_plural": "ice cubes",
+                                "id": 1074,
+                                "display_singular": "ice cube",
+                                "updated_at": 1509035210
+                            },
+                            "id": 78380,
+                            "position": 20
+                        },
+                        {
+                            "id": 78381,
+                            "position": 21,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "2",
+                                    "id": 617934
+                                },
+                                {
+                                    "quantity": "250",
+                                    "id": 617932,
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    }
+                                }
+                            ],
+                            "raw_text": "2 cups all-purpose flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "all purpose flour",
+                                "created_at": 1513187920,
+                                "display_plural": "all purpose flours",
+                                "id": 3393,
+                                "display_singular": "all purpose flour",
+                                "updated_at": 1513187920
+                            }
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "sugar",
+                                "created_at": 1493314650,
+                                "display_plural": "sugars",
+                                "id": 24,
+                                "display_singular": "sugar"
+                            },
+                            "id": 78382,
+                            "position": 22,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon"
+                                    },
+                                    "quantity": "3",
+                                    "id": 617930
+                                }
+                            ],
+                            "raw_text": "3 tablespoons sugar",
+                            "extra_comment": ""
+                        },
+                        {
+                            "raw_text": "2 teaspoons baking powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "baking powders",
+                                "id": 23,
+                                "display_singular": "baking powder",
+                                "updated_at": 1509035288,
+                                "name": "baking powder",
+                                "created_at": 1493314647
+                            },
+                            "id": 78383,
+                            "position": 23,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "2",
+                                    "id": 617918
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1 teaspoon baking soda",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494297371,
+                                "display_plural": "baking sodas",
+                                "id": 247,
+                                "display_singular": "baking soda",
+                                "updated_at": 1509035276,
+                                "name": "baking soda"
+                            },
+                            "id": 78384,
+                            "position": 24,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617935
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "Pinch of kosher salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "kosher salts",
+                                "id": 11,
+                                "display_singular": "kosher salt",
+                                "updated_at": 1509035289,
+                                "name": "kosher salt",
+                                "created_at": 1493307153
+                            },
+                            "id": 78385,
+                            "position": 25,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "pinch",
+                                        "system": "none",
+                                        "name": "pinch",
+                                        "display_plural": "pinches",
+                                        "display_singular": "pinch"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617947
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "room temperature",
+                            "ingredient": {
+                                "display_plural": "buttermilks",
+                                "id": 701,
+                                "display_singular": "buttermilk",
+                                "updated_at": 1509035239,
+                                "name": "buttermilk",
+                                "created_at": 1495666444
+                            },
+                            "id": 78386,
+                            "position": 26,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "2",
+                                    "id": 617927
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL"
+                                    },
+                                    "quantity": "480",
+                                    "id": 617925
+                                }
+                            ],
+                            "raw_text": "2 cups buttermilk, room temperature"
+                        },
+                        {
+                            "id": 78387,
+                            "position": 27,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 617913
+                                }
+                            ],
+                            "raw_text": "2 large eggs",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035275,
+                                "name": "large egg",
+                                "created_at": 1494382414,
+                                "display_plural": "large eggs",
+                                "id": 253,
+                                "display_singular": "large egg"
+                            }
+                        },
+                        {
+                            "id": 78388,
+                            "position": 28,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1",
+                                    "id": 617945
+                                }
+                            ],
+                            "raw_text": "1 tablespoon McCormick® vanilla extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "McCormick® vanilla extract",
+                                "created_at": 1548772424,
+                                "display_plural": "McCormick® vanilla extracts",
+                                "id": 5071,
+                                "display_singular": "McCormick® vanilla extract",
+                                "updated_at": 1548772424
+                            }
+                        },
+                        {
+                            "extra_comment": "for greasing",
+                            "ingredient": {
+                                "updated_at": 1520176895,
+                                "name": "nonstick cooking spray",
+                                "created_at": 1520176895,
+                                "display_plural": "nonstick cooking sprays",
+                                "id": 3826,
+                                "display_singular": "nonstick cooking spray"
+                            },
+                            "id": 78389,
+                            "position": 29,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 617929
+                                }
+                            ],
+                            "raw_text": "Nonstick cooking spray, for greasing"
+                        }
+                    ]
+                },
+                {
+                    "components": [
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035272,
+                                "name": "unsalted butter",
+                                "created_at": 1494806355,
+                                "display_plural": "unsalted butters",
+                                "id": 291,
+                                "display_singular": "unsalted butter"
+                            },
+                            "id": 78391,
+                            "position": 31,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 617919
+                                }
+                            ],
+                            "raw_text": "Unsalted butter"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 617921
+                                }
+                            ],
+                            "raw_text": "Maple syrup",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "maple syrups",
+                                "id": 359,
+                                "display_singular": "maple syrup",
+                                "updated_at": 1509035267,
+                                "name": "maple syrup",
+                                "created_at": 1494966352
+                            },
+                            "id": 78392,
+                            "position": 32
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035234,
+                                "name": "hot sauce",
+                                "created_at": 1495743231,
+                                "display_plural": "hot sauces",
+                                "id": 780,
+                                "display_singular": "hot sauce"
+                            },
+                            "id": 78393,
+                            "position": 33,
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 617938,
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    }
+                                }
+                            ],
+                            "raw_text": "Hot sauce"
+                        }
+                    ],
+                    "name": "For Topping (Optional)",
+                    "position": 3
+                }
+            ],
+            "name": "Fried Chicken And Waffles As Made By Breana Jackson",
+            "compilations": [],
+            "num_servings": 3,
+            "draft_status": "published",
+            "original_video_url": null,
+            "servings_noun_singular": "serving",
+            "prep_time_minutes": 10,
+            "tips_and_ratings_enabled": true,
+            "description": "This iconic dish of flavorful, crispy fried chicken paired with fluffy, buttery waffles is a match made in culinary heaven. The homemade spice mix takes this chicken to a whole new level–you will be making it in batches to have on hand for years to come! The deep spices in the chicken are offset by the rich browned-butter waffles that only get better when drizzled with syrup and hot sauce for a sweet and spicy finish.",
+            "thumbnail_url": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/c9d058f19ad94937b1bae29598fe3383.jpeg",
+            "thumbnail_alt_text": "",
+            "credits": [
+                {
+                    "name": "Breana Jackson",
+                    "type": "internal"
+                }
+            ],
+            "servings_noun_plural": "servings",
+            "facebook_posts": [],
+            "is_shoppable": true,
+            "beauty_url": null,
+            "video_ad_content": null,
+            "video_id": null,
+            "inspired_by_url": null
+        }
+    ]
+}

@@ -1,0 +1,2813 @@
+{
+    "count": 4,
+    "results": [
+        {
+            "credits": [
+                {
+                    "name": null,
+                    "type": "internal"
+                }
+            ],
+            "user_ratings": {
+                "count_positive": 378,
+                "score": 0.926471,
+                "count_negative": 30
+            },
+            "brand": null,
+            "name": "Slow Cooker Mashed Potatoes",
+            "buzz_id": null,
+            "aspect_ratio": "1:1",
+            "description": null,
+            "total_time_minutes": null,
+            "renditions": [
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/32229/mp4_1280X720/1495125530_00001.png",
+                    "url": "https://vid.tasty.co/output/32229/mp4_1280X720/1495125530",
+                    "bit_rate": 6988,
+                    "content_type": "video/mp4",
+                    "container": "mp4",
+                    "file_size": 24711275,
+                    "duration": 28292,
+                    "aspect": "square",
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "height": 720
+                },
+                {
+                    "name": "low",
+                    "height": 1080,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/32229/1445289064805-h2exzu/1495125530_00001.png",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/32229/low_1495125530.m3u8",
+                    "duration": 28237,
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080,
+                    "container": "mp4",
+                    "maximum_bit_rate": 8154,
+                    "minimum_bit_rate": 273
+                },
+                {
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 24571982,
+                    "url": "https://vid.tasty.co/output/32229/mp4_640x640/1495125530",
+                    "bit_rate": 6949,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/32229/mp4_640x640/1495125530_00001.png",
+                    "duration": 28292,
+                    "width": 640,
+                    "name": "mp4_640x640",
+                    "height": 640
+                },
+                {
+                    "duration": 28292,
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/32229/mp4_720x1280/1495125530_00001.png",
+                    "file_size": 24728133,
+                    "url": "https://vid.tasty.co/output/32229/mp4_720x1280/1495125530",
+                    "bit_rate": 6993,
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "container": "mp4"
+                }
+            ],
+            "cook_time_minutes": null,
+            "brand_id": null,
+            "beauty_url": null,
+            "keywords": "tasty, tasty_vegetarian",
+            "language": "eng",
+            "compilations": [
+                {
+                    "buzz_id": null,
+                    "is_shoppable": true,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1204",
+                    "id": 1204,
+                    "facebook_posts": [],
+                    "created_at": 1572340347,
+                    "video_url": "https://vid.tasty.co/output/149893/hls24_1572333270.m3u8",
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/240624.jpg",
+                    "promotion": "full",
+                    "country": "US",
+                    "keywords": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "name": "Four Classic Family-Friendly Thanksgiving Sides",
+                    "beauty_url": null,
+                    "slug": "four-classic-family-friendly-thanksgiving-sides",
+                    "video_id": 93047,
+                    "aspect_ratio": "1:1",
+                    "draft_status": "published",
+                    "approved_at": 1573654620
+                },
+                {
+                    "aspect_ratio": "1:1",
+                    "beauty_url": null,
+                    "description": null,
+                    "approved_at": 1576763942,
+                    "video_id": 93631,
+                    "country": "US",
+                    "facebook_posts": [],
+                    "created_at": 1572515364,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/240174.jpg",
+                    "thumbnail_alt_text": "",
+                    "name": "Holiday Sides Made With 5 Ingredients Or Less",
+                    "is_shoppable": true,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "video_url": "https://vid.tasty.co/output/149630/hls24_1572015079.m3u8",
+                    "canonical_id": "compilation:1238",
+                    "id": 1238,
+                    "buzz_id": null,
+                    "slug": "holiday-sides-made-with-5-ingredients-or-less",
+                    "keywords": null,
+                    "draft_status": "published",
+                    "promotion": "full"
+                },
+                {
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/246603.jpg",
+                    "video_url": "https://vid.tasty.co/output/154196/hls24_1575881268.m3u8",
+                    "id": 1309,
+                    "slug": "mashed-potatoes-for-your-next-dinner-party",
+                    "keywords": null,
+                    "description": null,
+                    "draft_status": "published",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "created_at": 1575880670,
+                    "thumbnail_alt_text": "",
+                    "promotion": "full",
+                    "video_id": 96812,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "approved_at": 1575948973,
+                    "name": "Mashed Potatoes For Your Next Dinner Party",
+                    "canonical_id": "compilation:1309",
+                    "country": "US",
+                    "language": "eng"
+                },
+                {
+                    "country": "US",
+                    "description": "Whether you're a busy home cook, a lazy one, or a chef-in-training, your slow cooker is a total gift. Use it to make easy soups and stews like <a href=\"https://tasty.co/recipe/slow-cooker-butternut-squash-soup\">butternut squash soup</a> and <a href=\"https://tasty.co/recipe/slow-cooker-turkey-chili-with-cornbread-dumplings\">turkey chili</a>. Or task it with all your basic recipes from mashed potatoes to pot roast. Or you can get sophisticated and whip up a <a href=\"https://tasty.co/recipe/slow-cooker-thai-green-curry\">Thai-inspired green curry</a>. The options are endless!",
+                    "video_url": "https://vid.tasty.co/output/221090/hls24_1635529947.m3u8",
+                    "canonical_id": "compilation:2896",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/350085.jpg",
+                    "approved_at": 1635784826,
+                    "buzz_id": null,
+                    "slug": "30-days-30-slow-cooker-recipes",
+                    "aspect_ratio": "1:1",
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "draft_status": "published",
+                    "language": "eng",
+                    "video_id": 144481,
+                    "thumbnail_alt_text": "",
+                    "name": "30 Days 30 Slow Cooker Recipes ",
+                    "beauty_url": null,
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "created_at": 1634890466,
+                    "id": 2896,
+                    "promotion": "full"
+                }
+            ],
+            "created_at": 1493235946,
+            "video_url": "https://vid.tasty.co/output/32229/low_1495125530.m3u8",
+            "topics": [
+                {
+                    "slug": "christmas",
+                    "name": "Christmas"
+                },
+                {
+                    "name": "Holiday Party",
+                    "slug": "holiday-party"
+                },
+                {
+                    "name": "Thanksgiving",
+                    "slug": "thanksgiving"
+                },
+                {
+                    "slug": "american",
+                    "name": "American"
+                }
+            ],
+            "yields": "",
+            "facebook_posts": [],
+            "tips_and_ratings_enabled": true,
+            "is_one_top": false,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/8f6a2ebe3d7746058966322f83e37844/BFV4661_TheEasiestWaytoMakeMashedPotatoes-FB1080SQ.mp4",
+            "video_id": 2948,
+            "price": {
+                "consumption_total": 1150,
+                "consumption_portion": 200,
+                "total": 1600,
+                "updated_at": "2023-01-17T06:16:47+01:00",
+                "portion": 250
+            },
+            "show_id": 17,
+            "tags": [
+                {
+                    "display_name": "Comfort Food",
+                    "type": "cooking_style",
+                    "name": "comfort_food",
+                    "id": 64462
+                },
+                {
+                    "display_name": "Sides",
+                    "type": "meal",
+                    "name": "sides",
+                    "id": 64490
+                },
+                {
+                    "name": "thanksgiving",
+                    "id": 64479,
+                    "display_name": "Thanksgiving",
+                    "type": "holiday"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "christmas",
+                    "id": 64473,
+                    "display_name": "Christmas",
+                    "type": "holiday"
+                },
+                {
+                    "name": "slow_cooker",
+                    "id": 65847,
+                    "display_name": "Slow Cooker",
+                    "type": "appliance"
+                },
+                {
+                    "name": "american",
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine"
+                },
+                {
+                    "id": 64503,
+                    "display_name": "Casual Party",
+                    "type": "occasion",
+                    "name": "casual_party"
+                },
+                {
+                    "name": "gluten_free",
+                    "id": 64465,
+                    "display_name": "Gluten-Free",
+                    "type": "dietary"
+                },
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "name": "walmart_holiday_bundle",
+                    "id": 4708980,
+                    "display_name": "Walmart Holiday Bundle",
+                    "type": "business_tags"
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex"
+                },
+                {
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment",
+                    "name": "measuring_spoons"
+                },
+                {
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "thanksgiving_slow",
+                    "id": 7510780,
+                    "display_name": "Thanksgiving Slow"
+                }
+            ],
+            "thumbnail_alt_text": "",
+            "seo_title": null,
+            "servings_noun_plural": "servings",
+            "nutrition_visibility": "auto",
+            "country": "US",
+            "id": 120,
+            "servings_noun_singular": "serving",
+            "nutrition": {
+                "protein": 7,
+                "fat": 31,
+                "calories": 550,
+                "sugar": 4,
+                "carbohydrates": 62,
+                "fiber": 5,
+                "updated_at": "2021-05-03T13:23:08+02:00"
+            },
+            "show": {
+                "id": 17,
+                "name": "Tasty"
+            },
+            "inspired_by_url": null,
+            "is_shoppable": true,
+            "video_ad_content": "undetermined",
+            "canonical_id": "recipe:120",
+            "promotion": "full",
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 6833,
+                    "temperature": null,
+                    "id": 874,
+                    "position": 1,
+                    "display_text": "Place potatoes, butter, salt, pepper, and water in a large slow cooker."
+                },
+                {
+                    "temperature": null,
+                    "id": 8659,
+                    "position": 2,
+                    "display_text": "Cover and cook on high for 4 hours.",
+                    "start_time": 7166,
+                    "appliance": null,
+                    "end_time": 9000
+                },
+                {
+                    "appliance": null,
+                    "end_time": 18000,
+                    "temperature": null,
+                    "id": 8660,
+                    "position": 3,
+                    "display_text": "Remove lid and mash the potatoes with a masher or beaters, mixing in the milk.",
+                    "start_time": 10000
+                },
+                {
+                    "position": 4,
+                    "display_text": "Stir in chives",
+                    "start_time": 19000,
+                    "appliance": null,
+                    "end_time": 21824,
+                    "temperature": null,
+                    "id": 8661
+                },
+                {
+                    "temperature": null,
+                    "id": 8662,
+                    "position": 5,
+                    "display_text": "Keep the slow cooker on “warm” setting while you serve them!",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "end_time": 25500,
+                    "temperature": null,
+                    "id": 8663,
+                    "position": 6,
+                    "display_text": "Enjoy!",
+                    "start_time": 23000,
+                    "appliance": null
+                }
+            ],
+            "approved_at": 1561944942,
+            "total_time_tier": null,
+            "slug": "slow-cooker-mashed-potatoes",
+            "prep_time_minutes": null,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "4 lb potatoes, peeled and diced",
+                            "extra_comment": "peeled and diced",
+                            "ingredient": {
+                                "updated_at": 1509035266,
+                                "name": "potato",
+                                "created_at": 1494976799,
+                                "display_plural": "potatoes",
+                                "id": 375,
+                                "display_singular": "potato"
+                            },
+                            "id": 1304,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb",
+                                        "system": "imperial",
+                                        "name": "pound"
+                                    },
+                                    "quantity": "4",
+                                    "id": 542816
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "kilogram",
+                                        "display_plural": "kg",
+                                        "display_singular": "kg",
+                                        "abbreviation": "kg"
+                                    },
+                                    "quantity": "2",
+                                    "id": 542815
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "1.5 c butter",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "butters",
+                                "id": 30,
+                                "display_singular": "butter",
+                                "updated_at": 1509035287,
+                                "name": "butter",
+                                "created_at": 1493314940
+                            },
+                            "id": 1305,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 542811
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "345",
+                                    "id": 542807
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt"
+                            },
+                            "id": 1306,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 542808
+                                }
+                            ],
+                            "raw_text": "1 Tbsp. salt",
+                            "extra_comment": ""
+                        },
+                        {
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 542812
+                                }
+                            ],
+                            "raw_text": "1 tsp pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1493314935,
+                                "display_plural": "peppers",
+                                "id": 29,
+                                "display_singular": "pepper",
+                                "updated_at": 1509035287,
+                                "name": "pepper"
+                            },
+                            "id": 1307
+                        },
+                        {
+                            "raw_text": "1 cup water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 197,
+                                "display_singular": "water",
+                                "updated_at": 1509035280,
+                                "name": "water",
+                                "created_at": 1494124627,
+                                "display_plural": "waters"
+                            },
+                            "id": 1308,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "id": 542809,
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "1"
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter"
+                                    },
+                                    "quantity": "240",
+                                    "id": 542806
+                                }
+                            ]
+                        },
+                        {
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 542814
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL"
+                                    },
+                                    "quantity": "360",
+                                    "id": 542813
+                                }
+                            ],
+                            "raw_text": "1.5 cups milk, warm",
+                            "extra_comment": "warm",
+                            "ingredient": {
+                                "display_plural": "milks",
+                                "id": 21,
+                                "display_singular": "milk",
+                                "updated_at": 1509035288,
+                                "name": "milk",
+                                "created_at": 1493314636
+                            },
+                            "id": 1309
+                        },
+                        {
+                            "raw_text": "chives (optional)",
+                            "extra_comment": "optional",
+                            "ingredient": {
+                                "updated_at": 1509035276,
+                                "name": "chives",
+                                "created_at": 1494297080,
+                                "display_plural": "chives",
+                                "id": 245,
+                                "display_singular": "chive"
+                            },
+                            "id": 1310,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "2",
+                                    "id": 542810
+                                }
+                            ]
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "num_servings": 6,
+            "draft_status": "published",
+            "thumbnail_url": "https://img.buzzfeed.com/video-api-prod/assets/01c69f4696944b8f9327b2207eeec3eb/RecipePhoto.jpg",
+            "updated_at": 1561944942
+        },
+        {
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Remove the stems from the collard greens, then stack the leaves on top of each other and roughly chop.",
+                    "start_time": 10333,
+                    "appliance": null,
+                    "end_time": 24500,
+                    "temperature": null,
+                    "id": 41236
+                },
+                {
+                    "display_text": "Add the collard greens to a slow cooker with the onion, ham hocks, brown sugar, pepper, salt, apple cider vinegar, and chicken broth.",
+                    "start_time": 24833,
+                    "appliance": null,
+                    "end_time": 42466,
+                    "temperature": null,
+                    "id": 41237,
+                    "position": 2
+                },
+                {
+                    "temperature": null,
+                    "id": 41238,
+                    "position": 3,
+                    "display_text": "Cover and cook on low for 8 hours or high for 4 hours, until the greens are tender.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "position": 4,
+                    "display_text": "Remove the ham hocks from the slow cooker. Trim and discard any fat and bones. Roughly chop the meat and return to the greens. Toss to incorporate.",
+                    "start_time": 46966,
+                    "appliance": null,
+                    "end_time": 60766,
+                    "temperature": null,
+                    "id": 41239
+                },
+                {
+                    "appliance": null,
+                    "end_time": 69733,
+                    "temperature": null,
+                    "id": 41240,
+                    "position": 5,
+                    "display_text": "Serve warm.",
+                    "start_time": 62933
+                },
+                {
+                    "start_time": 70066,
+                    "appliance": null,
+                    "end_time": 73233,
+                    "temperature": null,
+                    "id": 41241,
+                    "position": 6,
+                    "display_text": "Enjoy!"
+                }
+            ],
+            "keywords": "buzzfeed, buzzfeed tasty, collard greens, collard greens & ham hock, collard greens and ham, collard greens and ham hock, collard greens and smoked turkey, crock pot, crock-pot, crock-pot collard greens, crock-pot recipes, crockpot, slow cooker, slow cooker collard greens, slow cooker recipes, southern collard greens, southern recipes, tasty, tasty-est thanksgiving, thanksgiving, thanksgiving recipes, the tasty-est thanksgiving",
+            "servings_noun_singular": "serving",
+            "prep_time_minutes": null,
+            "tips_and_ratings_enabled": true,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "nutrition_visibility": "auto",
+            "country": "US",
+            "user_ratings": {
+                "count_positive": 265,
+                "score": 0.956679,
+                "count_negative": 12
+            },
+            "slug": "slow-cooker-collard-greens-and-ham-hocks",
+            "sections": [
+                {
+                    "name": null,
+                    "position": 1,
+                    "components": [
+                        {
+                            "ingredient": {
+                                "id": 4871,
+                                "display_singular": "collard green",
+                                "updated_at": 1541185319,
+                                "name": "collard green",
+                                "created_at": 1541185319,
+                                "display_plural": "collard greens"
+                            },
+                            "id": 47893,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "kg",
+                                        "system": "metric",
+                                        "name": "kilogram",
+                                        "display_plural": "kg",
+                                        "display_singular": "kg"
+                                    },
+                                    "quantity": "1.5",
+                                    "id": 405454
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb"
+                                    },
+                                    "quantity": "3 ½",
+                                    "id": 405452
+                                }
+                            ],
+                            "raw_text": "3½ pounds collard greens, washed",
+                            "extra_comment": "washed"
+                        },
+                        {
+                            "raw_text": "1 large yellow onion, sliced",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035097,
+                                "name": "large yellow onion",
+                                "created_at": 1505000725,
+                                "display_plural": "large yellow onions",
+                                "id": 2978,
+                                "display_singular": "large yellow onion"
+                            },
+                            "id": 47894,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "quantity": "1",
+                                    "id": 405449,
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "id": 405451,
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "910"
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "lb",
+                                        "abbreviation": "lb",
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb"
+                                    },
+                                    "quantity": "2",
+                                    "id": 405450
+                                }
+                            ],
+                            "raw_text": "2 pounds ham hocks",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "hams",
+                                "id": 205,
+                                "display_singular": "ham",
+                                "updated_at": 1509035279,
+                                "name": "ham",
+                                "created_at": 1494210028
+                            },
+                            "id": 47895,
+                            "position": 3
+                        },
+                        {
+                            "raw_text": "1 tablespoon brown sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "brown sugar",
+                                "created_at": 1493307081,
+                                "display_plural": "brown sugars",
+                                "id": 6,
+                                "display_singular": "brown sugar"
+                            },
+                            "id": 47896,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 405455
+                                }
+                            ]
+                        },
+                        {
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "½",
+                                    "id": 405446
+                                }
+                            ],
+                            "raw_text": "½ teaspoon black pepper",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "black peppers",
+                                "id": 12,
+                                "display_singular": "black pepper",
+                                "updated_at": 1509035289,
+                                "name": "black pepper",
+                                "created_at": 1493307183
+                            },
+                            "id": 47897
+                        },
+                        {
+                            "raw_text": "2 teaspoons salt",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt"
+                            },
+                            "id": 47898,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "2",
+                                    "id": 405447
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 345,
+                                "display_singular": "apple cider vinegar",
+                                "updated_at": 1509035268,
+                                "name": "apple cider vinegar",
+                                "created_at": 1494882105,
+                                "display_plural": "apple cider vinegars"
+                            },
+                            "id": 47899,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "3",
+                                    "id": 405453
+                                }
+                            ],
+                            "raw_text": "3 tablespoons apple cider vinegar"
+                        },
+                        {
+                            "ingredient": {
+                                "name": "chicken broth",
+                                "created_at": 1494212911,
+                                "display_plural": "chicken broths",
+                                "id": 218,
+                                "display_singular": "chicken broth",
+                                "updated_at": 1509035278
+                            },
+                            "id": 47900,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "945",
+                                    "id": 405448
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz",
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz"
+                                    },
+                                    "quantity": "32",
+                                    "id": 405445
+                                }
+                            ],
+                            "raw_text": "32 ounces chicken broth",
+                            "extra_comment": ""
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "american",
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine"
+                },
+                {
+                    "type": "equipment",
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife"
+                },
+                {
+                    "name": "one_pot_or_pan",
+                    "id": 65855,
+                    "display_name": "One-Pot or Pan",
+                    "type": "cooking_style"
+                },
+                {
+                    "display_name": "Casual Party",
+                    "type": "occasion",
+                    "name": "casual_party",
+                    "id": 64503
+                },
+                {
+                    "type": "equipment",
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex"
+                },
+                {
+                    "name": "thanksgiving",
+                    "id": 64479,
+                    "display_name": "Thanksgiving",
+                    "type": "holiday"
+                },
+                {
+                    "name": "sides",
+                    "id": 64490,
+                    "display_name": "Sides",
+                    "type": "meal"
+                },
+                {
+                    "type": "cooking_style",
+                    "name": "comfort_food",
+                    "id": 64462,
+                    "display_name": "Comfort Food"
+                },
+                {
+                    "type": "occasion",
+                    "name": "bbq",
+                    "id": 64504,
+                    "display_name": "BBQ"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl"
+                },
+                {
+                    "name": "slow_cooker",
+                    "id": 65847,
+                    "display_name": "Slow Cooker",
+                    "type": "appliance"
+                },
+                {
+                    "id": 65851,
+                    "display_name": "Big Batch",
+                    "type": "cooking_style",
+                    "name": "big_batch"
+                },
+                {
+                    "id": 1247790,
+                    "display_name": "Tongs",
+                    "type": "equipment",
+                    "name": "tongs"
+                },
+                {
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment",
+                    "name": "measuring_spoons",
+                    "id": 1280508
+                },
+                {
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup"
+                },
+                {
+                    "name": "fall",
+                    "id": 64508,
+                    "display_name": "Fall",
+                    "type": "seasonal"
+                },
+                {
+                    "name": "thanksgiving_slow",
+                    "id": 7510780,
+                    "display_name": "Thanksgiving Slow",
+                    "type": "feature_page"
+                },
+                {
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary"
+                }
+            ],
+            "aspect_ratio": "1:1",
+            "updated_at": 1560180344,
+            "total_time_tier": null,
+            "brand": null,
+            "compilations": [
+                {
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/190568.jpg",
+                    "buzz_id": null,
+                    "slug": "tasty-holiday-sides-desserts",
+                    "video_id": 71897,
+                    "aspect_ratio": "16:9",
+                    "facebook_posts": [],
+                    "created_at": 1542747497,
+                    "video_url": "https://vid.tasty.co/output/116224/hls24_1542739258.m3u8",
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "name": "Tasty Holiday Sides & Desserts",
+                    "beauty_url": null,
+                    "promotion": "full",
+                    "country": "US",
+                    "keywords": null,
+                    "description": null,
+                    "approved_at": 1542849765,
+                    "canonical_id": "compilation:773",
+                    "id": 773
+                },
+                {
+                    "approved_at": 1576341240,
+                    "name": "The Only Guide You Need To Follow For Christmas Feasts",
+                    "buzz_id": null,
+                    "slug": "the-only-guide-you-need-to-follow-for-christmas-feasts",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "created_at": 1576302006,
+                    "video_url": "https://vid.tasty.co/output/154808/hls24_1576150439.m3u8",
+                    "video_id": 97053,
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/247465.jpg",
+                    "canonical_id": "compilation:1329",
+                    "beauty_url": null,
+                    "id": 1329,
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "language": "eng",
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "thumbnail_alt_text": "",
+                    "promotion": "full"
+                },
+                {
+                    "country": "US",
+                    "facebook_posts": [],
+                    "created_at": 1606244925,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "beauty_url": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "name": "Celebrate Thanksgiving With These Delicious Sides",
+                    "buzz_id": null,
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "video_url": "https://vid.tasty.co/output/186225/hls24_1606245434.m3u8",
+                    "approved_at": 1606316221,
+                    "canonical_id": "compilation:1863",
+                    "id": 1863,
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "draft_status": "published",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/295466.jpg",
+                    "slug": "celebrate-thanksgiving-with-these-delicious-sides",
+                    "video_id": 119307
+                }
+            ],
+            "created_at": 1541527589,
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/187501.jpg",
+            "video_url": "https://vid.tasty.co/output/114461/hls24_1541531916.m3u8",
+            "servings_noun_plural": "servings",
+            "canonical_id": "recipe:4530",
+            "promotion": "full",
+            "price": {
+                "consumption_portion": 200,
+                "total": 2750,
+                "updated_at": "2023-01-17T06:02:51+01:00",
+                "portion": 250,
+                "consumption_total": 2500
+            },
+            "nutrition": {
+                "updated_at": "2021-05-03T13:24:28+02:00",
+                "protein": 20,
+                "fat": 22,
+                "calories": 393,
+                "sugar": 6,
+                "carbohydrates": 28,
+                "fiber": 4
+            },
+            "buzz_id": null,
+            "approved_at": 1541535157,
+            "is_one_top": false,
+            "topics": [
+                {
+                    "name": "BBQ Season",
+                    "slug": "bbq"
+                },
+                {
+                    "name": "Fall Recipes",
+                    "slug": "fall"
+                },
+                {
+                    "name": "One-Pot Recipes",
+                    "slug": "one-pot"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Thanksgiving",
+                    "slug": "thanksgiving"
+                },
+                {
+                    "name": "American",
+                    "slug": "american"
+                }
+            ],
+            "cook_time_minutes": 0,
+            "id": 4530,
+            "num_servings": 12,
+            "thumbnail_alt_text": "",
+            "renditions": [
+                {
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/square_720/1541531916_00001.png",
+                    "url": "https://vid.tasty.co/output/114461/square_720/1541531916",
+                    "duration": 87958,
+                    "bit_rate": 1891,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "file_size": 20782435,
+                    "name": "mp4_720x720",
+                    "height": 720
+                },
+                {
+                    "container": "mp4",
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_320x320",
+                    "height": 320,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/square_320/1541531916_00001.png",
+                    "file_size": 7558575,
+                    "url": "https://vid.tasty.co/output/114461/square_320/1541531916",
+                    "duration": 87958,
+                    "bit_rate": 688,
+                    "content_type": "video/mp4",
+                    "width": 320
+                },
+                {
+                    "url": "https://vid.tasty.co/output/114461/square_720/1541531916",
+                    "bit_rate": 1891,
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/square_720/1541531916_00001.png",
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "file_size": 20782435,
+                    "duration": 87958
+                },
+                {
+                    "name": "mp4_320x320",
+                    "height": 320,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/114461/square_320/1541531916",
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "aspect": "square",
+                    "width": 320,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/square_320/1541531916_00001.png",
+                    "file_size": 7558575,
+                    "duration": 87958,
+                    "bit_rate": 688
+                },
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/landscape_720/1541531916_00001.png",
+                    "file_size": 20783217,
+                    "bit_rate": 1891,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/114461/landscape_720/1541531916",
+                    "duration": 87958,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "bit_rate": 1891,
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/114461/landscape_720/1541531916",
+                    "duration": 87958,
+                    "minimum_bit_rate": null,
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/landscape_720/1541531916_00001.png",
+                    "file_size": 20783217,
+                    "aspect": "square"
+                },
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/landscape_480/1541531916_00001.png",
+                    "file_size": 12388061,
+                    "duration": 87958,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 480,
+                    "name": "mp4_480x480",
+                    "height": 480,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/114461/landscape_480/1541531916",
+                    "bit_rate": 1127,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "container": "mp4",
+                    "content_type": "video/mp4",
+                    "width": 480,
+                    "maximum_bit_rate": null,
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_480x480",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/landscape_480/1541531916_00001.png",
+                    "file_size": 12388061,
+                    "url": "https://vid.tasty.co/output/114461/landscape_480/1541531916",
+                    "duration": 87958,
+                    "bit_rate": 1127,
+                    "height": 480
+                },
+                {
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "name": "low",
+                    "maximum_bit_rate": 3288,
+                    "height": 1080,
+                    "container": "ts",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/1445289064805-h2exzu/1541531916_00001.png",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/114461/hls24_1541531916.m3u8",
+                    "duration": 87963,
+                    "width": 1080,
+                    "minimum_bit_rate": 271
+                },
+                {
+                    "duration": 87963,
+                    "width": 1080,
+                    "minimum_bit_rate": 271,
+                    "maximum_bit_rate": 3288,
+                    "height": 1080,
+                    "url": "https://vid.tasty.co/output/114461/hls24_1541531916.m3u8",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/114461/1445289064805-h2exzu/1541531916_00001.png",
+                    "file_size": null,
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "name": "low",
+                    "container": "ts"
+                }
+            ],
+            "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/14ef700339cf475a99d7011c2879dd69/beauty2.jpg",
+            "yields": "Servings: 12",
+            "show_id": 17,
+            "draft_status": "published",
+            "inspired_by_url": "https://www.thekitchn.com/how-to-cook-collard-greens-in-the-slow-cooker-232883",
+            "video_ad_content": "none",
+            "video_id": 67863,
+            "facebook_posts": [],
+            "brand_id": null,
+            "description": "",
+            "credits": [
+                {
+                    "name": "Pierce Abernathy",
+                    "type": "internal"
+                }
+            ],
+            "is_shoppable": true,
+            "seo_title": "",
+            "language": "eng",
+            "name": "Slow-Cooker Collard Greens And Ham Hocks",
+            "total_time_minutes": null,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/56bf3ce932e342068fb242a9b9598d75/BFV49381CollardGreensHamHockFBV1.mp4"
+        },
+        {
+            "is_shoppable": true,
+            "seo_title": null,
+            "canonical_id": "recipe:4383",
+            "show_id": 49,
+            "aspect_ratio": "1:1",
+            "created_at": 1536698761,
+            "buzz_id": null,
+            "credits": [
+                {
+                    "name": "Gwenaelle Le Cochennec",
+                    "type": "internal"
+                }
+            ],
+            "total_time_tier": null,
+            "promotion": "full",
+            "instructions": [
+                {
+                    "start_time": 6000,
+                    "appliance": null,
+                    "end_time": 16433,
+                    "temperature": null,
+                    "id": 39291,
+                    "position": 1,
+                    "display_text": "In a large bowl, mix together the water and sugar. Sprinkle the yeast over the water and stir. Let sit for 15 minutes, until the surface is foamy."
+                },
+                {
+                    "position": 2,
+                    "display_text": "Add the salt, olive oil, and rosemary. Mix well.",
+                    "start_time": 16600,
+                    "appliance": null,
+                    "end_time": 25700,
+                    "temperature": null,
+                    "id": 39292
+                },
+                {
+                    "end_time": 30000,
+                    "temperature": null,
+                    "id": 39293,
+                    "position": 3,
+                    "display_text": "Slowly add the flour and mix with a wooden spoon until well combined.",
+                    "start_time": 25866,
+                    "appliance": null
+                },
+                {
+                    "display_text": "Knead the dough for at least 10 minutes, until it is no longer sticky.",
+                    "start_time": 30300,
+                    "appliance": null,
+                    "end_time": 38433,
+                    "temperature": null,
+                    "id": 39294,
+                    "position": 4
+                },
+                {
+                    "start_time": 39599,
+                    "appliance": null,
+                    "end_time": 41600,
+                    "temperature": null,
+                    "id": 39295,
+                    "position": 5,
+                    "display_text": "Set the dough in the middle of a piece of parchment paper large enough to line the slow cooker."
+                },
+                {
+                    "id": 39296,
+                    "position": 6,
+                    "display_text": "Place the parchment paper with the dough in the slow cooker. Drape a kitchen towel over the top and cover with the lid. Set the slow cooker to warm and let the dough proof for about 30 minutes, until doubled in size. Check occasionally to make sure the dough is not cooking.",
+                    "start_time": 41766,
+                    "appliance": null,
+                    "end_time": 52699,
+                    "temperature": null
+                },
+                {
+                    "start_time": 52700,
+                    "appliance": null,
+                    "end_time": 55866,
+                    "temperature": null,
+                    "id": 39297,
+                    "position": 7,
+                    "display_text": "Lift the parchment paper to remove the dough from the slow cooker."
+                },
+                {
+                    "start_time": 56033,
+                    "appliance": null,
+                    "end_time": 69466,
+                    "temperature": null,
+                    "id": 39298,
+                    "position": 8,
+                    "display_text": "Sprinkle a bit of flour on a clean surface. Knead the dough for about 5 minutes, then shape it into a ball that will fit in the slow cooker."
+                },
+                {
+                    "start_time": 69466,
+                    "appliance": null,
+                    "end_time": 81400,
+                    "temperature": null,
+                    "id": 39299,
+                    "position": 9,
+                    "display_text": "Place the dough back on the parchment paper and return to the slow cooker. Sprinkle the top with salt and rosemary."
+                },
+                {
+                    "appliance": "food_thermometer",
+                    "end_time": 87500,
+                    "temperature": 190,
+                    "id": 39300,
+                    "position": 10,
+                    "display_text": "Cover the slow cooker with the towel and the lid and cook on high heat for 1½-2 hours, until the bread has a thick, dry, white crust, or a thermometer inserted in the loaf reaches 190°F (90°C).",
+                    "start_time": 81400
+                },
+                {
+                    "appliance": "oven",
+                    "end_time": 0,
+                    "temperature": 500,
+                    "id": 39301,
+                    "position": 11,
+                    "display_text": "Preheat the oven to 500°F (260°C).",
+                    "start_time": 0
+                },
+                {
+                    "start_time": 87000,
+                    "appliance": null,
+                    "end_time": 92766,
+                    "temperature": null,
+                    "id": 39302,
+                    "position": 12,
+                    "display_text": "Using the parchment paper, transfer the bread to a baking sheet. Trim the excess parchment."
+                },
+                {
+                    "id": 39303,
+                    "position": 13,
+                    "display_text": "Bake for 5-10 minutes, until the crust is golden brown.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 111500,
+                    "temperature": null,
+                    "id": 39304,
+                    "position": 14,
+                    "display_text": "Let cool for about 15 minutes, then slice.",
+                    "start_time": 94933
+                },
+                {
+                    "end_time": 117333,
+                    "temperature": null,
+                    "id": 39305,
+                    "position": 15,
+                    "display_text": "Enjoy!",
+                    "start_time": 111500,
+                    "appliance": null
+                }
+            ],
+            "language": "eng",
+            "price": {
+                "updated_at": "2023-01-17T06:03:27+01:00",
+                "portion": 50,
+                "consumption_total": 100,
+                "consumption_portion": 0,
+                "total": 300
+            },
+            "thumbnail_alt_text": "",
+            "keywords": "bread, rosemary, slow cooker, tasty, tasty_vegetarian",
+            "id": 4383,
+            "inspired_by_url": "http://hostthetoast.com/rosemary-olive-oil-crock-pot-bread/#comments",
+            "draft_status": "published",
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/178124.jpg",
+            "approved_at": 1536787628,
+            "is_one_top": false,
+            "yields": "Makes 1 loaf",
+            "facebook_posts": [],
+            "prep_time_minutes": null,
+            "show": {
+                "name": "Tasty: Tasty Vegetarian",
+                "id": 49
+            },
+            "cook_time_minutes": null,
+            "tags": [
+                {
+                    "name": "parchment_paper",
+                    "id": 1247780,
+                    "display_name": "Parchment Paper",
+                    "type": "equipment"
+                },
+                {
+                    "name": "slow_cooker",
+                    "id": 65847,
+                    "display_name": "Slow Cooker",
+                    "type": "appliance"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "type": "appliance",
+                    "name": "oven",
+                    "id": 65846,
+                    "display_name": "Oven"
+                },
+                {
+                    "type": "equipment",
+                    "name": "baking_pan",
+                    "id": 1280500,
+                    "display_name": "Baking Pan"
+                },
+                {
+                    "name": "kitchen_shears",
+                    "id": 1280505,
+                    "display_name": "Kitchen Shears",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex"
+                },
+                {
+                    "name": "wooden_spoon",
+                    "id": 1247794,
+                    "display_name": "Wooden Spoon",
+                    "type": "equipment"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Sides",
+                    "type": "meal",
+                    "name": "sides",
+                    "id": 64490
+                },
+                {
+                    "display_name": "Bake",
+                    "type": "cooking_style",
+                    "name": "bake",
+                    "id": 64492
+                },
+                {
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment"
+                },
+                {
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment",
+                    "name": "chefs_knife"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "name": "appetizers",
+                    "id": 64481,
+                    "display_name": "Appetizers",
+                    "type": "meal"
+                },
+                {
+                    "id": 64503,
+                    "display_name": "Casual Party",
+                    "type": "occasion",
+                    "name": "casual_party"
+                },
+                {
+                    "name": "weeknight",
+                    "id": 64505,
+                    "display_name": "Weeknight",
+                    "type": "occasion"
+                },
+                {
+                    "id": 7510780,
+                    "display_name": "Thanksgiving Slow",
+                    "type": "feature_page",
+                    "name": "thanksgiving_slow"
+                },
+                {
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary"
+                },
+                {
+                    "name": "vegan",
+                    "id": 64468,
+                    "display_name": "Vegan",
+                    "type": "dietary"
+                },
+                {
+                    "name": "vegetarian",
+                    "id": 64469,
+                    "display_name": "Vegetarian",
+                    "type": "dietary"
+                }
+            ],
+            "name": "Slow Cooker Rosemary Bread",
+            "num_servings": 8,
+            "total_time_minutes": null,
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/fe5bdcf86870492e8a6f1ba0341dcc45/BFV47466_SlowCookerBread_V3_final.mp4",
+            "country": "US",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "300",
+                                    "id": 504689
+                                },
+                                {
+                                    "id": 504688,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1 ¼"
+                                }
+                            ],
+                            "raw_text": "1¼ cups lukewarm water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1526955682,
+                                "name": "lukewarm water",
+                                "created_at": 1526955682,
+                                "display_plural": "lukewarm waters",
+                                "id": 4134,
+                                "display_singular": "lukewarm water"
+                            },
+                            "id": 45676,
+                            "position": 1
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons"
+                                    },
+                                    "quantity": "1",
+                                    "id": 504690
+                                }
+                            ],
+                            "raw_text": "1 teaspoon sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "sugar",
+                                "created_at": 1493314650,
+                                "display_plural": "sugars",
+                                "id": 24,
+                                "display_singular": "sugar",
+                                "updated_at": 1509035288
+                            },
+                            "id": 45677,
+                            "position": 2
+                        },
+                        {
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "quantity": "1",
+                                    "id": 504696,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "packet",
+                                        "display_plural": "packets",
+                                        "display_singular": "packet",
+                                        "abbreviation": "packet"
+                                    }
+                                }
+                            ],
+                            "raw_text": "1 active dry yeast packet (about 2¼ teaspoons)",
+                            "extra_comment": "about 2 1/4 teaspoons",
+                            "ingredient": {
+                                "id": 473,
+                                "display_singular": "active dry yeast",
+                                "updated_at": 1509035257,
+                                "name": "active dry yeast",
+                                "created_at": 1495132681,
+                                "display_plural": "active dry yeasts"
+                            },
+                            "id": 45678
+                        },
+                        {
+                            "id": 45679,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "id": 504691,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "1"
+                                }
+                            ],
+                            "raw_text": "1 teaspoon salt, plus more for sprinkling",
+                            "extra_comment": "plus more for sprinkling",
+                            "ingredient": {
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt",
+                                "updated_at": 1509035288
+                            }
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "olive oils",
+                                "id": 4,
+                                "display_singular": "olive oil",
+                                "updated_at": 1509035290,
+                                "name": "olive oil",
+                                "created_at": 1493306183
+                            },
+                            "id": 45680,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "3",
+                                    "id": 504695
+                                }
+                            ],
+                            "raw_text": "3 tablespoons olive oil"
+                        },
+                        {
+                            "raw_text": "2 tablespoons chopped fresh rosemary, plus more for sprinkling",
+                            "extra_comment": "chopped, plus more for sprinkling",
+                            "ingredient": {
+                                "updated_at": 1509035257,
+                                "name": "fresh rosemary",
+                                "created_at": 1495134627,
+                                "display_plural": "fresh rosemaries",
+                                "id": 476,
+                                "display_singular": "fresh rosemary"
+                            },
+                            "id": 45681,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons"
+                                    },
+                                    "quantity": "2",
+                                    "id": 504693
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035280,
+                                "name": "all-purpose flour",
+                                "created_at": 1494122348,
+                                "display_plural": "all-purpose flours",
+                                "id": 185,
+                                "display_singular": "all-purpose flour"
+                            },
+                            "id": 45682,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "470",
+                                    "id": 504694
+                                },
+                                {
+                                    "quantity": "3 ¾",
+                                    "id": 504692,
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    }
+                                }
+                            ],
+                            "raw_text": "3¾ cups all-purpose flour, plus more for dusting",
+                            "extra_comment": "plus more for dusting"
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "brand_id": null,
+            "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/5f824f492f1e485a80c557232dd3e261/Beauty_THUMB.jpg",
+            "brand": null,
+            "tips_and_ratings_enabled": true,
+            "description": "",
+            "video_ad_content": "none",
+            "video_id": 64304,
+            "nutrition_visibility": "auto",
+            "compilations": [
+                {
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "draft_status": "published",
+                    "id": 1035,
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "video_id": 87043,
+                    "slug": "8-freshly-baked-bread-recipes",
+                    "promotion": "full",
+                    "country": "US",
+                    "approved_at": 1564534800,
+                    "name": "8 Freshly Baked Bread Recipes",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "canonical_id": "compilation:1035",
+                    "created_at": 1564304983,
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/227313.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/140419/hls24_1564300117.m3u8"
+                },
+                {
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/324365.jpg",
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "canonical_id": "compilation:2502",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "approved_at": 1624553727,
+                    "video_url": "https://vid.tasty.co/output/204623/hls24_1622451930.m3u8",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "slug": "warm-freshly-baked-bread-recipes",
+                    "promotion": "full",
+                    "created_at": 1622451790,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "name": "Warm & Freshly Baked Bread Recipes",
+                    "id": 2502,
+                    "video_id": 131750,
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "description": "Nothing is more sensuous and sumptuous than the smell of freshly-baked bread, but sometimes, breadmaking is scary when you don't know where to start. Luckily, we're here to help: Whip up our oh-so-amazing <a href=\"https://tasty.co/recipe/ice-cream-bread\">Ice Cream Bread</a> for dessert and balance it out with our savory <a href=\"https://tasty.co/recipe/slow-cooker-rosemary-bread\">Slow-Cooker Rosemary Bread</a>. Try these out today and tell us: what's your pick?"
+                },
+                {
+                    "description": "Bread is a food that fits just about every occasion, so we've got seven recipes for you. Our <a href=\"https://tasty.co/recipe/cloud-bread\">cloud bread</a> is totally Instagram-able and so easy to whip up. And you won’t be able to stop chowing down on our <a href=\"https://tasty.co/recipe/dutch-oven-jalapeno-cheddar-bread\">Dutch oven jalapeño cheddar bread</a>. Oh, and believe it or not, we even have one loaf of bread that contains <a href=\"https://tasty.co/recipe/ice-cream-bread\">ice cream</a>. Are you bready for this?",
+                    "beauty_url": null,
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "country": "US",
+                    "thumbnail_alt_text": "",
+                    "created_at": 1635520211,
+                    "draft_status": "published",
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/350023.jpg",
+                    "approved_at": 1637249009,
+                    "canonical_id": "compilation:2951",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "slug": "7-days-7-breads",
+                    "promotion": "full",
+                    "name": "7 Days 7 Breads",
+                    "id": 2951,
+                    "buzz_id": null,
+                    "video_id": 143756,
+                    "aspect_ratio": "1:1",
+                    "video_url": "https://vid.tasty.co/output/221043/hls24_1635520713.m3u8"
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Best Vegetarian",
+                    "slug": "best-vegetarian"
+                },
+                {
+                    "name": "Bread Lovers",
+                    "slug": "bread"
+                },
+                {
+                    "name": "Thanksgiving",
+                    "slug": "thanksgiving"
+                },
+                {
+                    "slug": "vegan",
+                    "name": "Vegan"
+                }
+            ],
+            "nutrition": {
+                "sugar": 0,
+                "carbohydrates": 41,
+                "fiber": 1,
+                "updated_at": "2021-05-03T13:24:41+02:00",
+                "protein": 5,
+                "fat": 5,
+                "calories": 242
+            },
+            "video_url": "https://vid.tasty.co/output/108696/hls24_1536707505.m3u8",
+            "updated_at": 1560180509,
+            "servings_noun_plural": "servings",
+            "renditions": [
+                {
+                    "url": "https://vid.tasty.co/output/108696/square_720/1536707505",
+                    "duration": 127663,
+                    "bit_rate": 2205,
+                    "aspect": "square",
+                    "width": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/108696/square_720/1536707505_00001.png",
+                    "file_size": 35179775,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 320,
+                    "container": "mp4",
+                    "file_size": 10874938,
+                    "url": "https://vid.tasty.co/output/108696/square_320/1536707505",
+                    "duration": 127663,
+                    "maximum_bit_rate": null,
+                    "height": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/108696/square_320/1536707505_00001.png",
+                    "bit_rate": 682,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_320x320"
+                },
+                {
+                    "aspect": "square",
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "url": "https://vid.tasty.co/output/108696/landscape_720/1536707505",
+                    "duration": 127663,
+                    "file_size": 35175197,
+                    "bit_rate": 2205,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/108696/landscape_720/1536707505_00001.png"
+                },
+                {
+                    "name": "mp4_480x480",
+                    "container": "mp4",
+                    "file_size": 19113890,
+                    "url": "https://vid.tasty.co/output/108696/landscape_480/1536707505",
+                    "duration": 127663,
+                    "bit_rate": 1198,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "height": 480,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/108696/landscape_480/1536707505_00001.png",
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/108696/1445289064805-h2exzu/1536707505_00001.png",
+                    "duration": 127670,
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "minimum_bit_rate": 275,
+                    "name": "low",
+                    "container": "ts",
+                    "maximum_bit_rate": 3932,
+                    "url": "https://vid.tasty.co/output/108696/hls24_1536707505.m3u8",
+                    "width": 1080,
+                    "height": 1080,
+                    "file_size": null
+                }
+            ],
+            "user_ratings": {
+                "count_positive": 941,
+                "score": 0.954361,
+                "count_negative": 45
+            },
+            "slug": "slow-cooker-rosemary-bread",
+            "servings_noun_singular": "serving"
+        },
+        {
+            "servings_noun_plural": "servings",
+            "video_ad_content": "none",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/7943c8d8dacb43af855397636dbb1440/BFV31539_HomemadeAppleCider.mp4",
+            "language": "eng",
+            "brand": null,
+            "created_at": 1508793331,
+            "aspect_ratio": "1:1",
+            "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/11004d4fc88b4cfd88e44c57f964fe8f/Pin01.jpg",
+            "total_time_tier": null,
+            "promotion": "full",
+            "show_id": 34,
+            "num_servings": 6,
+            "buzz_id": 4662160,
+            "brand_id": null,
+            "compilations": [
+                {
+                    "facebook_posts": [],
+                    "created_at": 1513294733,
+                    "id": 349,
+                    "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/cc1353ec3953479a93874dc1296a9c60/BFV34096_OurFavoriteHolidayBeverages-Beauty02.jpg",
+                    "slug": "dairy-free-holiday-drinks",
+                    "promotion": "full",
+                    "country": "US",
+                    "description": null,
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/68345/hls24_1513364143.m3u8",
+                    "approved_at": 1514051606,
+                    "keywords": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/124304.jpg",
+                    "name": "Dairy-Free Holiday Drinks",
+                    "buzz_id": 4707486,
+                    "video_id": 39459,
+                    "language": "eng",
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "id": 34,
+                            "name": "Goodful"
+                        }
+                    ],
+                    "canonical_id": "compilation:349",
+                    "aspect_ratio": "1:1"
+                },
+                {
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/289942.jpg",
+                    "beauty_url": null,
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1608017231,
+                    "name": "Drinks To Keep You Warm",
+                    "canonical_id": "compilation:1943",
+                    "id": 1943,
+                    "is_shoppable": false,
+                    "description": "Is there anything better than spending a cold night under the blanket by the fire? Yes, delicious cozy warm drinks! Pick from our range of <a href=\"https://tasty.co/recipe/homemade-apple-cider\">spicy apple cider</a> to the <a href=\"https://tasty.co/recipe/creamy-gourmet-hot-chocolate\">classic decadent hot chocolate</a>. A <a href=\"https://tasty.co/recipe/pumpkin-spice-coffee\">pumpkin spice coffee</a>, in our opinion is always the winner. Here's to a cozy night! Cheers!",
+                    "draft_status": "published",
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/183161/hls24_1603876069.m3u8",
+                    "approved_at": 1608213825,
+                    "buzz_id": null,
+                    "slug": "drinks-to-keep-you-warm",
+                    "promotion": "full",
+                    "video_id": 116565
+                }
+            ],
+            "video_url": "https://vid.tasty.co/output/57947/low_1508804266.m3u8",
+            "yields": "Servings: 6-8",
+            "instructions": [
+                {
+                    "id": 23661,
+                    "position": 1,
+                    "display_text": "Place fruit and spices into a slow cooker.",
+                    "start_time": 1880,
+                    "appliance": null,
+                    "end_time": 7489,
+                    "temperature": null
+                },
+                {
+                    "start_time": 7689,
+                    "appliance": null,
+                    "end_time": 11770,
+                    "temperature": null,
+                    "id": 23662,
+                    "position": 2,
+                    "display_text": "Add 8 cups of water."
+                },
+                {
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 23663,
+                    "position": 3,
+                    "display_text": "Cook on high heat for 3-4 hours.",
+                    "start_time": 0,
+                    "appliance": null
+                },
+                {
+                    "id": 23664,
+                    "position": 4,
+                    "display_text": "Uncover the slow cooker, and mash the softened fruit with a potato masher.",
+                    "start_time": 13620,
+                    "appliance": null,
+                    "end_time": 16991,
+                    "temperature": null
+                },
+                {
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 23665,
+                    "position": 5,
+                    "display_text": "Cover again and cook on low for 1-2 hours."
+                },
+                {
+                    "appliance": null,
+                    "end_time": 29650,
+                    "temperature": null,
+                    "id": 23666,
+                    "position": 6,
+                    "display_text": "Strain out fruit and spices from the slow cooker into a cheesecloth in a bowl.",
+                    "start_time": 21213
+                },
+                {
+                    "appliance": null,
+                    "end_time": 33790,
+                    "temperature": null,
+                    "id": 23667,
+                    "position": 7,
+                    "display_text": "Wait about 20-30 minutes for the cheesecloth to cool. Squeeze out cider from cheesecloth into the bowl. Pour the cider back into the slow cooker.",
+                    "start_time": 30180
+                },
+                {
+                    "temperature": null,
+                    "id": 23668,
+                    "position": 8,
+                    "display_text": "Serve warm.",
+                    "start_time": 34480,
+                    "appliance": null,
+                    "end_time": 37630
+                },
+                {
+                    "id": 23669,
+                    "position": 9,
+                    "display_text": "Enjoy!",
+                    "start_time": 37970,
+                    "appliance": null,
+                    "end_time": 39270,
+                    "temperature": null
+                }
+            ],
+            "slug": "homemade-apple-cider",
+            "servings_noun_singular": "serving",
+            "thumbnail_alt_text": "",
+            "credits": [
+                {
+                    "name": "Ashley Trenkle",
+                    "type": "internal"
+                }
+            ],
+            "is_shoppable": true,
+            "seo_title": null,
+            "prep_time_minutes": null,
+            "inspired_by_url": "http://totsfamily.com/home-made-slow-cooker-apple-cider/",
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/109219.jpg",
+            "show": {
+                "id": 34,
+                "name": "Goodful"
+            },
+            "renditions": [
+                {
+                    "height": 720,
+                    "file_size": 38087252,
+                    "duration": 42266,
+                    "bit_rate": 7210,
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/57947/mp4_1280X720/1508804266_00001.png",
+                    "url": "https://vid.tasty.co/output/57947/mp4_1280X720/1508804266",
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720"
+                },
+                {
+                    "maximum_bit_rate": 8154,
+                    "height": 1080,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/57947/low_1508804266.m3u8",
+                    "duration": 42218,
+                    "bit_rate": null,
+                    "minimum_bit_rate": 274,
+                    "name": "low",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/57947/1445289064805-h2exzu/1508804266_00001.png",
+                    "file_size": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080
+                },
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/57947/mp4_640x640/1508804266_00001.png",
+                    "duration": 42266,
+                    "width": 640,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_640x640",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 37833945,
+                    "url": "https://vid.tasty.co/output/57947/mp4_640x640/1508804266",
+                    "bit_rate": 7162,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "height": 640
+                },
+                {
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/57947/mp4_720x1280/1508804266_00001.png",
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 720,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/57947/mp4_720x1280/1508804266",
+                    "duration": 42266,
+                    "bit_rate": 7195,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "file_size": 38011309
+                }
+            ],
+            "price": {
+                "total": 900,
+                "updated_at": "2023-01-17T06:09:08+01:00",
+                "portion": 150,
+                "consumption_total": 700,
+                "consumption_portion": 100
+            },
+            "tags": [
+                {
+                    "name": "thanksgiving",
+                    "id": 64479,
+                    "display_name": "Thanksgiving",
+                    "type": "holiday"
+                },
+                {
+                    "id": 65847,
+                    "display_name": "Slow Cooker",
+                    "type": "appliance",
+                    "name": "slow_cooker"
+                },
+                {
+                    "display_name": "One-Pot or Pan",
+                    "type": "cooking_style",
+                    "name": "one_pot_or_pan",
+                    "id": 65855
+                },
+                {
+                    "display_name": "Kid-Friendly",
+                    "type": "cooking_style",
+                    "name": "kid_friendly",
+                    "id": 64488
+                },
+                {
+                    "name": "christmas",
+                    "id": 64473,
+                    "display_name": "Christmas",
+                    "type": "holiday"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "display_name": "Drinks",
+                    "type": "meal",
+                    "name": "drinks",
+                    "id": 64487
+                },
+                {
+                    "display_name": "Winter",
+                    "type": "seasonal",
+                    "name": "winter",
+                    "id": 64511
+                },
+                {
+                    "name": "fall",
+                    "id": 64508,
+                    "display_name": "Fall",
+                    "type": "seasonal"
+                },
+                {
+                    "name": "american",
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine"
+                },
+                {
+                    "name": "special_occasion",
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion"
+                },
+                {
+                    "display_name": "Casual Party",
+                    "type": "occasion",
+                    "name": "casual_party",
+                    "id": 64503
+                },
+                {
+                    "name": "thanksgiving_slow",
+                    "id": 7510780,
+                    "display_name": "Thanksgiving Slow",
+                    "type": "feature_page"
+                }
+            ],
+            "nutrition": {
+                "sugar": 39,
+                "carbohydrates": 58,
+                "fiber": 10,
+                "updated_at": "2020-12-14T00:37:58+01:00",
+                "protein": 1,
+                "fat": 0,
+                "calories": 216
+            },
+            "tips_and_ratings_enabled": true,
+            "canonical_id": "recipe:2893",
+            "country": "US",
+            "id": 2893,
+            "name": "Homemade Apple Cider",
+            "description": null,
+            "draft_status": "published",
+            "updated_at": 1560182678,
+            "approved_at": 1508825097,
+            "is_one_top": false,
+            "nutrition_visibility": "auto",
+            "keywords": "tasty, tasty_vegetarian",
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "4 Granny Smith apples, sliced",
+                            "extra_comment": "sliced",
+                            "ingredient": {
+                                "created_at": 1496958533,
+                                "display_plural": "granny smith apples",
+                                "id": 1689,
+                                "display_singular": "granny smith apple",
+                                "updated_at": 1509035172,
+                                "name": "granny smith apple"
+                            },
+                            "id": 27392,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "4",
+                                    "id": 194258
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "quantity": "4",
+                                    "id": 194259,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "4 Red Delicious apples, sliced",
+                            "extra_comment": "sliced",
+                            "ingredient": {
+                                "id": 3132,
+                                "display_singular": "red delicious apple",
+                                "updated_at": 1509035086,
+                                "name": "red delicious apple",
+                                "created_at": 1508816070,
+                                "display_plural": "red delicious apples"
+                            },
+                            "id": 27393,
+                            "position": 2
+                        },
+                        {
+                            "ingredient": {
+                                "display_singular": "orange",
+                                "updated_at": 1509035262,
+                                "name": "orange",
+                                "created_at": 1494989685,
+                                "display_plural": "oranges",
+                                "id": 420
+                            },
+                            "id": 27394,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 194262
+                                }
+                            ],
+                            "raw_text": "1 orange, sliced",
+                            "extra_comment": "sliced"
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035201,
+                                "name": "whole allspice",
+                                "created_at": 1496551855,
+                                "display_plural": "whole allspices",
+                                "id": 1204,
+                                "display_singular": "whole allspice"
+                            },
+                            "id": 27395,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 194260
+                                }
+                            ],
+                            "raw_text": "1½ tablespoons whole allspice"
+                        },
+                        {
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "id": 194261,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1 ½"
+                                }
+                            ],
+                            "raw_text": "1½ tablespoons whole cloves",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "whole clove",
+                                "created_at": 1496551862,
+                                "display_plural": "whole cloves",
+                                "id": 1205,
+                                "display_singular": "whole clove",
+                                "updated_at": 1509035201
+                            },
+                            "id": 27396
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "3",
+                                    "id": 194263
+                                }
+                            ],
+                            "raw_text": "3 cinnamon sticks",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "cinnamon sticks",
+                                "id": 948,
+                                "display_singular": "cinnamon stick",
+                                "updated_at": 1509035220,
+                                "name": "cinnamon stick",
+                                "created_at": 1496147892
+                            },
+                            "id": 27397,
+                            "position": 6
+                        },
+                        {
+                            "id": 27398,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "8",
+                                    "id": 194265
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "liter",
+                                        "display_plural": "L",
+                                        "display_singular": "L",
+                                        "abbreviation": "L"
+                                    },
+                                    "quantity": "1.9",
+                                    "id": 194264
+                                }
+                            ],
+                            "raw_text": "8 cups water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494124627,
+                                "display_plural": "waters",
+                                "id": 197,
+                                "display_singular": "water",
+                                "updated_at": 1509035280,
+                                "name": "water"
+                            }
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ],
+            "cook_time_minutes": null,
+            "topics": [
+                {
+                    "name": "Christmas",
+                    "slug": "christmas"
+                },
+                {
+                    "name": "Fall Recipes",
+                    "slug": "fall"
+                },
+                {
+                    "slug": "kid-friendly",
+                    "name": "Kid Friendly"
+                },
+                {
+                    "slug": "one-pot",
+                    "name": "One-Pot Recipes"
+                },
+                {
+                    "name": "Thanksgiving",
+                    "slug": "thanksgiving"
+                },
+                {
+                    "name": "Winter Recipes",
+                    "slug": "winter"
+                },
+                {
+                    "name": "American",
+                    "slug": "american"
+                }
+            ],
+            "video_id": 34475,
+            "facebook_posts": [],
+            "user_ratings": {
+                "score": 0.795122,
+                "count_negative": 42,
+                "count_positive": 163
+            },
+            "total_time_minutes": null
+        }
+    ]
+}

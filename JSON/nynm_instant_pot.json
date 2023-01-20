@@ -1,0 +1,692 @@
+{
+    "count": 1,
+    "results": [
+        {
+            "buzz_id": null,
+            "show": {
+                "name": "Goodful",
+                "id": 34
+            },
+            "description": "Homemade bone broth is the perfect easy addition to your meal prep game. Use up those kitchen scraps from other recipes (#ZeroWaste) while adding extra flavor and nutrition to your wellness routine.",
+            "video_url": "https://vid.tasty.co/output/122852/hls24_1547682362.m3u8",
+            "servings_noun_plural": "cups",
+            "language": "eng",
+            "id": 4717,
+            "name": "Instant Pot Chicken Bone Broth",
+            "canonical_id": "recipe:4717",
+            "video_id": 75117,
+            "inspired_by_url": null,
+            "renditions": [
+                {
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/122852/square_720/1547682362_00001.png",
+                    "file_size": 41751714,
+                    "url": "https://vid.tasty.co/output/122852/square_720/1547682362",
+                    "aspect": "square",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "duration": 184431,
+                    "bit_rate": 1812,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720"
+                },
+                {
+                    "file_size": 14592053,
+                    "duration": 184431,
+                    "name": "mp4_320x320",
+                    "height": 320,
+                    "minimum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/122852/square_320/1547682362_00001.png",
+                    "url": "https://vid.tasty.co/output/122852/square_320/1547682362",
+                    "bit_rate": 633,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 320,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "url": "https://vid.tasty.co/output/122852/landscape_720/1547682362",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "width": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/122852/landscape_720/1547682362_00001.png",
+                    "file_size": 41728182,
+                    "duration": 184431,
+                    "bit_rate": 1811,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "maximum_bit_rate": null,
+                    "height": 720
+                },
+                {
+                    "container": "mp4",
+                    "duration": 184431,
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "height": 480,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/122852/landscape_480/1547682362_00001.png",
+                    "file_size": 24155226,
+                    "url": "https://vid.tasty.co/output/122852/landscape_480/1547682362",
+                    "bit_rate": 1048,
+                    "content_type": "video/mp4",
+                    "width": 480,
+                    "name": "mp4_480x480"
+                },
+                {
+                    "url": "https://vid.tasty.co/output/122852/hls24_1547682362.m3u8",
+                    "aspect": "square",
+                    "height": 1080,
+                    "container": "ts",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/122852/1445289064805-h2exzu/1547682362_00001.png",
+                    "file_size": null,
+                    "duration": 184435,
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "width": 1080,
+                    "minimum_bit_rate": 275,
+                    "name": "low",
+                    "maximum_bit_rate": 3169
+                }
+            ],
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/1c3ddfa90aa04e738f30a4477166f934/BFV52809_InstantPotBoneBroth_FB-Final.mp4",
+            "cook_time_minutes": 80,
+            "facebook_posts": [],
+            "brand": null,
+            "draft_status": "published",
+            "credits": [
+                {
+                    "name": "Crystal Hatch",
+                    "type": "internal"
+                },
+                {
+                    "name": "Karlee Rotoly",
+                    "type": "internal"
+                }
+            ],
+            "total_time_tier": null,
+            "brand_id": null,
+            "tags": [
+                {
+                    "name": "gluten_free",
+                    "id": 64465,
+                    "display_name": "Gluten-Free",
+                    "type": "dietary"
+                },
+                {
+                    "type": "dietary",
+                    "name": "healthy",
+                    "id": 64466,
+                    "display_name": "Healthy"
+                },
+                {
+                    "name": "kid_friendly",
+                    "id": 64488,
+                    "display_name": "Kid-Friendly",
+                    "type": "cooking_style"
+                },
+                {
+                    "id": 65851,
+                    "display_name": "Big Batch",
+                    "type": "cooking_style",
+                    "name": "big_batch"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "strainer",
+                    "id": 1247789,
+                    "display_name": "Strainer",
+                    "type": "equipment"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment",
+                    "name": "chefs_knife"
+                },
+                {
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment"
+                },
+                {
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex",
+                    "type": "equipment"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506
+                },
+                {
+                    "id": 64498,
+                    "display_name": "Steam",
+                    "type": "cooking_style",
+                    "name": "steam"
+                },
+                {
+                    "name": "thanksgiving",
+                    "id": 64479,
+                    "display_name": "Thanksgiving",
+                    "type": "holiday"
+                },
+                {
+                    "name": "winter",
+                    "id": 64511,
+                    "display_name": "Winter",
+                    "type": "seasonal"
+                },
+                {
+                    "type": "seasonal",
+                    "name": "fall",
+                    "id": 64508,
+                    "display_name": "Fall"
+                },
+                {
+                    "name": "one_pot_or_pan",
+                    "id": 65855,
+                    "display_name": "One-Pot or Pan",
+                    "type": "cooking_style"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "nynm_instant_pot",
+                    "id": 6543463,
+                    "display_name": "NYNM Instant Pot"
+                },
+                {
+                    "name": "low_carb",
+                    "id": 64467,
+                    "display_name": "Low-Carb",
+                    "type": "healthy"
+                },
+                {
+                    "name": "low_calorie",
+                    "id": 8091916,
+                    "display_name": "Low-Calorie",
+                    "type": "healthy"
+                },
+                {
+                    "type": "healthy",
+                    "name": "low_sugar",
+                    "id": 8091918,
+                    "display_name": "Low-Sugar"
+                },
+                {
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary"
+                }
+            ],
+            "tips_and_ratings_enabled": true,
+            "nutrition": {
+                "carbohydrates": 12,
+                "fiber": 3,
+                "updated_at": "2022-10-02T08:06:13+02:00",
+                "protein": 1,
+                "fat": 0,
+                "calories": 56,
+                "sugar": 4
+            },
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/201127.jpg",
+            "is_one_top": false,
+            "is_shoppable": true,
+            "promotion": "full",
+            "instructions": [
+                {
+                    "start_time": 30000,
+                    "appliance": null,
+                    "end_time": 94333,
+                    "temperature": null,
+                    "id": 43530,
+                    "position": 1,
+                    "display_text": "To a 6-quart (5.5 liter) instant pot, add the chicken bones, carrots, celery, onion, garlic, rosemary, thyme, peppercorns, apple cider vinegar, and water, and stir to combine. Set the instant pot to high sauté and bring to a boil. Cook until any impurities foam to the surface, then carefully skim off the top with a large spoon."
+                },
+                {
+                    "start_time": 95000,
+                    "appliance": null,
+                    "end_time": 103666,
+                    "temperature": null,
+                    "id": 43531,
+                    "position": 2,
+                    "display_text": "Place the lid on the pot and turn the venting valve to “sealing.” Set to pressure cooking for 60 minutes."
+                },
+                {
+                    "end_time": 110666,
+                    "temperature": null,
+                    "id": 43532,
+                    "position": 3,
+                    "display_text": "Release the pressure from the instant pot by switching the vent to “venting.” The hot steam will come out of the top, so make sure your hand is not over the release switch . Wait for the pressure to release and the instant pot to unlock before removing the lid.",
+                    "start_time": 105000,
+                    "appliance": null
+                },
+                {
+                    "temperature": null,
+                    "id": 43533,
+                    "position": 4,
+                    "display_text": "Strain the broth through a fine-mesh sieve lined with cheesecloth. Let cool completely before storing in an airtight container in the refrigerator for up to 6 days, or in the freezer for up to 6 months.",
+                    "start_time": 114000,
+                    "appliance": null,
+                    "end_time": 130166
+                },
+                {
+                    "position": 5,
+                    "display_text": "Enjoy!",
+                    "start_time": 136000,
+                    "appliance": null,
+                    "end_time": 174333,
+                    "temperature": null,
+                    "id": 43534
+                }
+            ],
+            "keywords": "bone broth, chicken bone broth, easy bone broth, eco-friendly recipe, goodful , green recipe, healthy, healthy bone broth, instant-pot, instant-pot bone broth, instant-pot recipe, no waste recipe, scraps, sustainable, zero waste, zero waste bone broth, zero waste recipe",
+            "price": {
+                "consumption_portion": 150,
+                "total": 1400,
+                "updated_at": "2023-01-17T06:02:01+01:00",
+                "portion": 250,
+                "consumption_total": 900
+            },
+            "total_time_minutes": null,
+            "seo_title": "",
+            "show_id": 34,
+            "prep_time_minutes": 15,
+            "created_at": 1547680094,
+            "slug": "instant-pot-chicken-bone-broth",
+            "thumbnail_alt_text": "",
+            "topics": [
+                {
+                    "name": "Fall Recipes",
+                    "slug": "fall"
+                },
+                {
+                    "name": "Healthy Eating",
+                    "slug": "healthy"
+                },
+                {
+                    "name": "Kid Friendly",
+                    "slug": "kid-friendly"
+                },
+                {
+                    "name": "Low Carb Meals",
+                    "slug": "low-carb-meals"
+                },
+                {
+                    "name": "One-Pot Recipes",
+                    "slug": "one-pot"
+                },
+                {
+                    "name": "Romantic Dinners",
+                    "slug": "romantic-dinners"
+                },
+                {
+                    "name": "Thanksgiving",
+                    "slug": "thanksgiving"
+                },
+                {
+                    "name": "Winter Recipes",
+                    "slug": "winter"
+                }
+            ],
+            "video_ad_content": "none",
+            "yields": "Makes 6-8 cups of broth",
+            "nutrition_visibility": "auto",
+            "servings_noun_singular": "cup",
+            "aspect_ratio": "1:1",
+            "compilations": [],
+            "num_servings": 6,
+            "updated_at": 1560180147,
+            "approved_at": 1547751602,
+            "beauty_url": "https://img.buzzfeed.com/video-api-prod/assets/b6abb2df00ef47faa3fe473eba624348/BFV52809_InstantPotBoneBroth-Beauty02.jpg",
+            "country": "US",
+            "user_ratings": {
+                "count_positive": 93,
+                "score": 0.96875,
+                "count_negative": 3
+            },
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "id": 50485,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "kilogram",
+                                        "display_plural": "kg",
+                                        "display_singular": "kg",
+                                        "abbreviation": "kg"
+                                    },
+                                    "quantity": "1",
+                                    "id": 425880
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "lb",
+                                        "system": "imperial",
+                                        "name": "pound",
+                                        "display_plural": "lb",
+                                        "display_singular": "lb"
+                                    },
+                                    "quantity": "2 ½",
+                                    "id": 425879
+                                },
+                                {
+                                    "id": 425877,
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "2"
+                                }
+                            ],
+                            "raw_text": "2 roasted chicken carcasses (about 2½ pounds), bones broken",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "roasted chicken carcass",
+                                "created_at": 1547749647,
+                                "display_plural": "roasted chicken carcass",
+                                "id": 5041,
+                                "display_singular": "roasted chicken carcas",
+                                "updated_at": 1547749647
+                            }
+                        },
+                        {
+                            "raw_text": "6 medium carrots, roughly chopped",
+                            "extra_comment": "roughly chopped",
+                            "ingredient": {
+                                "display_plural": "medium carrots",
+                                "id": 1652,
+                                "display_singular": "medium carrot",
+                                "updated_at": 1509035174,
+                                "name": "medium carrot",
+                                "created_at": 1496939612
+                            },
+                            "id": 50486,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "quantity": "6",
+                                    "id": 425873,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "6 stalks celery, roughly chopped",
+                            "extra_comment": "roughly chopped",
+                            "ingredient": {
+                                "name": "celery",
+                                "created_at": 1495082620,
+                                "display_plural": "celeries",
+                                "id": 458,
+                                "display_singular": "celery",
+                                "updated_at": 1509035259
+                            },
+                            "id": 50487,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "stalk",
+                                        "display_plural": "stalks",
+                                        "display_singular": "stalk",
+                                        "abbreviation": "stalk"
+                                    },
+                                    "quantity": "6",
+                                    "id": 425870
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 425868
+                                }
+                            ],
+                            "raw_text": "1 medium yellow onion, roughly chopped",
+                            "extra_comment": "roughly chopped",
+                            "ingredient": {
+                                "id": 942,
+                                "display_singular": "medium yellow onion",
+                                "updated_at": 1509035220,
+                                "name": "medium yellow onion",
+                                "created_at": 1496102165,
+                                "display_plural": "medium yellow onions"
+                            },
+                            "id": 50488,
+                            "position": 4
+                        },
+                        {
+                            "extra_comment": "smashed",
+                            "ingredient": {
+                                "updated_at": 1509035285,
+                                "name": "garlic",
+                                "created_at": 1493744766,
+                                "display_plural": "garlics",
+                                "id": 95,
+                                "display_singular": "garlic"
+                            },
+                            "id": 50489,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "id": 425869,
+                                    "unit": {
+                                        "abbreviation": "clove",
+                                        "system": "none",
+                                        "name": "clove",
+                                        "display_plural": "cloves",
+                                        "display_singular": "clove"
+                                    },
+                                    "quantity": "4"
+                                }
+                            ],
+                            "raw_text": "4 cloves garlic, smashed"
+                        },
+                        {
+                            "raw_text": "6 sprigs fresh rosemary",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035257,
+                                "name": "fresh rosemary",
+                                "created_at": 1495134627,
+                                "display_plural": "fresh rosemaries",
+                                "id": 476,
+                                "display_singular": "fresh rosemary"
+                            },
+                            "id": 50490,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "id": 425878,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "sprig",
+                                        "display_plural": "sprigs",
+                                        "display_singular": "sprig",
+                                        "abbreviation": "sprig"
+                                    },
+                                    "quantity": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1495134646,
+                                "display_plural": "fresh thymes",
+                                "id": 477,
+                                "display_singular": "fresh thyme",
+                                "updated_at": 1509035257,
+                                "name": "fresh thyme"
+                            },
+                            "id": 50491,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "sprig",
+                                        "system": "none",
+                                        "name": "sprig",
+                                        "display_plural": "sprigs",
+                                        "display_singular": "sprig"
+                                    },
+                                    "quantity": "6",
+                                    "id": 425875
+                                }
+                            ],
+                            "raw_text": "6 sprigs fresh thyme"
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 425874
+                                }
+                            ],
+                            "raw_text": "1 tablespoon whole black peppercorns",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 4000,
+                                "display_singular": "whole black peppercorn",
+                                "updated_at": 1524719767,
+                                "name": "whole black peppercorn",
+                                "created_at": 1524719767,
+                                "display_plural": "whole black peppercorns"
+                            },
+                            "id": 50492,
+                            "position": 8
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494882105,
+                                "display_plural": "apple cider vinegars",
+                                "id": 345,
+                                "display_singular": "apple cider vinegar",
+                                "updated_at": 1509035268,
+                                "name": "apple cider vinegar"
+                            },
+                            "id": 50493,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "quantity": "2",
+                                    "id": 425876,
+                                    "unit": {
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon"
+                                    }
+                                }
+                            ],
+                            "raw_text": "2 tablespoons apple cider vinegar"
+                        },
+                        {
+                            "position": 10,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "12",
+                                    "id": 425872
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "L",
+                                        "display_singular": "L",
+                                        "abbreviation": "L",
+                                        "system": "metric",
+                                        "name": "liter"
+                                    },
+                                    "quantity": "3",
+                                    "id": 425871
+                                }
+                            ],
+                            "raw_text": "12 cups cold water",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035281,
+                                "name": "cold water",
+                                "created_at": 1494014808,
+                                "display_plural": "cold waters",
+                                "id": 178,
+                                "display_singular": "cold water"
+                            },
+                            "id": 50494
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                }
+            ]
+        }
+    ]
+}

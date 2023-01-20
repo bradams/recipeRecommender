@@ -5,13 +5,13 @@ import json
 #API call to get a list of recipes as a JSON object - namely using this to get a bunch of IDs and names which can join to details
 #dumps into Data directory
 
-def callAPI(toRun):
+def callAPI(tagName):
 
 	#Base URL for the API
 	url = "https://tasty.p.rapidapi.com/recipes/list"
 
 	#query for the api - change parameters as needed
-	querystring = {"from":"0","size":"40","tags":"halloween"}
+	querystring = {"from":"0","size":"40","tags": tagName}
 
 	#headers for API call
 	headers = {
@@ -24,12 +24,12 @@ def callAPI(toRun):
 	data = response.json()
 
 	#open and store intermedite JSON file
-	with open("/Users/bradadams/Desktop/Python/Recipe Recommender/Data/recipeJSONhalloween.json", 'w', encoding = 'utf-8') as f:
+	with open("C:/Users/bradl/OneDrive/Desktop/Git/recipeRecommender/JSON/" + tagName +".json", 'w', encoding = 'utf-8') as f:
 		json.dump(data, f, ensure_ascii = False, indent=4)
 	f.close()
 
 ##Driver
-callAPI()
+callAPI("easter")
 
 
 

@@ -1,0 +1,4088 @@
+{
+    "count": 5,
+    "results": [
+        {
+            "instructions": [
+                {
+                    "position": 1,
+                    "display_text": "Add the espresso to a 12-ounce mug.",
+                    "start_time": 9000,
+                    "appliance": null,
+                    "end_time": 12500,
+                    "temperature": null,
+                    "id": 61112
+                },
+                {
+                    "position": 2,
+                    "display_text": "In a milk frother, combine the milk peppermint extract, and vanilla simple syrup and froth. Pour into the mug with the espresso.",
+                    "start_time": 16000,
+                    "appliance": null,
+                    "end_time": 34000,
+                    "temperature": null,
+                    "id": 61113
+                },
+                {
+                    "position": 3,
+                    "display_text": "Top with chocolate syrup, chocolate shavings, and the mint sprig.",
+                    "start_time": 35000,
+                    "appliance": null,
+                    "end_time": 56333,
+                    "temperature": null,
+                    "id": 61114
+                },
+                {
+                    "display_text": "Serve immediately.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0,
+                    "temperature": null,
+                    "id": 61115,
+                    "position": 4
+                },
+                {
+                    "temperature": null,
+                    "id": 61116,
+                    "position": 5,
+                    "display_text": "Enjoy!",
+                    "start_time": 59666,
+                    "appliance": null,
+                    "end_time": 63500
+                }
+            ],
+            "keywords": "",
+            "thumbnail_url": "https://s3.amazonaws.com/video-api-prod/assets/d3a40ef48c974422967f87a5cd502569/cafe_york_1080x1080_OO.jpg",
+            "is_one_top": false,
+            "beauty_url": null,
+            "video_ad_content": "none",
+            "canonical_id": "recipe:6920",
+            "slug": "york-peppermint-pattie-inspired-latte",
+            "sections": [
+                {
+                    "position": 1,
+                    "components": [
+                        {
+                            "measurements": [
+                                {
+                                    "quantity": "4",
+                                    "id": 606375,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "115",
+                                    "id": 606374
+                                }
+                            ],
+                            "raw_text": "4 ounces brewed espresso",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "brewed espresso",
+                                "updated_at": 1605545364,
+                                "name": "brewed espresso",
+                                "created_at": 1605545364,
+                                "display_plural": "brewed espressos",
+                                "id": 7491
+                            },
+                            "id": 76061,
+                            "position": 1
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1",
+                                    "id": 606370
+                                },
+                                {
+                                    "id": 606366,
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "240"
+                                }
+                            ],
+                            "raw_text": "1 cup whole milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "whole milks",
+                                "id": 770,
+                                "display_singular": "whole milk",
+                                "updated_at": 1509035235,
+                                "name": "whole milk",
+                                "created_at": 1495732941
+                            },
+                            "id": 76062,
+                            "position": 2
+                        },
+                        {
+                            "id": 76063,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 606369
+                                }
+                            ],
+                            "raw_text": "¼ teaspoon peppermint extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035248,
+                                "name": "peppermint extract",
+                                "created_at": 1495419412,
+                                "display_plural": "peppermint extracts",
+                                "id": 599,
+                                "display_singular": "peppermint extract"
+                            }
+                        },
+                        {
+                            "id": 76064,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 606373
+                                }
+                            ],
+                            "raw_text": "1 tablespoon vanilla simple syrup",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1605660010,
+                                "name": "Vanilla Simple Syrup",
+                                "created_at": 1605660010,
+                                "display_plural": "Vanilla Simple Syrups",
+                                "id": 7511,
+                                "display_singular": "Vanilla Simple Syrup"
+                            }
+                        },
+                        {
+                            "ingredient": {
+                                "id": 638,
+                                "display_singular": "chocolate syrup",
+                                "updated_at": 1509035245,
+                                "name": "chocolate syrup",
+                                "created_at": 1495576933,
+                                "display_plural": "chocolate syrups"
+                            },
+                            "id": 76065,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606364
+                                }
+                            ],
+                            "raw_text": "Chocolate syrup, for topping",
+                            "extra_comment": "for topping"
+                        },
+                        {
+                            "raw_text": "Chocolate shavings, for topping",
+                            "extra_comment": "for topping ",
+                            "ingredient": {
+                                "updated_at": 1596648581,
+                                "name": "chocolate shavings",
+                                "created_at": 1596648581,
+                                "display_plural": "chocolate shavings",
+                                "id": 6702,
+                                "display_singular": "chocolate shaving"
+                            },
+                            "id": 76066,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606368
+                                }
+                            ]
+                        },
+                        {
+                            "id": 76067,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "1",
+                                    "id": 606372
+                                }
+                            ],
+                            "raw_text": "1 sprig of fresh mint, for garnish",
+                            "extra_comment": "for garnish",
+                            "ingredient": {
+                                "updated_at": 1605660059,
+                                "name": "sprig of fresh mint",
+                                "created_at": 1605660059,
+                                "display_plural": "sprigs of fresh mint",
+                                "id": 7512,
+                                "display_singular": "sprig of fresh mint"
+                            }
+                        },
+                        {
+                            "id": 76068,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606365
+                                }
+                            ],
+                            "raw_text": "Special Equipment",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "Special Equipment",
+                                "updated_at": 1602884387,
+                                "name": "Special Equipment",
+                                "created_at": 1602884387,
+                                "display_plural": "Special Equipments",
+                                "id": 7101
+                            }
+                        },
+                        {
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606371
+                                }
+                            ],
+                            "raw_text": "Espresso machine",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "espresso machines",
+                                "id": 7494,
+                                "display_singular": "espresso machine",
+                                "updated_at": 1605545426,
+                                "name": "espresso machine",
+                                "created_at": 1605545426
+                            },
+                            "id": 76069
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 606367
+                                }
+                            ],
+                            "raw_text": "Milk frother",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "milk frother",
+                                "updated_at": 1605545419,
+                                "name": "milk frother",
+                                "created_at": 1605545419,
+                                "display_plural": "milk frothers",
+                                "id": 7493
+                            },
+                            "id": 76070,
+                            "position": 10
+                        }
+                    ],
+                    "name": null
+                }
+            ],
+            "tags": [
+                {
+                    "name": "peppermint_pattie",
+                    "id": 6361741,
+                    "display_name": "Peppermint Pattie",
+                    "type": "feature_page"
+                },
+                {
+                    "name": "drinks",
+                    "id": 64487,
+                    "display_name": "Drinks",
+                    "type": "meal"
+                },
+                {
+                    "name": "low_calorie",
+                    "id": 8091916,
+                    "display_name": "Low-Calorie",
+                    "type": "healthy"
+                },
+                {
+                    "type": "difficulty",
+                    "name": "under_30_minutes",
+                    "id": 64472,
+                    "display_name": "Under 30 Minutes"
+                },
+                {
+                    "name": "under_15_minutes",
+                    "id": 8091744,
+                    "display_name": "Under 15 Minutes",
+                    "type": "difficulty"
+                },
+                {
+                    "display_name": "Under 45 Minutes",
+                    "type": "difficulty",
+                    "name": "under_45_minutes",
+                    "id": 8091747
+                },
+                {
+                    "name": "under_1_hour",
+                    "id": 8091748,
+                    "display_name": "Under 1 Hour",
+                    "type": "difficulty"
+                }
+            ],
+            "is_shoppable": true,
+            "yields": "Servings: 1",
+            "country": "US",
+            "prep_time_minutes": 5,
+            "compilations": [
+                {
+                    "draft_status": "published",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/294284.jpg",
+                    "video_url": "https://vid.tasty.co/output/185494/hls24_1605665533.m3u8",
+                    "approved_at": 1605728640,
+                    "id": 1846,
+                    "buzz_id": null,
+                    "slug": "recipes-to-put-some-pep-in-your-step",
+                    "description": "Tasty Café: Try some of these amazing recipes to pair with your <a href=\"https://tasty.co/recipe/york-peppermint-pattie-inspired-latte\">York Peppermint Pattie-Inspired Latte</a> and give your morning a fresh start. ",
+                    "country": "US",
+                    "is_shoppable": true,
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "created_at": 1605716918,
+                    "language": "eng",
+                    "aspect_ratio": "1:1",
+                    "beauty_url": null,
+                    "promotion": "full",
+                    "video_id": 118440,
+                    "name": "Recipes To Put Some Pep In Your Step",
+                    "facebook_posts": [],
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1846",
+                    "keywords": null
+                },
+                {
+                    "country": "US",
+                    "keywords": "york, hershey's, three musketeers, snickers, almond joy",
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/186115/hls24_1606176525.m3u8",
+                    "slug": "tasty-cafe-candy-bar-drinks-compilation",
+                    "is_shoppable": false,
+                    "facebook_posts": [],
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/295281.jpg",
+                    "approved_at": 1606228440,
+                    "id": 1861,
+                    "video_id": 113545,
+                    "aspect_ratio": "1:1",
+                    "created_at": 1606174005,
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1861",
+                    "buzz_id": null,
+                    "promotion": "full",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "language": "eng",
+                    "name": "Tasty Café Candy Bar Drinks Compilation",
+                    "beauty_url": null
+                },
+                {
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/188860/hls24_1608263619.m3u8",
+                    "name": "28 Coffee Recipes",
+                    "buzz_id": null,
+                    "slug": "28-coffee-recipes",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1607019792,
+                    "canonical_id": "compilation:1896",
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/297176.jpg",
+                    "approved_at": 1608303833,
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "draft_status": "published",
+                    "id": 1896,
+                    "beauty_url": null,
+                    "promotion": "full",
+                    "video_id": 118916,
+                    "facebook_posts": [],
+                    "description": "Do you want to take your regular coffee up a notch? We’ve curated 28 different coffee recipes just for the coffee lover in you! Whether you're in need of a quick energy boost or you just want to sip on <a href=\"https://tasty.co/recipe/avocado-cold-brew\">Avocado Cold Brew</a> while you cozily read a book, this spectrum of recipes will not disappoint. Have a brew-tiful day!"
+                },
+                {
+                    "approved_at": 1608648604,
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/300219.jpg",
+                    "video_url": "https://vid.tasty.co/output/188913/hls24_1608292256.m3u8",
+                    "is_shoppable": false,
+                    "description": "Need something to keep you going through a difficult day? These comforting peppermint drinks are a hug in a mug! Start with a <a href=\"https://tasty.co/recipe/york-peppermint-pattie-inspired-latte\">York Peppermint Pattie Latte</a> and warm your soul with our famous <a href=\"https://tasty.co/recipe/peppermint-hibiscus-tea\">Hibiscus Peppermint Tea</a>. ",
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1985",
+                    "buzz_id": null,
+                    "country": "US",
+                    "created_at": 1608291925,
+                    "slug": "peppermint-drinks",
+                    "video_id": 120352,
+                    "keywords": null,
+                    "name": "Peppermint Drinks",
+                    "id": 1985,
+                    "beauty_url": null
+                },
+                {
+                    "description": "It's time to turn to the star gods for your next coffee order! We’ve curated 12 different coffee recipes just for the coffee lover in you, For the determined and hardworking Taurus, we recommend cuddling up to a cup of our <a href=\"https://tasty.co/recipe/java-chip-caffeinated-smoothie\">Chocolate Java Chip</a> while you cozily read a book. For the mysterious and passionate Scorpio, go for a <a href=\"https://tasty.co/recipe/cold-brew-martini-for-one\">Cold Brew Martini</a>. No matter what you choose, you're bound to have a brew-tiful day!",
+                    "draft_status": "published",
+                    "name": "Your Coffee Order Based On Your Zodiac Sign",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "buzz_id": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "beauty_url": null,
+                    "canonical_id": "compilation:2616",
+                    "id": 2616,
+                    "slug": "your-coffee-order-based-on-your-zodiac-sign",
+                    "promotion": "full",
+                    "is_shoppable": false,
+                    "approved_at": 1626710271,
+                    "created_at": 1625660860,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/330986.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/208741/hls24_1625681968.m3u8",
+                    "video_id": 130927,
+                    "aspect_ratio": "1:1",
+                    "country": "US"
+                }
+            ],
+            "tips_and_ratings_enabled": true,
+            "created_at": 1605659946,
+            "total_time_minutes": 10,
+            "updated_at": 1605810907,
+            "language": "eng",
+            "id": 6920,
+            "nutrition": {
+                "fiber": 0,
+                "updated_at": "2020-12-14T00:37:58+01:00",
+                "protein": 7,
+                "fat": 4,
+                "calories": 118,
+                "sugar": 11,
+                "carbohydrates": 11
+            },
+            "video_url": "https://vid.tasty.co/output/185483/hls24_1605660341.m3u8",
+            "topics": [],
+            "video_id": 116509,
+            "servings_noun_singular": "serving",
+            "show_id": 17,
+            "name": "York Peppermint Pattie-Inspired Latte",
+            "renditions": [
+                {
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185483/square_720/1605660341_00001.png",
+                    "duration": 65620,
+                    "aspect": "square",
+                    "width": 720,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 12529716,
+                    "url": "https://vid.tasty.co/output/185483/square_720/1605660341",
+                    "bit_rate": 1528
+                },
+                {
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185483/square_320/1605660341_00001.png",
+                    "bit_rate": 508,
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "height": 320,
+                    "file_size": 4159215,
+                    "url": "https://vid.tasty.co/output/185483/square_320/1605660341",
+                    "duration": 65620,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "name": "mp4_320x320"
+                },
+                {
+                    "aspect": "square",
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "url": "https://vid.tasty.co/output/185483/landscape_720/1605660341",
+                    "bit_rate": 1531,
+                    "file_size": 12551704,
+                    "duration": 65620,
+                    "content_type": "video/mp4",
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185483/landscape_720/1605660341_00001.png"
+                },
+                {
+                    "name": "mp4_480x480",
+                    "maximum_bit_rate": null,
+                    "duration": 65620,
+                    "bit_rate": 844,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "height": 480,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185483/landscape_480/1605660341_00001.png",
+                    "file_size": 6916903,
+                    "url": "https://vid.tasty.co/output/185483/landscape_480/1605660341"
+                },
+                {
+                    "bit_rate": null,
+                    "aspect": "square",
+                    "width": 1080,
+                    "minimum_bit_rate": 274,
+                    "name": "low",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/185483/1445289064805-h2exzu/1605660341_00001.png",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/185483/hls24_1605660341.m3u8",
+                    "maximum_bit_rate": 2653,
+                    "height": 1080,
+                    "container": "ts",
+                    "duration": 65608,
+                    "content_type": "application/vnd.apple.mpegurl"
+                }
+            ],
+            "cook_time_minutes": 5,
+            "promotion": "full",
+            "facebook_posts": [],
+            "brand_id": null,
+            "buzz_id": null,
+            "total_time_tier": {
+                "tier": "under_15_minutes",
+                "display_tier": "Under 15 minutes"
+            },
+            "inspired_by_url": null,
+            "user_ratings": {
+                "score": 0.8,
+                "count_negative": 7,
+                "count_positive": 28
+            },
+            "price": {
+                "consumption_portion": 135550,
+                "total": 136850,
+                "updated_at": "2023-01-17T06:25:14+01:00",
+                "portion": 136850,
+                "consumption_total": 135550
+            },
+            "brand": null,
+            "num_servings": 1,
+            "aspect_ratio": "1:1",
+            "description": "Did somebody ask for a refresh-mint? The peppermint in this infused latte will perk you right up, followed by a smooth chocolate finish.",
+            "draft_status": "published",
+            "approved_at": 1605728282,
+            "seo_title": "Peppermint Pattie-Inspired Mocha",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/30d4d361d7134d04af26dbb6222e7900/BFV73130_YorkPeppermintPatty-InspiredMochaLatte_DM_111320_v4_OO.mp4",
+            "nutrition_visibility": "auto",
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "thumbnail_alt_text": "",
+            "credits": [
+                {
+                    "name": "Betsy Carter",
+                    "type": "internal"
+                },
+                {
+                    "type": "internal",
+                    "name": "Danielle Campbell "
+                }
+            ],
+            "servings_noun_plural": "servings"
+        },
+        {
+            "total_time_tier": null,
+            "video_id": 93927,
+            "keywords": "",
+            "sections": [
+                {
+                    "position": 1,
+                    "components": [
+                        {
+                            "raw_text": "3 cups flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1493314654,
+                                "display_plural": "flours",
+                                "id": 25,
+                                "display_singular": "flour",
+                                "updated_at": 1509035288,
+                                "name": "flour"
+                            },
+                            "id": 62202,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "3",
+                                    "id": 530714
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "375",
+                                    "id": 530713
+                                }
+                            ]
+                        },
+                        {
+                            "id": 62203,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1",
+                                    "id": 530736
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    },
+                                    "quantity": "200",
+                                    "id": 530734
+                                }
+                            ],
+                            "raw_text": "1 cup sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "sugar",
+                                "created_at": 1493314650,
+                                "display_plural": "sugars",
+                                "id": 24,
+                                "display_singular": "sugar"
+                            }
+                        },
+                        {
+                            "raw_text": "4 teaspoons baking powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "baking powders",
+                                "id": 23,
+                                "display_singular": "baking powder",
+                                "updated_at": 1509035288,
+                                "name": "baking powder",
+                                "created_at": 1493314647
+                            },
+                            "id": 62204,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "4",
+                                    "id": 530722
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt",
+                                "updated_at": 1509035288,
+                                "name": "salt"
+                            },
+                            "id": 62205,
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 530715
+                                }
+                            ],
+                            "raw_text": "1 teaspoon salt",
+                            "extra_comment": ""
+                        },
+                        {
+                            "id": 62206,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "quantity": "1 ½",
+                                    "id": 530737,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    },
+                                    "quantity": "360",
+                                    "id": 530735
+                                }
+                            ],
+                            "raw_text": "1½ cups milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "milk",
+                                "created_at": 1493314636,
+                                "display_plural": "milks",
+                                "id": 21,
+                                "display_singular": "milk",
+                                "updated_at": 1509035288
+                            }
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "egg",
+                                "created_at": 1493314622,
+                                "display_plural": "eggs",
+                                "id": 19,
+                                "display_singular": "egg"
+                            },
+                            "id": 62207,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 530717
+                                }
+                            ],
+                            "raw_text": "2 eggs",
+                            "extra_comment": ""
+                        },
+                        {
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "2",
+                                    "id": 530716
+                                }
+                            ],
+                            "raw_text": "2 teaspoons vanilla extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "id": 103,
+                                "display_singular": "vanilla extract",
+                                "updated_at": 1509035284,
+                                "name": "vanilla extract",
+                                "created_at": 1493745620,
+                                "display_plural": "vanilla extracts"
+                            },
+                            "id": 62208
+                        },
+                        {
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "id": 530720,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½"
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL",
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL"
+                                    },
+                                    "quantity": "120",
+                                    "id": 530718
+                                }
+                            ],
+                            "raw_text": "½ cup melted butter",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1493954671,
+                                "display_plural": "melted butters",
+                                "id": 172,
+                                "display_singular": "melted butter",
+                                "updated_at": 1509035281,
+                                "name": "melted butter"
+                            },
+                            "id": 62209
+                        }
+                    ],
+                    "name": "Cake"
+                },
+                {
+                    "components": [
+                        {
+                            "id": 62211,
+                            "position": 11,
+                            "measurements": [
+                                {
+                                    "quantity": "½",
+                                    "id": 530721,
+                                    "unit": {
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups"
+                                    }
+                                },
+                                {
+                                    "quantity": "115",
+                                    "id": 530719,
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    }
+                                }
+                            ],
+                            "raw_text": "½ cup softened butter",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1527026898,
+                                "display_plural": "softened butters",
+                                "id": 4160,
+                                "display_singular": "softened butter",
+                                "updated_at": 1527026898,
+                                "name": "softened butter"
+                            }
+                        },
+                        {
+                            "raw_text": "½ cup brown sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035289,
+                                "name": "brown sugar",
+                                "created_at": 1493307081,
+                                "display_plural": "brown sugars",
+                                "id": 6,
+                                "display_singular": "brown sugar"
+                            },
+                            "id": 62212,
+                            "position": 12,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "½",
+                                    "id": 530739
+                                },
+                                {
+                                    "unit": {
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram"
+                                    },
+                                    "quantity": "110",
+                                    "id": 530738
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "salt",
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22
+                            },
+                            "id": 62213,
+                            "position": 13,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "1",
+                                    "id": 530724
+                                }
+                            ],
+                            "raw_text": "1 teaspoon salt"
+                        },
+                        {
+                            "raw_text": "1 tablespoon flour",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "flours",
+                                "id": 25,
+                                "display_singular": "flour",
+                                "updated_at": 1509035288,
+                                "name": "flour",
+                                "created_at": 1493314654
+                            },
+                            "id": 62214,
+                            "position": 14,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 530732
+                                }
+                            ]
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "McCormick® Ground Cinnamons",
+                                "id": 5133,
+                                "display_singular": "McCormick® Ground Cinnamon",
+                                "updated_at": 1551279374,
+                                "name": "McCormick® Ground Cinnamon",
+                                "created_at": 1551279374
+                            },
+                            "id": 62215,
+                            "position": 15,
+                            "measurements": [
+                                {
+                                    "id": 530723,
+                                    "unit": {
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp",
+                                        "system": "imperial",
+                                        "name": "tablespoon"
+                                    },
+                                    "quantity": "1"
+                                }
+                            ],
+                            "raw_text": "1 tablespoon McCormick Cinnamon"
+                        },
+                        {
+                            "raw_text": "½ cup chopped pecans",
+                            "extra_comment": "chopped",
+                            "ingredient": {
+                                "name": "pecan",
+                                "created_at": 1501591491,
+                                "display_plural": "pecans",
+                                "id": 2737,
+                                "display_singular": "pecan",
+                                "updated_at": 1509035113
+                            },
+                            "id": 62216,
+                            "position": 16,
+                            "measurements": [
+                                {
+                                    "id": 530730,
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "½"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "60",
+                                    "id": 530728
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "Cinnamon Topping",
+                    "position": 2
+                },
+                {
+                    "components": [
+                        {
+                            "ingredient": {
+                                "display_singular": "cream cheese",
+                                "updated_at": 1509035276,
+                                "name": "cream cheese",
+                                "created_at": 1494297000,
+                                "display_plural": "cream cheeses",
+                                "id": 242
+                            },
+                            "id": 62218,
+                            "position": 18,
+                            "measurements": [
+                                {
+                                    "quantity": "4",
+                                    "id": 530729,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "115",
+                                    "id": 530725
+                                }
+                            ],
+                            "raw_text": "4 ounces cream cheese, softened",
+                            "extra_comment": "softened"
+                        },
+                        {
+                            "raw_text": "⅓ cup powdered sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035283,
+                                "name": "powdered sugar",
+                                "created_at": 1493747135,
+                                "display_plural": "powdered sugars",
+                                "id": 144,
+                                "display_singular": "powdered sugar"
+                            },
+                            "id": 62219,
+                            "position": 19,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "⅓",
+                                    "id": 530727
+                                },
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "35",
+                                    "id": 530726
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "tablespoon",
+                                        "display_plural": "tablespoons",
+                                        "display_singular": "tablespoon",
+                                        "abbreviation": "tbsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 530733
+                                }
+                            ],
+                            "raw_text": "1 tablespoon milk",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "milk",
+                                "created_at": 1493314636,
+                                "display_plural": "milks",
+                                "id": 21,
+                                "display_singular": "milk"
+                            },
+                            "id": 62220,
+                            "position": 20
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt"
+                            },
+                            "id": 62221,
+                            "position": 21,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon"
+                                    },
+                                    "quantity": "¼",
+                                    "id": 530731
+                                }
+                            ],
+                            "raw_text": "¼ teaspoon salt",
+                            "extra_comment": ""
+                        }
+                    ],
+                    "name": "Cream Cheese Frosting",
+                    "position": 3
+                }
+            ],
+            "compilations": [
+                {
+                    "keywords": null,
+                    "created_at": 1602785392,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/287796.jpg",
+                    "approved_at": 1603718989,
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/181957/hls24_1602786084.m3u8",
+                    "promotion": "full",
+                    "country": "US",
+                    "facebook_posts": [],
+                    "name": "Coffee Lovers Only",
+                    "canonical_id": "compilation:1751",
+                    "id": 1751,
+                    "beauty_url": null,
+                    "slug": "coffee-lovers-only",
+                    "description": "Do you want to make your favorite coffee into something even better? We have curated a few unique coffee recipes that will do just that. You can even use coffee for your lunch like in a batch of <a href=\"https://tasty.co/recipe/singapore-coffee-ribs\">Singapore Coffee Ribs</a> or enjoy a relaxing drink like the <a href=\"https://tasty.co/recipe/cold-brew-martini-for-one\">Cold Brew Martini</a>. Share this video and let others know there is so much more to coffee than you think!",
+                    "video_id": 115223
+                },
+                {
+                    "is_shoppable": true,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1605716918,
+                    "draft_status": "published",
+                    "id": 1846,
+                    "promotion": "full",
+                    "video_id": 118440,
+                    "aspect_ratio": "1:1",
+                    "description": "Tasty Café: Try some of these amazing recipes to pair with your <a href=\"https://tasty.co/recipe/york-peppermint-pattie-inspired-latte\">York Peppermint Pattie-Inspired Latte</a> and give your morning a fresh start. ",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/294284.jpg",
+                    "canonical_id": "compilation:1846",
+                    "slug": "recipes-to-put-some-pep-in-your-step",
+                    "country": "US",
+                    "keywords": null,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/185494/hls24_1605665533.m3u8",
+                    "beauty_url": null,
+                    "facebook_posts": [],
+                    "approved_at": 1605728640,
+                    "name": "Recipes To Put Some Pep In Your Step",
+                    "buzz_id": null
+                },
+                {
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1896",
+                    "video_id": 118916,
+                    "draft_status": "published",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/297176.jpg",
+                    "approved_at": 1608303833,
+                    "id": 1896,
+                    "beauty_url": null,
+                    "promotion": "full",
+                    "country": "US",
+                    "created_at": 1607019792,
+                    "video_url": "https://vid.tasty.co/output/188860/hls24_1608263619.m3u8",
+                    "buzz_id": null,
+                    "slug": "28-coffee-recipes",
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "description": "Do you want to take your regular coffee up a notch? We’ve curated 28 different coffee recipes just for the coffee lover in you! Whether you're in need of a quick energy boost or you just want to sip on <a href=\"https://tasty.co/recipe/avocado-cold-brew\">Avocado Cold Brew</a> while you cozily read a book, this spectrum of recipes will not disappoint. Have a brew-tiful day!",
+                    "name": "28 Coffee Recipes"
+                },
+                {
+                    "country": "US",
+                    "created_at": 1608017367,
+                    "language": "eng",
+                    "beauty_url": null,
+                    "slug": "desserts-for-coffee-lovers",
+                    "is_shoppable": false,
+                    "draft_status": "published",
+                    "canonical_id": "compilation:1944",
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "keywords": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/295900.jpg",
+                    "video_url": "https://vid.tasty.co/output/186480/hls24_1606379294.m3u8",
+                    "approved_at": 1608304799,
+                    "name": "Desserts For Coffee Lovers",
+                    "video_id": 118159,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": "How many ways can you drink your coffee? Having our coffee in desserts, is our favorite way to go! Swap out your cuppa for a <a href=\"https://tasty.co/recipe/mocha-french-toast-bake\">mocha french toast bake</> for breakfast. End your meal with a <a href=\"https://tasty.co/recipe/mocha-nanaimo-bars\">mocha nanaimo bar</a> and munch on a <a href=\"https://tasty.co/recipe/pumpkin-spice-latte-rolls\">pumpkin-spice latte cinnamon roll</a> for the perfect mid-day pick me up. Have a 'brew-tiful' day!",
+                    "thumbnail_alt_text": "",
+                    "id": 1944,
+                    "promotion": "full"
+                },
+                {
+                    "video_url": "https://vid.tasty.co/output/209518/hls24_1626334096.m3u8",
+                    "name": "Unique Cinnamon Roll Recipes",
+                    "id": 2635,
+                    "aspect_ratio": "16:9",
+                    "description": "Cinnamon Rolls are always a hit in every setting but isn't it getting just a taaad bit repetitive?! We're here to change that! Try your favorite cinnamon rolls in new and unique ways! We bet you haven't tested the <a href=\"https://tasty.co/recipe/bacon-cinnamon-rolls\">Bacon Cinnamon Rolls</a>. Yup, BACON! If that's not your jam, try the <a href=\"https://tasty.co/recipe/mini-cinnamon-roll-bites\">Mini Cinnamon Roll Bites</a>, they're mini but they will have huge impact on your tastebuds! What are you waiting for? Get that cinnamon roll in your tum-tum!",
+                    "draft_status": "published",
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/332102.jpg",
+                    "slug": "unique-cinnamon-roll-recipes",
+                    "promotion": "full",
+                    "video_id": 136311,
+                    "country": "US",
+                    "facebook_posts": [],
+                    "approved_at": 1627656939,
+                    "canonical_id": "compilation:2635",
+                    "beauty_url": null,
+                    "keywords": null,
+                    "created_at": 1626355889,
+                    "buzz_id": null,
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_alt_text": ""
+                },
+                {
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/349951.jpg",
+                    "video_url": "https://vid.tasty.co/output/221010/hls24_1635512394.m3u8",
+                    "approved_at": 1636743286,
+                    "name": "7 Days 7 Ways To Have Coffee Desserts",
+                    "canonical_id": "compilation:2935",
+                    "beauty_url": null,
+                    "country": "US",
+                    "description": "Calling all coffee lovers, because we’ve got the perfect lineup for you. Try this viral TikTok-inspired <a href=\"https://tasty.co/recipe/dalgona-pie\">dalgona pie</a>, or take a classic to the next level with our <a href=\"https://tasty.co/recipe/tiramisu-cheesecake\">tiramisu cheesecake</a>. Our <a href=\"https://tasty.co/recipe/mocha-nanaimo-bars\">mocha nanaimo bars</a> are severely underrated and super easy to make. These coffee-infused desserts are absolutely brew-tiful. ",
+                    "keywords": null,
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "id": 2935,
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "slug": "7-days-7-ways-to-have-coffee-desserts",
+                    "promotion": "full",
+                    "video_id": 143757,
+                    "facebook_posts": [],
+                    "created_at": 1635509709
+                },
+                {
+                    "approved_at": 1636993543,
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "",
+                    "country": "US",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/349955.jpg",
+                    "video_url": "https://vid.tasty.co/output/221001/hls24_1635510789.m3u8",
+                    "name": "Drink your coffee and eat it too!",
+                    "buzz_id": null,
+                    "slug": "drink-your-coffee-and-eat-it-too",
+                    "promotion": "full",
+                    "aspect_ratio": "16:9",
+                    "facebook_posts": [],
+                    "created_at": 1635510461,
+                    "canonical_id": "compilation:2939",
+                    "id": 2939,
+                    "video_id": 145270,
+                    "description": null,
+                    "language": "eng",
+                    "beauty_url": null
+                },
+                {
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/221225/hls24_1635695372.m3u8",
+                    "name": "Why Drink Coffee When You Can EAT It?!",
+                    "id": 2975,
+                    "beauty_url": null,
+                    "promotion": "full",
+                    "video_id": 145386,
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/350317.jpg",
+                    "slug": "why-drink-coffee-when-you-can-eat-it",
+                    "keywords": null,
+                    "created_at": 1635694621,
+                    "description": "Everyone loves coffee, right? You do too? Well, we've got something just for you! We've got edible coffee: introducing a lineup of our coffee-based desserts that'll have you drooling in no time.  From the <a href=\"https://tasty.co/recipe/tiramisu-cheesecake\">tiramisu cheesecake</a> to the <a href=\"https://tasty.co/recipe/peppermint-mocha-cannoli\">mocha peppermint cannolis</a>, we're here to help you get your caffeine fix. ",
+                    "thumbnail_alt_text": "",
+                    "buzz_id": null,
+                    "country": "US",
+                    "approved_at": 1637694776,
+                    "canonical_id": "compilation:2975",
+                    "is_shoppable": false
+                }
+            ],
+            "num_servings": 12,
+            "description": "",
+            "approved_at": 1573059559,
+            "prep_time_minutes": null,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/239930.jpg",
+            "credits": [
+                {
+                    "name": null,
+                    "type": "internal"
+                }
+            ],
+            "servings_noun_plural": "servings",
+            "cook_time_minutes": null,
+            "show_id": 17,
+            "inspired_by_url": null,
+            "video_url": "https://vid.tasty.co/output/149483/hls24_1571937053.m3u8",
+            "renditions": [
+                {
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/149483/square_720/1571937053_00001.png",
+                    "url": "https://vid.tasty.co/output/149483/square_720/1571937053",
+                    "content_type": "video/mp4",
+                    "maximum_bit_rate": null,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "file_size": 36032473,
+                    "duration": 145311,
+                    "bit_rate": 1984,
+                    "aspect": "square",
+                    "width": 720
+                },
+                {
+                    "name": "mp4_320x320",
+                    "height": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/149483/square_320/1571937053_00001.png",
+                    "bit_rate": 668,
+                    "url": "https://vid.tasty.co/output/149483/square_320/1571937053",
+                    "duration": 145311,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 12127841,
+                    "maximum_bit_rate": null
+                },
+                {
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "height": 720,
+                    "url": "https://vid.tasty.co/output/149483/landscape_720/1571937053",
+                    "duration": 145311,
+                    "file_size": 36042693,
+                    "bit_rate": 1985,
+                    "aspect": "square",
+                    "width": 720,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/149483/landscape_720/1571937053_00001.png"
+                },
+                {
+                    "width": 480,
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/149483/landscape_480/1571937053_00001.png",
+                    "file_size": 20767094,
+                    "duration": 145311,
+                    "bit_rate": 1144,
+                    "content_type": "video/mp4",
+                    "height": 480,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/149483/landscape_480/1571937053",
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_480x480"
+                },
+                {
+                    "aspect": "square",
+                    "minimum_bit_rate": 276,
+                    "maximum_bit_rate": 3402,
+                    "height": 1080,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/149483/1445289064805-h2exzu/1571937053_00001.png",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/149483/hls24_1571937053.m3u8",
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "name": "low",
+                    "container": "ts",
+                    "duration": 145312,
+                    "bit_rate": null,
+                    "width": 1080
+                }
+            ],
+            "video_ad_content": "editorial_sponsorship",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/c7f607b7cc6d43efbec33b0950a7fcbe/Mccormick_CinnamonRollCoffeeCake_250082_100919_SS_v008.mp4",
+            "user_ratings": {
+                "count_positive": 923,
+                "score": 0.921158,
+                "count_negative": 79
+            },
+            "slug": "cinnamon-roll-coffee-cake",
+            "tags": [
+                {
+                    "id": 3956651,
+                    "display_name": "McCormick Seasoned Pro",
+                    "type": "business_tags",
+                    "name": "mccormick_seasoned_pro"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "name": "whisk",
+                    "id": 1247793,
+                    "display_name": "Whisk",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Baking Pan",
+                    "type": "equipment",
+                    "name": "baking_pan",
+                    "id": 1280500
+                },
+                {
+                    "name": "oven_mitts",
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment"
+                },
+                {
+                    "id": 64485,
+                    "display_name": "Desserts",
+                    "type": "meal",
+                    "name": "desserts"
+                },
+                {
+                    "name": "indulgent_sweets",
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion"
+                },
+                {
+                    "id": 65846,
+                    "display_name": "Oven",
+                    "type": "appliance",
+                    "name": "oven"
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Cutting Board",
+                    "type": "equipment",
+                    "name": "cutting_board",
+                    "id": 1280503
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Pyrex",
+                    "type": "equipment",
+                    "name": "pyrex",
+                    "id": 1247785
+                },
+                {
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons"
+                },
+                {
+                    "name": "spatula",
+                    "id": 1247788,
+                    "display_name": "Spatula",
+                    "type": "equipment"
+                },
+                {
+                    "name": "bake",
+                    "id": 64492,
+                    "display_name": "Bake",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "special_occasion",
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion"
+                },
+                {
+                    "name": "casual_party",
+                    "id": 64503,
+                    "display_name": "Casual Party",
+                    "type": "occasion"
+                },
+                {
+                    "id": 64473,
+                    "display_name": "Christmas",
+                    "type": "holiday",
+                    "name": "christmas"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "peppermint_pattie",
+                    "id": 6361741,
+                    "display_name": "Peppermint Pattie"
+                }
+            ],
+            "is_shoppable": true,
+            "name": "Cinnamon Roll Coffee Cake",
+            "aspect_ratio": "1:1",
+            "draft_status": "published",
+            "thumbnail_alt_text": "",
+            "canonical_id": "recipe:5744",
+            "beauty_url": null,
+            "promotion": "full",
+            "price": {
+                "consumption_portion": 50,
+                "total": 2050,
+                "updated_at": "2023-01-17T06:20:59+01:00",
+                "portion": 150,
+                "consumption_total": 750
+            },
+            "brand": null,
+            "servings_noun_singular": "serving",
+            "nutrition": {
+                "fiber": 1,
+                "updated_at": "2021-05-03T13:22:26+02:00",
+                "protein": 6,
+                "fat": 20,
+                "calories": 409,
+                "sugar": 23,
+                "carbohydrates": 51
+            },
+            "created_at": 1572981094,
+            "is_one_top": false,
+            "total_time_minutes": null,
+            "updated_at": 1573059563,
+            "nutrition_visibility": "auto",
+            "country": "ZZ",
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": "oven",
+                    "end_time": 0,
+                    "temperature": 350,
+                    "id": 51539,
+                    "position": 1,
+                    "display_text": "Preheat oven to 350ºF (175°C)."
+                },
+                {
+                    "position": 2,
+                    "display_text": "Cake: In a large bowl, whisk together flour, sugar, baking powder, and salt. In a separate bowl, whisk together milk, eggs, and vanilla extract. Pour wet ingredients into dry ingredients and whisk until mostly incorporated but a few dry streaks remain. Whisk in melted butter.",
+                    "start_time": 24000,
+                    "appliance": null,
+                    "end_time": 62333,
+                    "temperature": null,
+                    "id": 51540
+                },
+                {
+                    "appliance": null,
+                    "end_time": 21833,
+                    "temperature": null,
+                    "id": 51541,
+                    "position": 3,
+                    "display_text": "Cinnamon topping: Stir all ingredients together in a medium bowl.",
+                    "start_time": 5000
+                },
+                {
+                    "id": 51542,
+                    "position": 4,
+                    "display_text": "Pour half of the cake batter into a greased 9x13-inch (22 x 33 cm) baking dish. Drop spoonfuls of cinnamon topping on the batter, using half of the topping. Use the tip of a butter knife to swirl the topping through the cake. Pour the rest of the batter on top. Spoon the rest of the topping on and swirl again.",
+                    "start_time": 64666,
+                    "appliance": null,
+                    "end_time": 96666,
+                    "temperature": null
+                },
+                {
+                    "temperature": null,
+                    "id": 51543,
+                    "position": 5,
+                    "display_text": "Bake for 25–30 minutes or until a toothpick inserted into the center comes out clean (or with only a few crumbs attached). Remove from oven and let cool.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "end_time": 124000,
+                    "temperature": null,
+                    "id": 51544,
+                    "position": 6,
+                    "display_text": "Frosting: Whisk together cream cheese, powdered sugar, and milk. If frosting is too thick, add more milk until it becomes a pourable texture. Drizzle cake with frosting. Slice and serve!",
+                    "start_time": 101000,
+                    "appliance": null
+                },
+                {
+                    "appliance": null,
+                    "end_time": 140000,
+                    "temperature": null,
+                    "id": 51560,
+                    "position": 7,
+                    "display_text": "Enjoy!",
+                    "start_time": 133166
+                }
+            ],
+            "language": "eng",
+            "brand_id": null,
+            "tips_and_ratings_enabled": true,
+            "topics": [
+                {
+                    "name": "Christmas",
+                    "slug": "christmas"
+                },
+                {
+                    "name": "Tasty Spice Recipes",
+                    "slug": "mccormick-seasoned-pro"
+                },
+                {
+                    "name": "Desserts",
+                    "slug": "desserts"
+                }
+            ],
+            "seo_title": "",
+            "facebook_posts": [],
+            "id": 5744,
+            "buzz_id": null,
+            "yields": "Servings: 12"
+        },
+        {
+            "language": "eng",
+            "show_id": 17,
+            "inspired_by_url": "https://tasty.co/recipe/cookies-ice-cream-dome-cake",
+            "video_url": "https://vid.tasty.co/output/125541/hls24_1551119544.m3u8",
+            "approved_at": 1551222457,
+            "topics": [
+                {
+                    "name": "St. Patrick's Day",
+                    "slug": "irish"
+                },
+                {
+                    "name": "Desserts",
+                    "slug": "desserts"
+                }
+            ],
+            "video_ad_content": "none",
+            "country": "US",
+            "prep_time_minutes": 30,
+            "num_servings": 8,
+            "total_time_minutes": 360,
+            "servings_noun_plural": "servings",
+            "beauty_url": null,
+            "nutrition_visibility": "auto",
+            "compilations": [
+                {
+                    "is_shoppable": false,
+                    "created_at": 1585213524,
+                    "approved_at": 1585674764,
+                    "slug": "5-desserts-for-mint-chocolate-lovers",
+                    "promotion": "full",
+                    "video_url": "https://vid.tasty.co/output/163427/hls24_1585213665.m3u8",
+                    "canonical_id": "compilation:1449",
+                    "buzz_id": null,
+                    "country": "US",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "draft_status": "published",
+                    "name": "5 Desserts for Mint Chocolate Lovers",
+                    "video_id": 102519,
+                    "aspect_ratio": "1:1",
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/259785.jpg",
+                    "thumbnail_alt_text": "",
+                    "id": 1449,
+                    "beauty_url": null
+                },
+                {
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": "Tasty Café: Try some of these amazing recipes to pair with your <a href=\"https://tasty.co/recipe/york-peppermint-pattie-inspired-latte\">York Peppermint Pattie-Inspired Latte</a> and give your morning a fresh start. ",
+                    "video_url": "https://vid.tasty.co/output/185494/hls24_1605665533.m3u8",
+                    "canonical_id": "compilation:1846",
+                    "aspect_ratio": "1:1",
+                    "created_at": 1605716918,
+                    "draft_status": "published",
+                    "approved_at": 1605728640,
+                    "name": "Recipes To Put Some Pep In Your Step",
+                    "id": 1846,
+                    "beauty_url": null,
+                    "slug": "recipes-to-put-some-pep-in-your-step",
+                    "keywords": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/294284.jpg",
+                    "video_id": 118440,
+                    "is_shoppable": true,
+                    "language": "eng",
+                    "thumbnail_alt_text": "",
+                    "buzz_id": null,
+                    "promotion": "full",
+                    "country": "US"
+                },
+                {
+                    "facebook_posts": [],
+                    "buzz_id": null,
+                    "country": "US",
+                    "is_shoppable": false,
+                    "video_url": "https://vid.tasty.co/output/196206/hls24_1615548126.m3u8",
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "thumbnail_alt_text": "",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/312058.jpg",
+                    "approved_at": 1615576394,
+                    "canonical_id": "compilation:2212",
+                    "video_id": 126379,
+                    "created_at": 1615547776,
+                    "description": "Celebrate St. Patrick's Day with these vibrant green recipes. Start the night with <a href=\"https://tasty.co/recipe/vegan-pesto-tomato-pizza\">pesto tomato pizza</a> and show off your culinary skills by cooking <a href=\"https://tasty.co/recipe/shamrock-ravioli\">shamrock ravioli</a> that'll lead you to a pot of gold. Impress your friends and family with this hearty feast and thank us later! Happy St. Paddy's Day!",
+                    "draft_status": "published",
+                    "language": "eng",
+                    "name": "Green Recipes To Celebrate St. Patrick's Day",
+                    "id": 2212,
+                    "beauty_url": null,
+                    "slug": "green-recipes-to-celebrate-st-patrick-s-day",
+                    "keywords": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ]
+                },
+                {
+                    "beauty_url": null,
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1615989171,
+                    "name": "Chocolate Desserts Based On Your Zodiac Sign",
+                    "canonical_id": "compilation:2216",
+                    "country": "US",
+                    "draft_status": "published",
+                    "language": "eng",
+                    "id": 2216,
+                    "buzz_id": null,
+                    "slug": "chocolate-desserts-based-on-your-zodiac-sign",
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/312296.jpg",
+                    "video_url": "https://vid.tasty.co/output/196376/hls24_1615797392.m3u8",
+                    "promotion": "full",
+                    "created_at": 1615796890,
+                    "description": "It's hard not to love chocolate. But what kind of chocolate dessert do you choose? Your stars have got you covered. The sprinkle-topped <a href=\"https://tasty.co/recipe/easy-homemade-chocolate-doughnuts\">Chocolate Doughnut</a> is perfect for the romantic Cancer. The chocolate-dipped <a href=\"https://tasty.co/recipe/chocolate-dipped-ice-cream-tacos\">Ice Cream Taco</a> matches perfectly with the adventurous Leo. And the hardworking Capricorn shouldn't hesitate to treat themselves with a <a href=\"https://tasty.co/recipe/magic-chocolate-ball\">Magic Chocolate Ball</a>! Chocolate is for the soul, for the heart, and for whatever star fits your fancy. ",
+                    "video_id": 126693
+                },
+                {
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/319669.jpg",
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/201424/hls24_1619648955.m3u8",
+                    "approved_at": 1619698784,
+                    "name": "These Cake Recipes Will Be A Delight To Your Stomach and Eyes",
+                    "buzz_id": null,
+                    "promotion": "full",
+                    "keywords": null,
+                    "created_at": 1618902589,
+                    "description": "Craving some cake? Who are we kidding: you're always craving cake! We’ve got you covered — and why settle for just one when we have 25 mouthwatering cake recipes to excite your tastebuds? Start with our crowd-pleasing <a href=\"https://tasty.co/recipe/mirror-glaze-cake\">mirror glaze cake</a> or bake to impress with a fancy <a href=\"https://tasty.co/recipe/flower-pot-box-cake\">flowerpot cake</a>.These recipes won't let you down.",
+                    "language": "eng",
+                    "id": 2294,
+                    "slug": "these-cake-recipes-will-be-a-delight-to-your-stomach-and-eyes",
+                    "video_id": 130267,
+                    "country": "US",
+                    "is_shoppable": false,
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:2294",
+                    "beauty_url": null
+                },
+                {
+                    "facebook_posts": [],
+                    "description": null,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/329270.jpg",
+                    "name": "Mint Chocolate Treats We Love",
+                    "aspect_ratio": "1:1",
+                    "draft_status": "published",
+                    "canonical_id": "compilation:2546",
+                    "id": 2546,
+                    "video_id": 134265,
+                    "country": "US",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1625154039,
+                    "beauty_url": null,
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "created_at": 1624875267,
+                    "video_url": "https://vid.tasty.co/output/207511/hls24_1624875472.m3u8",
+                    "buzz_id": null,
+                    "slug": "mint-chocolate-treats-we-love",
+                    "promotion": "full"
+                },
+                {
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "created_at": 1642147969,
+                    "description": null,
+                    "thumbnail_alt_text": "",
+                    "id": 3034,
+                    "buzz_id": null,
+                    "country": "US",
+                    "facebook_posts": [],
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/229036/hls24_1642672929.m3u8",
+                    "approved_at": 1642714854,
+                    "name": "25 Ways To Satisfy Your Chocolate Cravings",
+                    "canonical_id": "compilation:3034",
+                    "video_id": 150185,
+                    "beauty_url": null,
+                    "aspect_ratio": "1:1",
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/362298.jpg",
+                    "slug": "25-ways-to-satisfy-your-chocolate-cravings",
+                    "promotion": "full"
+                },
+                {
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/381932.jpg",
+                    "name": "You Can Never Have Enough Chocolate",
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "beauty_url": null,
+                    "promotion": "full",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "approved_at": 1654883578,
+                    "slug": "you-can-never-have-enough-chocolate",
+                    "created_at": 1653890941,
+                    "description": "You can never have enough chocolates, can you?  Whether it's an ice cream, donut, cake or waffle, chocolate dominates them all and boy does it hit it out of the park! For your midnight cravings, try the quick and easy <a href=\"tasty.co/recipe/chocolate-hazelnut-mug-cakes\">Chocolate Hazelnut Mug Cake</a>. Have a date night? Impress them with the elegant <a href=\"tasty.co/recipe/chocolate-mousse\">Chocolate Mousse</a>. Want some comfort food? Bake yourselves a fresh batch of <a href=\"tasty.co/recipe/chocolate-chip-cookies\">Chocolate Chip Cookie</a>. When it comes to chocolate, more is more!",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/242245/hls24_1654689966.m3u8",
+                    "canonical_id": "compilation:3197",
+                    "id": 3197,
+                    "video_id": 158715,
+                    "draft_status": "published",
+                    "language": "eng"
+                }
+            ],
+            "aspect_ratio": "1:1",
+            "draft_status": "published",
+            "credits": [
+                {
+                    "type": "internal",
+                    "name": "Katie Aubin"
+                },
+                {
+                    "type": "internal",
+                    "name": "Marissa Buie"
+                }
+            ],
+            "is_one_top": false,
+            "is_shoppable": true,
+            "total_time_tier": null,
+            "name": "Mint Chocolate Cookie Dome Cake",
+            "canonical_id": "recipe:4790",
+            "servings_noun_singular": "serving",
+            "tags": [
+                {
+                    "type": "equipment",
+                    "name": "liquid_measuring_cup",
+                    "id": 1280506,
+                    "display_name": "Liquid Measuring Cup"
+                },
+                {
+                    "type": "occasion",
+                    "name": "indulgent_sweets",
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets"
+                },
+                {
+                    "name": "measuring_spoons",
+                    "id": 1280508,
+                    "display_name": "Measuring Spoons",
+                    "type": "equipment"
+                },
+                {
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups",
+                    "type": "equipment"
+                },
+                {
+                    "display_name": "Freezer",
+                    "type": "appliance",
+                    "name": "freezer",
+                    "id": 65843
+                },
+                {
+                    "display_name": "Spatula",
+                    "type": "equipment",
+                    "name": "spatula",
+                    "id": 1247788
+                },
+                {
+                    "name": "desserts",
+                    "id": 64485,
+                    "display_name": "Desserts",
+                    "type": "meal"
+                },
+                {
+                    "name": "special_occasion",
+                    "id": 188967,
+                    "display_name": "Special Occasion",
+                    "type": "occasion"
+                },
+                {
+                    "display_name": "Casual Party",
+                    "type": "occasion",
+                    "name": "casual_party",
+                    "id": 64503
+                },
+                {
+                    "name": "cake_pan",
+                    "id": 1247768,
+                    "display_name": "Cake Pan",
+                    "type": "equipment"
+                },
+                {
+                    "id": 65846,
+                    "display_name": "Oven",
+                    "type": "appliance",
+                    "name": "oven"
+                },
+                {
+                    "name": "hand_mixer",
+                    "id": 65844,
+                    "display_name": "Hand Mixer",
+                    "type": "appliance"
+                },
+                {
+                    "id": 1247775,
+                    "display_name": "Oven Mitts",
+                    "type": "equipment",
+                    "name": "oven_mitts"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "peppermint_pattie",
+                    "id": 6361741,
+                    "display_name": "Peppermint Pattie"
+                },
+                {
+                    "name": "st_patrick_s_day",
+                    "id": 6711300,
+                    "display_name": "St. Patrick's Day",
+                    "type": "holiday"
+                }
+            ],
+            "buzz_id": null,
+            "created_at": 1551119805,
+            "instructions": [
+                {
+                    "start_time": 0,
+                    "appliance": "oven",
+                    "end_time": 0,
+                    "temperature": 350,
+                    "id": 44205,
+                    "position": 1,
+                    "display_text": "Preheat the oven to 350˚F (180˚C)."
+                },
+                {
+                    "end_time": 30000,
+                    "temperature": null,
+                    "id": 44206,
+                    "position": 2,
+                    "display_text": "Prepare the brownie batter according to the package instructions. Pour the batter into a greased 9-inch (22 cm) round cake pan. Bake according to the package instructions, about 30 minutes, until a knife inserted in the center comes out clean. Let cool completely.",
+                    "start_time": 3000,
+                    "appliance": null
+                },
+                {
+                    "end_time": 58666,
+                    "temperature": null,
+                    "id": 44207,
+                    "position": 3,
+                    "display_text": "In a large bowl, beat the cold heavy cream with an electric hand mixer until soft peaks form. Fold in the peppermint extract, sugar, and green food coloring with a rubber spatula until incorporated.",
+                    "start_time": 34000,
+                    "appliance": null
+                },
+                {
+                    "temperature": null,
+                    "id": 44208,
+                    "position": 4,
+                    "display_text": "In a medium bowl, pour the hot heavy cream over the white chocolate chips. Let sit for 1 minute, then stir with a rubber spatula until smooth. Fold the white chocolate mixture into the whipped cream until no streaks remain. Fold in the mini chocolate chips and crushed mint chocolate cookies.",
+                    "start_time": 60000,
+                    "appliance": null,
+                    "end_time": 94666
+                },
+                {
+                    "start_time": 96000,
+                    "appliance": null,
+                    "end_time": 112000,
+                    "temperature": null,
+                    "id": 44209,
+                    "position": 5,
+                    "display_text": "Line a 10-inch (25 cm) diameter bowl with the whole mint chocolate cookies. Carefully pour the whipped cream mixture over the cookies and spread evenly. Place the brownie upside down on top and lightly press into the cream."
+                },
+                {
+                    "temperature": null,
+                    "id": 44210,
+                    "position": 6,
+                    "display_text": "Cover and freeze until solid, at least 5 hours or overnight.",
+                    "start_time": 0,
+                    "appliance": null,
+                    "end_time": 0
+                },
+                {
+                    "start_time": 115000,
+                    "appliance": null,
+                    "end_time": 128833,
+                    "temperature": null,
+                    "id": 44211,
+                    "position": 7,
+                    "display_text": "Invert the bowl onto a serving plate and let the the ice cream dome to release from the bowl. Slice and serve, garnished with fresh mint."
+                },
+                {
+                    "position": 8,
+                    "display_text": "Enjoy!",
+                    "start_time": 131000,
+                    "appliance": null,
+                    "end_time": 132666,
+                    "temperature": null,
+                    "id": 44212
+                }
+            ],
+            "price": {
+                "total": 3400,
+                "updated_at": "2023-01-17T06:17:39+01:00",
+                "portion": 450,
+                "consumption_total": 2600,
+                "consumption_portion": 350
+            },
+            "id": 4790,
+            "brand": null,
+            "sections": [
+                {
+                    "name": null,
+                    "position": 1,
+                    "components": [
+                        {
+                            "raw_text": "1 10-oz box brownie mix, batter prepared according to package instructions",
+                            "extra_comment": "1 box, batter prepared according to package instructions",
+                            "ingredient": {
+                                "updated_at": 1509035253,
+                                "name": "brownie mix",
+                                "created_at": 1495223523,
+                                "display_plural": "brownie mixes",
+                                "id": 538,
+                                "display_singular": "brownie mix"
+                            },
+                            "id": 51353,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "285",
+                                    "id": 429821
+                                },
+                                {
+                                    "id": 429820,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "ounce",
+                                        "display_plural": "oz",
+                                        "display_singular": "oz",
+                                        "abbreviation": "oz"
+                                    },
+                                    "quantity": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "quantity": "780",
+                                    "id": 429815,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "milliliter",
+                                        "display_plural": "mL",
+                                        "display_singular": "mL",
+                                        "abbreviation": "mL"
+                                    }
+                                },
+                                {
+                                    "unit": {
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial"
+                                    },
+                                    "quantity": "3 ¼",
+                                    "id": 429813
+                                }
+                            ],
+                            "raw_text": "3¼ cups cold heavy cream plus ½ cup, hot, divided",
+                            "extra_comment": "plus 1/2 (120 ml) cup, hot, divided",
+                            "ingredient": {
+                                "display_plural": "heavy creams",
+                                "id": 221,
+                                "display_singular": "heavy cream",
+                                "updated_at": 1509035278,
+                                "name": "heavy cream",
+                                "created_at": 1494214054
+                            },
+                            "id": 51354,
+                            "position": 2
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "name": "peppermint extract",
+                                "created_at": 1495419412,
+                                "display_plural": "peppermint extracts",
+                                "id": 599,
+                                "display_singular": "peppermint extract",
+                                "updated_at": 1509035248
+                            },
+                            "id": 51355,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "quantity": "½",
+                                    "id": 429811,
+                                    "unit": {
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial"
+                                    }
+                                }
+                            ],
+                            "raw_text": "½ teaspoon peppermint extract"
+                        },
+                        {
+                            "id": 51356,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "id": 429810,
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "100"
+                                },
+                                {
+                                    "id": 429809,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "½"
+                                }
+                            ],
+                            "raw_text": "½ cup granulated sugar",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1494989637,
+                                "display_plural": "granulated sugars",
+                                "id": 419,
+                                "display_singular": "granulated sugar",
+                                "updated_at": 1509035262,
+                                "name": "granulated sugar"
+                            }
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "drop",
+                                        "display_plural": "drops",
+                                        "display_singular": "drop",
+                                        "abbreviation": "drop",
+                                        "system": "none"
+                                    },
+                                    "quantity": "3",
+                                    "id": 429808
+                                }
+                            ],
+                            "raw_text": "3 drops green gel food coloring",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1544476990,
+                                "display_plural": "green gel food colorings",
+                                "id": 4984,
+                                "display_singular": "green gel food coloring",
+                                "updated_at": 1544476990,
+                                "name": "green gel food coloring"
+                            },
+                            "id": 51357,
+                            "position": 5
+                        },
+                        {
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1496505406,
+                                "display_plural": "white chocolate chips",
+                                "id": 1162,
+                                "display_singular": "white chocolate chip",
+                                "updated_at": 1509035204,
+                                "name": "white chocolate chip"
+                            },
+                            "id": 51358,
+                            "position": 6,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g"
+                                    },
+                                    "quantity": "175",
+                                    "id": 429818
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "1",
+                                    "id": 429816
+                                }
+                            ],
+                            "raw_text": "1 cup white chocolate chips"
+                        },
+                        {
+                            "raw_text": "1 cup mini chocolate chips",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035286,
+                                "name": "mini chocolate chips",
+                                "created_at": 1493430396,
+                                "display_plural": "mini chocolate chips",
+                                "id": 59,
+                                "display_singular": "mini chocolate chip"
+                            },
+                            "id": 51359,
+                            "position": 7,
+                            "measurements": [
+                                {
+                                    "id": 429819,
+                                    "unit": {
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram"
+                                    },
+                                    "quantity": "175"
+                                },
+                                {
+                                    "unit": {
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup"
+                                    },
+                                    "quantity": "1",
+                                    "id": 429817
+                                }
+                            ]
+                        },
+                        {
+                            "id": 51360,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none",
+                                        "name": ""
+                                    },
+                                    "quantity": "30",
+                                    "id": 429812
+                                }
+                            ],
+                            "raw_text": "30 mint chocolate cookies, crushed, plus 45 whole, divided",
+                            "extra_comment": "crushed plus 45 whole, divided",
+                            "ingredient": {
+                                "updated_at": 1551191610,
+                                "name": "mint chocolate cookies",
+                                "created_at": 1551191610,
+                                "display_plural": "mint chocolate cookies",
+                                "id": 5116,
+                                "display_singular": "mint chocolate cooky"
+                            }
+                        },
+                        {
+                            "extra_comment": "for garnish",
+                            "ingredient": {
+                                "display_singular": "fresh mint leaf",
+                                "updated_at": 1509035122,
+                                "name": "fresh mint leaf",
+                                "created_at": 1500886630,
+                                "display_plural": "fresh mint leaves",
+                                "id": 2546
+                            },
+                            "id": 51361,
+                            "position": 9,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 429814
+                                }
+                            ],
+                            "raw_text": "Fresh mint leaves, for garnish"
+                        }
+                    ]
+                }
+            ],
+            "nutrition": {},
+            "thumbnail_alt_text": "",
+            "facebook_posts": [],
+            "brand_id": null,
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/205439.jpg",
+            "updated_at": 1560180067,
+            "renditions": [
+                {
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/125541/square_720/1551119544_00001.png",
+                    "file_size": 35977715,
+                    "url": "https://vid.tasty.co/output/125541/square_720/1551119544",
+                    "duration": 146564,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "container": "mp4",
+                    "bit_rate": 1964,
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "height": 720
+                },
+                {
+                    "duration": 146564,
+                    "aspect": "square",
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "height": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/125541/square_320/1551119544_00001.png",
+                    "file_size": 12479604,
+                    "url": "https://vid.tasty.co/output/125541/square_320/1551119544",
+                    "name": "mp4_320x320",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "bit_rate": 682,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "duration": 146564,
+                    "bit_rate": 1966,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "height": 720,
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/125541/landscape_720/1551119544_00001.png",
+                    "file_size": 36007848,
+                    "url": "https://vid.tasty.co/output/125541/landscape_720/1551119544",
+                    "aspect": "square"
+                },
+                {
+                    "aspect": "square",
+                    "width": 480,
+                    "minimum_bit_rate": null,
+                    "height": 480,
+                    "url": "https://vid.tasty.co/output/125541/landscape_480/1551119544",
+                    "bit_rate": 1129,
+                    "content_type": "video/mp4",
+                    "duration": 146564,
+                    "name": "mp4_480x480",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/125541/landscape_480/1551119544_00001.png",
+                    "file_size": 20668924
+                },
+                {
+                    "container": "ts",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/125541/hls24_1551119544.m3u8",
+                    "bit_rate": null,
+                    "name": "low",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/125541/1445289064805-h2exzu/1551119544_00001.png",
+                    "duration": 146564,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080,
+                    "minimum_bit_rate": 272,
+                    "maximum_bit_rate": 3468,
+                    "height": 1080
+                }
+            ],
+            "seo_title": "Mint Chocolate Cookie Dome Made With Brownies And Mousse",
+            "yields": "Servings: 8",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/7755782e4d99424abedd667f1d13b2d0/OO.mp4",
+            "user_ratings": {
+                "count_positive": 282,
+                "score": 0.92459,
+                "count_negative": 23
+            },
+            "video_id": 78271,
+            "description": "This Mint Chocolate Cookie Dome is quick to assemble and will have everyone talking. The cookies give crunch on the outside, the brownie serves as a soft chewy base, and the mousse inside perfectly balances mint flavor and sweetness.  Serve it at a fun dinner party or even a St. Patrick’s Day celebration.",
+            "keywords": ", brownie, chocolate lover, cookie dome, crowd pleaser, holiday dessert, how to bake, how to make icecream, indulgent, mint chocolate, mint dessert, st. patrick's day, tasty, tasty tips",
+            "tips_and_ratings_enabled": true,
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "cook_time_minutes": 30,
+            "promotion": "full",
+            "slug": "mint-chocolate-cookie-dome-cake"
+        },
+        {
+            "created_at": 1499741543,
+            "total_time_minutes": null,
+            "renditions": [
+                {
+                    "duration": 0,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/14246/1445289064805-h2exzu/1478649778_00001.png",
+                    "bit_rate": null,
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square",
+                    "width": 1080,
+                    "name": "low",
+                    "height": 1080,
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/14246/low_1478649778.m3u8"
+                },
+                {
+                    "height": 720,
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/14246/mp4_1280X720/1478649778_00001.png",
+                    "bit_rate": null,
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "maximum_bit_rate": null,
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/14246/mp4_1280X720/1478649778",
+                    "duration": 0,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "name": "mp4_720x720"
+                },
+                {
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/14246/mp4_640x640/1478649778",
+                    "duration": 0,
+                    "width": 640,
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "bit_rate": null,
+                    "content_type": "video/mp4",
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_640x640",
+                    "height": 640,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/14246/mp4_640x640/1478649778_00001.png"
+                },
+                {
+                    "container": "mp4",
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/14246/mp4_720x1280/1478649778_00001.png",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/14246/mp4_720x1280/1478649778",
+                    "bit_rate": null,
+                    "aspect": "square",
+                    "height": 720,
+                    "duration": 0,
+                    "content_type": "video/mp4",
+                    "width": 720,
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Kid Friendly",
+                    "slug": "kid-friendly"
+                },
+                {
+                    "slug": "no-bake-desserts",
+                    "name": "No Bake Desserts"
+                },
+                {
+                    "name": "Desserts",
+                    "slug": "desserts"
+                },
+                {
+                    "slug": "american",
+                    "name": "American"
+                }
+            ],
+            "nutrition_visibility": "auto",
+            "instructions": [
+                {
+                    "start_time": 64000,
+                    "appliance": null,
+                    "end_time": 66649,
+                    "temperature": null,
+                    "id": 12876,
+                    "position": 1,
+                    "display_text": "In a medium bowl, mix coconut oil and chocolate. Melt in microwave for 60 seconds. Stir every 15 seconds until melted."
+                },
+                {
+                    "temperature": null,
+                    "id": 12877,
+                    "position": 2,
+                    "display_text": "Add extract into melted chocolate.",
+                    "start_time": 67680,
+                    "appliance": null,
+                    "end_time": 69000
+                },
+                {
+                    "position": 3,
+                    "display_text": "Place cereal in large bowl. Mix in melted chocolate and stir until evenly coated.",
+                    "start_time": 70000,
+                    "appliance": null,
+                    "end_time": 73169,
+                    "temperature": null,
+                    "id": 12878
+                },
+                {
+                    "position": 4,
+                    "display_text": "In a large plastic bag, add powdered sugar and cocoa powder.",
+                    "start_time": 75000,
+                    "appliance": null,
+                    "end_time": 79899,
+                    "temperature": null,
+                    "id": 12879
+                },
+                {
+                    "start_time": 81000,
+                    "appliance": null,
+                    "end_time": 87990,
+                    "temperature": null,
+                    "id": 12880,
+                    "position": 5,
+                    "display_text": "Close and shake until each cereal is coated with sugar. Add in mint chocolate candies."
+                },
+                {
+                    "start_time": 89000,
+                    "appliance": null,
+                    "end_time": 90000,
+                    "temperature": null,
+                    "id": 12881,
+                    "position": 6,
+                    "display_text": "Enjoy!"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "microwave",
+                    "id": 65845,
+                    "display_name": "Microwave",
+                    "type": "appliance"
+                },
+                {
+                    "name": "american",
+                    "id": 64444,
+                    "display_name": "American",
+                    "type": "cuisine"
+                },
+                {
+                    "id": 65850,
+                    "display_name": "Indulgent Sweets",
+                    "type": "occasion",
+                    "name": "indulgent_sweets"
+                },
+                {
+                    "name": "kid_friendly",
+                    "id": 64488,
+                    "display_name": "Kid-Friendly",
+                    "type": "cooking_style"
+                },
+                {
+                    "name": "no_bake_desserts",
+                    "id": 65854,
+                    "display_name": "No Bake Desserts",
+                    "type": "cooking_style"
+                },
+                {
+                    "display_name": "Desserts",
+                    "type": "meal",
+                    "name": "desserts",
+                    "id": 64485
+                },
+                {
+                    "display_name": "Game Day",
+                    "type": "holiday",
+                    "name": "game_day",
+                    "id": 64501
+                },
+                {
+                    "name": "casual_party",
+                    "id": 64503,
+                    "display_name": "Casual Party",
+                    "type": "occasion"
+                },
+                {
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy",
+                    "type": "difficulty"
+                },
+                {
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl",
+                    "type": "equipment"
+                },
+                {
+                    "name": "spatula",
+                    "id": 1247788,
+                    "display_name": "Spatula",
+                    "type": "equipment"
+                },
+                {
+                    "name": "zipper_storage_bags",
+                    "id": 1247796,
+                    "display_name": "Zipper Storage Bags",
+                    "type": "equipment"
+                },
+                {
+                    "name": "peppermint_pattie",
+                    "id": 6361741,
+                    "display_name": "Peppermint Pattie",
+                    "type": "feature_page"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "live_shop_all",
+                    "id": 7560083,
+                    "display_name": "Live Shop All"
+                },
+                {
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free",
+                    "type": "dietary"
+                }
+            ],
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/89d7cd6b48cd42fc8f123b324301b8f6/snack_4_way-FB_final.jpg",
+            "credits": [
+                {
+                    "name": "Hitomi Aihara",
+                    "type": "internal"
+                }
+            ],
+            "approved_at": 1544127444,
+            "is_one_top": false,
+            "servings_noun_plural": "servings",
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "description": "",
+            "draft_status": "published",
+            "total_time_tier": null,
+            "video_id": 8108,
+            "brand": null,
+            "show_id": 17,
+            "brand_id": null,
+            "yields": "Serving 6-10",
+            "cook_time_minutes": null,
+            "country": "ZZ",
+            "keywords": null,
+            "language": "eng",
+            "video_ad_content": "none",
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/46268e09ab3f472d82006a30240cd801/snack_4_way-FB_final.mp4",
+            "facebook_posts": [],
+            "user_ratings": {
+                "count_positive": 141,
+                "score": 0.921569,
+                "count_negative": 12
+            },
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "raw_text": "1 teaspoon peppermint extract",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "created_at": 1495419412,
+                                "display_plural": "peppermint extracts",
+                                "id": 599,
+                                "display_singular": "peppermint extract",
+                                "updated_at": 1509035248,
+                                "name": "peppermint extract"
+                            },
+                            "id": 15374,
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "teaspoon",
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp"
+                                    },
+                                    "quantity": "1",
+                                    "id": 538847
+                                }
+                            ]
+                        },
+                        {
+                            "raw_text": "5 cups rice cereal",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "rice cereals",
+                                "id": 2021,
+                                "display_singular": "rice cereal",
+                                "updated_at": 1509035149,
+                                "name": "rice cereal",
+                                "created_at": 1499889946
+                            },
+                            "id": 15375,
+                            "position": 2,
+                            "measurements": [
+                                {
+                                    "id": 538851,
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "150"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "5",
+                                    "id": 538849
+                                }
+                            ]
+                        },
+                        {
+                            "ingredient": {
+                                "id": 144,
+                                "display_singular": "powdered sugar",
+                                "updated_at": 1509035283,
+                                "name": "powdered sugar",
+                                "created_at": 1493747135,
+                                "display_plural": "powdered sugars"
+                            },
+                            "id": 15376,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g"
+                                    },
+                                    "quantity": "110",
+                                    "id": 538845
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1",
+                                    "id": 538843
+                                }
+                            ],
+                            "raw_text": "1 cup powdered sugar",
+                            "extra_comment": ""
+                        },
+                        {
+                            "raw_text": "¼ cup cocoa powder",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "updated_at": 1509035277,
+                                "name": "cocoa powder",
+                                "created_at": 1494295698,
+                                "display_plural": "cocoa powders",
+                                "id": 238,
+                                "display_singular": "cocoa powder"
+                            },
+                            "id": 15377,
+                            "position": 4,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "metric",
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g"
+                                    },
+                                    "quantity": "30",
+                                    "id": 538844
+                                },
+                                {
+                                    "id": 538842,
+                                    "unit": {
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c",
+                                        "system": "imperial",
+                                        "name": "cup"
+                                    },
+                                    "quantity": "¼"
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "id": 538853,
+                                    "unit": {
+                                        "name": "gram",
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric"
+                                    },
+                                    "quantity": "90"
+                                },
+                                {
+                                    "quantity": "½",
+                                    "id": 538852,
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    }
+                                }
+                            ],
+                            "raw_text": "½ cup mint chocolate candies",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_plural": "mint chocolate candies",
+                                "id": 2157,
+                                "display_singular": "mint chocolate candy",
+                                "updated_at": 1509035140,
+                                "name": "mint chocolate candy",
+                                "created_at": 1500172587
+                            },
+                            "id": 15378,
+                            "position": 5
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "measurements": [
+                                {
+                                    "id": 538850,
+                                    "unit": {
+                                        "display_plural": "g",
+                                        "display_singular": "g",
+                                        "abbreviation": "g",
+                                        "system": "metric",
+                                        "name": "gram"
+                                    },
+                                    "quantity": "255"
+                                },
+                                {
+                                    "unit": {
+                                        "system": "imperial",
+                                        "name": "cup",
+                                        "display_plural": "cups",
+                                        "display_singular": "cup",
+                                        "abbreviation": "c"
+                                    },
+                                    "quantity": "1 ½",
+                                    "id": 538846
+                                }
+                            ],
+                            "raw_text": "1 ½ cups semisweet chocolate",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "semi sweet chocolate",
+                                "updated_at": 1509035210,
+                                "name": "semi sweet chocolate",
+                                "created_at": 1496288668,
+                                "display_plural": "semi sweet chocolates",
+                                "id": 1079
+                            },
+                            "id": 15380,
+                            "position": 7
+                        },
+                        {
+                            "ingredient": {
+                                "updated_at": 1509035268,
+                                "name": "coconut oil",
+                                "created_at": 1494881209,
+                                "display_plural": "coconut oils",
+                                "id": 341,
+                                "display_singular": "coconut oil"
+                            },
+                            "id": 15381,
+                            "position": 8,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "display_plural": "teaspoons",
+                                        "display_singular": "teaspoon",
+                                        "abbreviation": "tsp",
+                                        "system": "imperial",
+                                        "name": "teaspoon"
+                                    },
+                                    "quantity": "1",
+                                    "id": 538848
+                                }
+                            ],
+                            "raw_text": "1 teaspoon coconut oil",
+                            "extra_comment": ""
+                        }
+                    ],
+                    "name": "Chocolate Mix",
+                    "position": 2
+                }
+            ],
+            "canonical_id": "recipe:1418",
+            "promotion": "full",
+            "servings_noun_singular": "serving",
+            "prep_time_minutes": null,
+            "buzz_id": null,
+            "inspired_by_url": null,
+            "video_url": "https://vid.tasty.co/output/14246/low_1478649778.m3u8",
+            "seo_title": null,
+            "id": 1418,
+            "name": "Mint Chocolate Snack Mix",
+            "aspect_ratio": "1:1",
+            "thumbnail_alt_text": "",
+            "is_shoppable": true,
+            "compilations": [
+                {
+                    "created_at": 1499741543,
+                    "thumbnail_url": "https://img.buzzfeed.com/video-api-prod/assets/c6011be523014a6eaf65c7393dd1dcbc/FBB.jpg",
+                    "thumbnail_alt_text": "",
+                    "buzz_id": null,
+                    "slug": "snack-mix-4-ways",
+                    "facebook_posts": [],
+                    "country": "ZZ",
+                    "is_shoppable": false,
+                    "draft_status": "published",
+                    "id": 32,
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "approved_at": 1500936151,
+                    "name": "Snack Mix 4 ways",
+                    "beauty_url": null,
+                    "video_id": 8108,
+                    "language": "eng",
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "video_url": "https://vid.tasty.co/output/14246/low_1478649778.m3u8",
+                    "canonical_id": "compilation:32",
+                    "keywords": null
+                },
+                {
+                    "aspect_ratio": "1:1",
+                    "created_at": 1544038514,
+                    "slug": "peppermint-treats-for-a-sweet-holiday",
+                    "promotion": "full",
+                    "video_id": 73060,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/193920.jpg",
+                    "name": "Peppermint Treats For A Sweet Holiday",
+                    "country": "US",
+                    "keywords": null,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "draft_status": "published",
+                    "approved_at": 1544135444,
+                    "canonical_id": "compilation:813",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "is_shoppable": false,
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/118583/hls24_1544130907.m3u8",
+                    "id": 813
+                },
+                {
+                    "language": "eng",
+                    "buzz_id": null,
+                    "slug": "recipes-to-put-some-pep-in-your-step",
+                    "description": "Tasty Café: Try some of these amazing recipes to pair with your <a href=\"https://tasty.co/recipe/york-peppermint-pattie-inspired-latte\">York Peppermint Pattie-Inspired Latte</a> and give your morning a fresh start. ",
+                    "name": "Recipes To Put Some Pep In Your Step",
+                    "canonical_id": "compilation:1846",
+                    "video_id": 118440,
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1605728640,
+                    "beauty_url": null,
+                    "country": "US",
+                    "is_shoppable": true,
+                    "keywords": null,
+                    "draft_status": "published",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/294284.jpg",
+                    "id": 1846,
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "created_at": 1605716918,
+                    "video_url": "https://vid.tasty.co/output/185494/hls24_1605665533.m3u8"
+                }
+            ],
+            "num_servings": 6,
+            "tips_and_ratings_enabled": true,
+            "updated_at": 1560184377,
+            "beauty_url": null,
+            "price": {
+                "updated_at": "2023-01-17T06:02:25+01:00",
+                "portion": 400,
+                "consumption_total": 2100,
+                "consumption_portion": 350,
+                "total": 2300
+            },
+            "slug": "mint-chocolate-snack-mix",
+            "nutrition": {
+                "protein": 8,
+                "fat": 16,
+                "calories": 641,
+                "sugar": 50,
+                "carbohydrates": 118,
+                "fiber": 3,
+                "updated_at": "2021-05-03T13:24:19+02:00"
+            }
+        },
+        {
+            "created_at": 1532392155,
+            "user_ratings": {
+                "count_positive": 429,
+                "score": 0.914712,
+                "count_negative": 40
+            },
+            "prep_time_minutes": null,
+            "compilations": [
+                {
+                    "language": "eng",
+                    "buzz_id": null,
+                    "aspect_ratio": "1:1",
+                    "keywords": null,
+                    "slug": "9-crazy-easy-ways-to-cook-eggs",
+                    "promotion": "full",
+                    "created_at": 1532391489,
+                    "id": 623,
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/df5334cf761444d0af1eb9fb39fef0d7/eggsfinalFB.jpg",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/103217/hls24_1532627187.m3u8",
+                    "approved_at": 1532745310,
+                    "name": "9 Crazy Easy Ways to Cook Eggs",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "canonical_id": "compilation:623",
+                    "beauty_url": null,
+                    "draft_status": "published",
+                    "video_id": 60948,
+                    "facebook_posts": [],
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ]
+                },
+                {
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "draft_status": "published",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/185124.jpg",
+                    "name": "7 Creative Ways To Use Eggs",
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "keywords": null,
+                    "language": "eng",
+                    "slug": "7-creative-ways-to-use-eggs",
+                    "video_id": 71371,
+                    "country": "US",
+                    "description": null,
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1542658572,
+                    "canonical_id": "compilation:696",
+                    "is_shoppable": false,
+                    "facebook_posts": [],
+                    "created_at": 1540404054,
+                    "video_url": "https://vid.tasty.co/output/149284/hls24_1571781718.m3u8",
+                    "id": 696
+                },
+                {
+                    "created_at": 1560320529,
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/220576.jpg",
+                    "video_url": "https://vid.tasty.co/output/135767/hls24_1560321146.m3u8",
+                    "id": 968,
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "facebook_posts": [],
+                    "buzz_id": null,
+                    "video_id": 85341,
+                    "canonical_id": "compilation:968",
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "name": "10 Easy Egg Recipes You'll Crave Everyday",
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1560394140,
+                    "promotion": "full",
+                    "keywords": null,
+                    "description": "You’re an egg-celent chef, we all know it, but sometimes that egg carton that’s lurking in the back of your fridge can throw even the best of chefs for a loop. After all, how many omelets can you eat? That’s why we’re here to switch it up, challenging you with some egg-citing recipes like an Israeli <a href=\"https://tasty.co/recipe/poached-eggs-in-tomato-sauce-shakshouka\">shakshouka</a> or even a <a href=\"https://tasty.co/recipe/egg-noodles\">keto-friendly egg noodle</a>! Time to egg-sperience egg heaven. (Ok, we’re done now, promise).\n",
+                    "draft_status": "published",
+                    "beauty_url": null,
+                    "slug": "10-easy-egg-recipes-you-ll-crave-everyday"
+                },
+                {
+                    "keywords": null,
+                    "created_at": 1561446821,
+                    "approved_at": 1565904649,
+                    "canonical_id": "compilation:995",
+                    "beauty_url": null,
+                    "slug": "easy-and-delicious-egg-recipes-anyone-can-make",
+                    "video_id": 86193,
+                    "facebook_posts": [],
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/222372.jpg",
+                    "thumbnail_alt_text": "",
+                    "name": "Easy And Delicious Egg Recipes Anyone Can Make",
+                    "promotion": "full",
+                    "country": "US",
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "draft_status": "published",
+                    "language": "eng",
+                    "video_url": "https://vid.tasty.co/output/137051/hls24_1561447439.m3u8",
+                    "aspect_ratio": "1:1",
+                    "id": 995,
+                    "buzz_id": null
+                },
+                {
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/fda823d06891426d9f0cd73aa47db8f5/EGGFB.jpg",
+                    "canonical_id": "compilation:1330",
+                    "video_id": 96630,
+                    "keywords": null,
+                    "created_at": 1576465442,
+                    "draft_status": "published",
+                    "video_url": "https://vid.tasty.co/output/154960/hls24_1576222059.m3u8",
+                    "beauty_url": null,
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1576793206,
+                    "name": "12 Amazing Ways To Cook Your Eggs",
+                    "id": 1330,
+                    "buzz_id": null,
+                    "slug": "12-amazing-ways-to-cook-your-eggs",
+                    "facebook_posts": [],
+                    "description": null,
+                    "language": "eng",
+                    "promotion": "full"
+                },
+                {
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/263761.jpg",
+                    "name": "10 Trendy Egg Recipes",
+                    "canonical_id": "compilation:1476",
+                    "slug": "10-trendy-egg-recipes",
+                    "promotion": "full",
+                    "video_id": 104370,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "is_shoppable": false,
+                    "keywords": null,
+                    "country": "US",
+                    "thumbnail_alt_text": "",
+                    "video_url": "https://vid.tasty.co/output/165971/hls24_1588065642.m3u8",
+                    "created_at": 1589346169,
+                    "facebook_posts": [],
+                    "draft_status": "published",
+                    "language": "eng",
+                    "approved_at": 1593175475,
+                    "id": 1476,
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "aspect_ratio": "16:9"
+                },
+                {
+                    "keywords": null,
+                    "video_url": "https://vid.tasty.co/output/185494/hls24_1605665533.m3u8",
+                    "approved_at": 1605728640,
+                    "is_shoppable": true,
+                    "created_at": 1605716918,
+                    "description": "Tasty Café: Try some of these amazing recipes to pair with your <a href=\"https://tasty.co/recipe/york-peppermint-pattie-inspired-latte\">York Peppermint Pattie-Inspired Latte</a> and give your morning a fresh start. ",
+                    "language": "eng",
+                    "name": "Recipes To Put Some Pep In Your Step",
+                    "id": 1846,
+                    "show": [
+                        {
+                            "id": 17,
+                            "name": "Tasty"
+                        }
+                    ],
+                    "beauty_url": null,
+                    "buzz_id": null,
+                    "slug": "recipes-to-put-some-pep-in-your-step",
+                    "facebook_posts": [],
+                    "country": "US",
+                    "draft_status": "published",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/294284.jpg",
+                    "thumbnail_alt_text": "",
+                    "canonical_id": "compilation:1846",
+                    "promotion": "full",
+                    "video_id": 118440,
+                    "aspect_ratio": "1:1"
+                },
+                {
+                    "is_shoppable": false,
+                    "facebook_posts": [],
+                    "description": "The first meal of the day is the most important. Whip up a simple <a href=\"https://tasty.co/recipe/super-fluffy-omelet\">fluffy omelet</a>. Out of eggs? Try a high-protein <a href=\"https://tasty.co/recipe/chickpea-flour-omelet\">chickpea omelet</a>. Or really treat yourself with an indulgent and super crave-worthy <a href=\"https://tasty.co/recipe/stuffed-hash-brown-omelette\">stuffed hash brown omelet</a>. \n\nIt's time you start waking up to flavor!",
+                    "draft_status": "published",
+                    "buzz_id": null,
+                    "country": "US",
+                    "video_url": "https://vid.tasty.co/output/191722/hls24_1611897350.m3u8",
+                    "promotion": "full",
+                    "language": "eng",
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/305081.jpg",
+                    "canonical_id": "compilation:2113",
+                    "beauty_url": null,
+                    "slug": "omelets-made-6-ways",
+                    "video_id": 122338,
+                    "created_at": 1611896751,
+                    "keywords": null,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "thumbnail_alt_text": "",
+                    "approved_at": 1612445890,
+                    "name": "Omelets Made 6 Ways",
+                    "id": 2113,
+                    "aspect_ratio": "1:1"
+                },
+                {
+                    "promotion": "full",
+                    "aspect_ratio": "1:1",
+                    "country": "US",
+                    "created_at": 1638958961,
+                    "language": "eng",
+                    "canonical_id": "compilation:2998",
+                    "buzz_id": null,
+                    "slug": "eggs-for-breakfast",
+                    "facebook_posts": [],
+                    "draft_status": "published",
+                    "thumbnail_alt_text": "Eggs For Breakfast",
+                    "approved_at": 1640011982,
+                    "beauty_url": null,
+                    "video_id": 148099,
+                    "keywords": null,
+                    "id": 2998,
+                    "is_shoppable": false,
+                    "show": [
+                        {
+                            "name": "Tasty",
+                            "id": 17
+                        }
+                    ],
+                    "description": null,
+                    "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/356775.jpg",
+                    "video_url": "https://vid.tasty.co/output/225392/hls24_1638959754.m3u8",
+                    "name": "Eggs For Breakfast"
+                }
+            ],
+            "description": null,
+            "renditions": [
+                {
+                    "url": "https://vid.tasty.co/output/103217/square_720/1532627187",
+                    "aspect": "square",
+                    "width": 720,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/103217/square_720/1532627187_00001.png",
+                    "file_size": 67935885,
+                    "bit_rate": 2285,
+                    "content_type": "video/mp4",
+                    "minimum_bit_rate": null,
+                    "height": 720,
+                    "container": "mp4",
+                    "duration": 237866
+                },
+                {
+                    "name": "mp4_320x320",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "url": "https://vid.tasty.co/output/103217/square_320/1532627187",
+                    "duration": 237866,
+                    "bit_rate": 768,
+                    "width": 320,
+                    "minimum_bit_rate": null,
+                    "height": 320,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/103217/square_320/1532627187_00001.png",
+                    "file_size": 22824017,
+                    "content_type": "video/mp4",
+                    "aspect": "square"
+                },
+                {
+                    "aspect": "square",
+                    "minimum_bit_rate": null,
+                    "name": "mp4_720x720",
+                    "maximum_bit_rate": null,
+                    "container": "mp4",
+                    "file_size": 67926602,
+                    "url": "https://vid.tasty.co/output/103217/landscape_720/1532627187",
+                    "duration": 237866,
+                    "height": 720,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/103217/landscape_720/1532627187_00001.png",
+                    "bit_rate": 2285,
+                    "content_type": "video/mp4",
+                    "width": 720
+                },
+                {
+                    "maximum_bit_rate": null,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/103217/landscape_480/1532627187_00001.png",
+                    "duration": 237866,
+                    "bit_rate": 1314,
+                    "minimum_bit_rate": null,
+                    "aspect": "square",
+                    "width": 480,
+                    "name": "mp4_480x480",
+                    "height": 480,
+                    "container": "mp4",
+                    "file_size": 39057039,
+                    "url": "https://vid.tasty.co/output/103217/landscape_480/1532627187",
+                    "content_type": "video/mp4"
+                },
+                {
+                    "duration": 237863,
+                    "bit_rate": null,
+                    "width": 1080,
+                    "minimum_bit_rate": 274,
+                    "container": "ts",
+                    "file_size": null,
+                    "url": "https://vid.tasty.co/output/103217/hls24_1532627187.m3u8",
+                    "name": "low",
+                    "maximum_bit_rate": 3987,
+                    "height": 1080,
+                    "poster_url": "https://img.buzzfeed.com/video-transcoder-prod/output/103217/1445289064805-h2exzu/1532627187_00001.png",
+                    "content_type": "application/vnd.apple.mpegurl",
+                    "aspect": "square"
+                }
+            ],
+            "topics": [
+                {
+                    "name": "5 Ingredients or Less",
+                    "slug": "5-ingredients-or-less"
+                },
+                {
+                    "name": "Best Vegetarian",
+                    "slug": "best-vegetarian"
+                },
+                {
+                    "name": "Sunday Brunch",
+                    "slug": "brunch"
+                },
+                {
+                    "name": "Kid Friendly",
+                    "slug": "kid-friendly"
+                },
+                {
+                    "name": "Breakfast",
+                    "slug": "breakfast"
+                }
+            ],
+            "facebook_posts": [],
+            "brand": null,
+            "sections": [
+                {
+                    "components": [
+                        {
+                            "position": 1,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "2",
+                                    "id": 544373
+                                }
+                            ],
+                            "raw_text": "2 eggs, beaten",
+                            "extra_comment": "beaten",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "egg",
+                                "created_at": 1493314622,
+                                "display_plural": "eggs",
+                                "id": 19,
+                                "display_singular": "egg"
+                            },
+                            "id": 43516
+                        }
+                    ],
+                    "name": null,
+                    "position": 1
+                },
+                {
+                    "components": [
+                        {
+                            "raw_text": "Salt, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "updated_at": 1509035288,
+                                "name": "salt",
+                                "created_at": 1493314644,
+                                "display_plural": "salts",
+                                "id": 22,
+                                "display_singular": "salt"
+                            },
+                            "id": 43518,
+                            "position": 3,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    },
+                                    "quantity": "0",
+                                    "id": 544374
+                                }
+                            ]
+                        },
+                        {
+                            "measurements": [
+                                {
+                                    "quantity": "0",
+                                    "id": 544376,
+                                    "unit": {
+                                        "system": "none",
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": ""
+                                    }
+                                }
+                            ],
+                            "raw_text": "Pepper, to taste",
+                            "extra_comment": "to taste",
+                            "ingredient": {
+                                "updated_at": 1509035287,
+                                "name": "pepper",
+                                "created_at": 1493314935,
+                                "display_plural": "peppers",
+                                "id": 29,
+                                "display_singular": "pepper"
+                            },
+                            "id": 43519,
+                            "position": 4
+                        },
+                        {
+                            "position": 5,
+                            "measurements": [
+                                {
+                                    "unit": {
+                                        "name": "",
+                                        "display_plural": "",
+                                        "display_singular": "",
+                                        "abbreviation": "",
+                                        "system": "none"
+                                    },
+                                    "quantity": "0",
+                                    "id": 544375
+                                }
+                            ],
+                            "raw_text": "Nonstick cooking spray",
+                            "extra_comment": "",
+                            "ingredient": {
+                                "display_singular": "nonstick cooking spray",
+                                "updated_at": 1520176895,
+                                "name": "nonstick cooking spray",
+                                "created_at": 1520176895,
+                                "display_plural": "nonstick cooking sprays",
+                                "id": 3826
+                            },
+                            "id": 43520
+                        }
+                    ],
+                    "name": "Toppings",
+                    "position": 2
+                }
+            ],
+            "original_video_url": "https://s3.amazonaws.com/video-api-prod/assets/84560ba384d447039b4870a67a415e9b/eggsfinalFB.mp4",
+            "promotion": "full",
+            "name": "Waffle Omelette",
+            "tips_and_ratings_enabled": true,
+            "total_time_minutes": null,
+            "credits": [
+                {
+                    "name": "Matthew Johnson",
+                    "type": "internal"
+                }
+            ],
+            "seo_title": null,
+            "video_id": 60948,
+            "nutrition": {
+                "fiber": 0,
+                "updated_at": "2021-05-03T13:24:58+02:00",
+                "protein": 15,
+                "fat": 11,
+                "calories": 180,
+                "sugar": 0,
+                "carbohydrates": 0
+            },
+            "show": {
+                "name": "Tasty",
+                "id": 17
+            },
+            "draft_status": "published",
+            "inspired_by_url": null,
+            "video_url": "https://vid.tasty.co/output/103217/hls24_1532627187.m3u8",
+            "instructions": [
+                {
+                    "start_time": 152000,
+                    "appliance": null,
+                    "end_time": 163500,
+                    "temperature": null,
+                    "id": 37485,
+                    "position": 1,
+                    "display_text": "In a medium bowl, add the beaten eggs, any of your favorite toppings, salt, and pepper. Mix well."
+                },
+                {
+                    "start_time": 166000,
+                    "appliance": null,
+                    "end_time": 177833,
+                    "temperature": null,
+                    "id": 37486,
+                    "position": 2,
+                    "display_text": "Grease a waffle iron with nonstick spray.  Add the egg mixture and cook according to machine instruction to until the eggs are fully set and slightly browned, 2 minutes."
+                },
+                {
+                    "start_time": 177666,
+                    "appliance": null,
+                    "end_time": 180500,
+                    "temperature": null,
+                    "id": 37487,
+                    "position": 3,
+                    "display_text": "Remove the egg from the waffle iron and serve."
+                },
+                {
+                    "temperature": null,
+                    "id": 37488,
+                    "position": 4,
+                    "display_text": "Enjoy!",
+                    "start_time": 181166,
+                    "appliance": null,
+                    "end_time": 185666
+                }
+            ],
+            "id": 4220,
+            "show_id": 17,
+            "beauty_url": null,
+            "thumbnail_alt_text": "",
+            "updated_at": 1560180695,
+            "is_one_top": false,
+            "servings_noun_plural": "servings",
+            "cook_time_minutes": null,
+            "nutrition_visibility": "auto",
+            "slug": "waffle-omelette",
+            "tags": [
+                {
+                    "name": "brunch",
+                    "id": 64484,
+                    "display_name": "Brunch",
+                    "type": "occasion"
+                },
+                {
+                    "type": "difficulty",
+                    "name": "easy",
+                    "id": 64471,
+                    "display_name": "Easy"
+                },
+                {
+                    "name": "breakfast",
+                    "id": 64483,
+                    "display_name": "Breakfast",
+                    "type": "meal"
+                },
+                {
+                    "name": "kid_friendly",
+                    "id": 64488,
+                    "display_name": "Kid-Friendly",
+                    "type": "cooking_style"
+                },
+                {
+                    "type": "equipment",
+                    "name": "mixing_bowl",
+                    "id": 1280510,
+                    "display_name": "Mixing Bowl"
+                },
+                {
+                    "name": "pyrex",
+                    "id": 1247785,
+                    "display_name": "Pyrex",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "spatula",
+                    "id": 1247788,
+                    "display_name": "Spatula"
+                },
+                {
+                    "name": "chefs_knife",
+                    "id": 1280501,
+                    "display_name": "Chef's Knife",
+                    "type": "equipment"
+                },
+                {
+                    "name": "cutting_board",
+                    "id": 1280503,
+                    "display_name": "Cutting Board",
+                    "type": "equipment"
+                },
+                {
+                    "type": "equipment",
+                    "name": "dry_measuring_cups",
+                    "id": 1280507,
+                    "display_name": "Dry Measuring Cups"
+                },
+                {
+                    "type": "feature_page",
+                    "name": "peppermint_pattie",
+                    "id": 6361741,
+                    "display_name": "Peppermint Pattie"
+                },
+                {
+                    "display_name": "Low-Calorie",
+                    "type": "healthy",
+                    "name": "low_calorie",
+                    "id": 8091916
+                },
+                {
+                    "name": "5_ingredients_or_less",
+                    "id": 64470,
+                    "display_name": "5 Ingredients or Less",
+                    "type": "difficulty"
+                },
+                {
+                    "type": "dietary",
+                    "name": "dairy_free",
+                    "id": 64463,
+                    "display_name": "Dairy-Free"
+                },
+                {
+                    "name": "vegetarian",
+                    "id": 64469,
+                    "display_name": "Vegetarian",
+                    "type": "dietary"
+                }
+            ],
+            "num_servings": 1,
+            "approved_at": 1532745209,
+            "is_shoppable": true,
+            "video_ad_content": "none",
+            "canonical_id": "recipe:4220",
+            "country": "US",
+            "keywords": ", baking, best, best ever, boiled, buzzfeed, chef, classic, cloud egg, cook, cooking, easy, easy recipes, egg, egg recipes, food, fried, hard boiled egg, how to, how to bake, how to cook, how to cook eggs, matthew francis, matthew francis johnson, matthew johnson, noodles, omelette, pasta, perfect, poached, quick and easy, recipe, recipes, scrambled eggs, soft boiled egg, steamed, sunny side up, tasty, ultimate, waffle, yum, yummy",
+            "price": {
+                "total": 150,
+                "updated_at": "2023-01-17T06:04:11+01:00",
+                "portion": 150,
+                "consumption_total": 50,
+                "consumption_portion": 50
+            },
+            "buzz_id": null,
+            "aspect_ratio": "1:1",
+            "thumbnail_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4719bdcfc7e846d193c48868af66b45c/eggsfinalFB.jpg",
+            "total_time_tier": null,
+            "yields": "Servings: 1",
+            "language": "eng",
+            "servings_noun_singular": "serving",
+            "brand_id": null
+        }
+    ]
+}
