@@ -44,10 +44,6 @@ class tfidEmbeddingVectorizer(object):
         for doc in documents:
             textDocs.append(" ".join(doc))
 
-
-        print("SDHSHGSTA", textDocs)
-
-
         #tfidf vectorizer
         #opted for this as it will have more weight for the "rarer" ingredients - not garlic, salt, etc.
         tfidf = TfidfVectorizer()
@@ -104,12 +100,6 @@ def cleanIngredients(row):
 
     #will hold ingredient lists once they are cleaned up
     cleanedIngredientList = []
-
-    #convert str to list
-    try:
-        row = ast.literal_eval(row)
-    except ValueError:
-        pass
 
     #loop through individual ingredients in ingredient list
     for ingredient in row:
@@ -225,7 +215,6 @@ def cleanIngredientList(toRun):
     else:
         #Read data
         recipeData = pd.read_pickle('recipeDataDetailed.pickle')
-        print("DATA:", recipeData)
 
         #initialize empty column
         recipeData['cleanedIngredientList'] = None
