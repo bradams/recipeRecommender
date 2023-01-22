@@ -46,8 +46,11 @@ def fileToParse():
 				#add current id to the DF
 				recipeDataDF = recipeDataDF.append(recipeDataDict, ignore_index=True)
 
+
+	recipeDataDF.drop_duplicates(inplace=True)
+
 	#dump ids to CSV file
-	recipeDataDF.to_csv('recipeData.csv',index=False)
+	recipeDataDF.to_csv('recipeDataIDs.csv',index=False)
 
 
 
