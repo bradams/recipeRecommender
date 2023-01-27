@@ -200,8 +200,12 @@ def getRecommendations(N, scores, recipes):
     recommendation = pd.DataFrame(columns=["recipe", "ingredients", "score"])
     count = 0
     for i in topMatches:
+        print(recipes.columns)
         recommendation.at[count, "recipe"] = recipes["recipeName"][i]
-        recommendation.at[count, "ingredients"] = cleanIngredients(recipes["ingredient_list"][i])
+        recommendation.at[count, "cook time"] = recipes["total_time_minutes"][i]
+        recommendation.at[count, "ingredients"] = recipes["ingredient_list"][i]
+        recommendation.at[count, "instructions"] = str(recipes["instructions"][i])
+        recommendation.at[count, "url"] = recipes["videoURL"][i]
         recommendation.at[count, "score"] = round(scores[i],3)
 
         count += 1
@@ -245,9 +249,9 @@ if __name__ == '__main__':
     recipeData = pd.read_pickle('recipeDataFinal.pickle')
 
     #recommender system based on ingredients
-    trainWord2Vec(0, recipeData)
+    trainWord2Vec(1, recipeData)
 
 
-    print(createRecommendations(5, 'holiday sprinkles, cream cheese, gingerbread',recipeData))
+    print(createRecommendations(5, 'holiday sprinkles, cream cheese, gingerbread',recipeData).iloc[0,:])
 
 

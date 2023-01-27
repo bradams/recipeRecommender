@@ -10,9 +10,16 @@ from recipeRecommenderPickle import createRecommendations
 
 
 
+#TODO 
+#1) make the "click here for instructions" a clickable button that expands
+#2) make URL clickable
+
+
+
+
 #Initialize session state object
 st.session_state['userInput'] = ''
-st.session_state['recipeDF'] = pd.read_pickle('C:/Users/bradl/OneDrive/Desktop/Git/recipeRecommender/recipeData.pickle')
+st.session_state['recipeDF'] = pd.read_pickle('C:/Users/bradl/OneDrive/Desktop/Git/recipeRecommender/recipeDataFinal.pickle')
 st.session_state['getRecs'] = ""
 
 #Formatting
@@ -35,6 +42,13 @@ recButton = st.button("Get recommendations")
 #if button pushed
 if recButton:
 	st.write(st.session_state['userInput'])
+	instructionButton = st.button("Click for instructions")
 
-	st.table(createRecommendations(5, st.session_state['userInput'], st.session_state['recipeDF']))
+	recs = createRecommendations(5, st.session_state['userInput'], st.session_state['recipeDF'])
+
+	st.table(recs[['recipe','cook time','url']])
+	with st.sidebar:
+		st.write("Instructions for relevant recipes: ")
+		for instruction in recs['instructions']:
+			st.markdown(instruction)
 
